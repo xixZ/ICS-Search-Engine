@@ -8,7 +8,7 @@ import views.html.*;
 public class Application extends Controller {
 
     public Result index() {
-        return redirect("http://localhost:9000/assets/WebUI/index.html");
+        return redirect("http://52.36.193.45/assets/WebUI/index.html");
     }
 
 }
