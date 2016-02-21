@@ -20,7 +20,10 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.StringTokenizer;
+import java.util.TreeMap;
+
 import jdk.internal.util.xml.impl.Pair;
+
 import java.util.Map.Entry;
 import java.util.Scanner;
 import java.util.Set;
@@ -31,41 +34,77 @@ public class Main {
         IndexBuilder iB = new IndexBuilder();
 
     	int docID = 0;
-		int wordCount = 0;
+		int wordPos = 0;
+		
+		Map <String,Posting> temp_table = new TreeMap<>();
 		//===================================READ FILE
-		try (BufferedReader br = new BufferedReader(new FileReader("./file/myfile1.txt"))) {
+		try (BufferedReader br = new BufferedReader(new FileReader("./file/myfile0.txt"))) {
 		    for(String line; (line = br.readLine()) != null; ) {
-		        if(line.equals("##--------------------------------------------------------##")){
-		        	//System.out.println("Page #"+cnt+": "+wordsCnt);
+		        if(line.equals("##------------------URL-------------------------##")){
+		        	if(docID%10000==0){
+			        	iB.buildIndexForaChunk(temp_table);
+			        	temp_table.clear();
+			        }
 		        	docID++;
-		        	wordCount=0;
+		        	wordPos=0;
+		        	
+		        }else if(line.equals("##-----------------TITLE------------------------##")){
+		        	
+		        }else if(line.equals("##------------------TEXT------------------------##")){
+		        	
 		        }else{
-		    		String[] tokens= iB.tokenizeFile(line);	
-		    		iB.buildIndex(tokens, docID, wordCount);
-		    		wordCount+=tokens.length;
+		    		for(String i:iB.tokenizeFile(line)){
+			    		if(i.length()>1){
+			    			wordPos++;
+				    		if(!temp_table.containsKey(i)){//new word for big table
+				    			Posting post = new Posting();
+								post.wordFreq=1;
+								Map <Integer, ArrayList<Integer>> docAndPosition = new HashMap<>();
+				    			ArrayList<Integer> newList = new ArrayList<>();
+				    			newList.add(wordPos);
+				    			docAndPosition.put(docID, newList);
+				    			post.posting=docAndPosition;
+				    			temp_table.put(i, post);
+				    		}else{//existing word for big table
+				    			temp_table.get(i).wordFreq++;
+				    			if(temp_table.get(i).posting.containsKey(docID)){//the word has the page record
+				    				temp_table.get(i).posting.get(docID).add(wordPos);
+								}else{//the word does not have the page record
+									ArrayList<Integer> newList = new ArrayList<>();
+				    				newList.add(wordPos);
+				    				temp_table.get(i).posting.put(docID, newList);
+								}
+				    		}
+			    		}
+		    		}
 		        }
 		    }
 		}
+		//add the remaining to table
+		iB.buildIndexForaChunk(temp_table);
+    	temp_table.clear();
+    	
+    	
+    	//======================================================================================================
+    	//======================================在这下面改个字母可以打出来 ：）
 		
+		//iB.storeMap(iB.revertedIndex, '1');
+		HashMap<String, Posting> testMap1 = iB.readMap('a');
 		
-		
-		//Store map and read Map
-		storeMap(iB.revertedIndex, 1);
-		HashMap<String, Posting> testMap = readMap(1);
-		
-		//TRY this for printing disk storage map keys
-		for(String i:testMap.keySet()){
-			System.out.println(i);
+
+	
+		for(String i:testMap1.keySet()){
+			System.out.print(i+": Fre: "+testMap1.get(i).wordFreq+" ");
+			for(int j : testMap1.get(i).posting.keySet()){//doc id
+				System.out.print("(docID: "+j+" ");
+				for(int k : testMap1.get(i).posting.get(j)){
+					System.out.print(" - "+k);
+				}
+				System.out.print(") ");
+			}
+			System.out.println();
 		}
-		
-		//------>
-		//TRY this for printing memory storage map keys 
-		//for(String i:iB.revertedIndex.keySet()){
-		//	System.out.println(i);
-		//}
-		
-		
-		
+
 		/*
 		Scanner user_input = new Scanner(System.in);
 		//user input:
@@ -93,27 +132,6 @@ public class Main {
 			}
 		}
 		*/
-    }
-    public static void storeMap(HashMap<String, Posting> map, Integer tableNumber){
-	    //write to file 
-	    try{
-	    	FileOutputStream fos=new FileOutputStream("./file/table"+tableNumber.toString()+".txt");
-	        ObjectOutputStream oos=new ObjectOutputStream(fos);
-	        oos.writeObject(map);
-	        oos.close();
-	        fos.close();
-	    }catch(Exception e){}
-	}
-	public static HashMap<String, Posting> readMap(Integer tableNumber) throws IOException{
-		HashMap<String,Posting> mapInFile = new HashMap<String,Posting>();
-   		try{
-            FileInputStream fis=new FileInputStream("./file/table"+tableNumber.toString()+".txt");
-            ObjectInputStream ois=new ObjectInputStream(fis);
-            mapInFile.putAll((HashMap<String,Posting>)ois.readObject());
-            ois.close();
-            fis.close();
-        }catch(Exception e){}
-   		return mapInFile;
-	}
 		
+    }	
 }
