@@ -40,17 +40,34 @@ public class Main {
 		        	docID++;
 		        	wordCount=0;
 		        }else{
-		    		String[] tokens= iB.tokenizeFile(line);
-		    		
+		    		String[] tokens= iB.tokenizeFile(line);	
 		    		iB.buildIndex(tokens, docID, wordCount);
-		    		
 		    		wordCount+=tokens.length;
 		        }
 		    }
 		}
 		
-		Scanner user_input = new Scanner(System.in);
 		
+		
+		//Store map and read Map
+		storeMap(iB.revertedIndex, 1);
+		HashMap<String, Posting> testMap = readMap(1);
+		
+		//TRY this for printing disk storage map keys
+		for(String i:testMap.keySet()){
+			System.out.println(i);
+		}
+		
+		//------>
+		//TRY this for printing memory storage map keys 
+		//for(String i:iB.revertedIndex.keySet()){
+		//	System.out.println(i);
+		//}
+		
+		
+		
+		/*
+		Scanner user_input = new Scanner(System.in);
 		//user input:
 		String query1;
 		System.out.println("Enter your query please, dude: ");
@@ -75,30 +92,26 @@ public class Main {
 				}	
 			}
 		}
-		
+		*/
     }
-    public void storeMap(HashMap<String, Posting> map, Integer tableNumber){
+    public static void storeMap(HashMap<String, Posting> map, Integer tableNumber){
 	    //write to file 
 	    try{
-	    File file=new File("./file/tables/table"+tableNumber.toString());
-	    FileOutputStream fos=new FileOutputStream(file);
+	    	FileOutputStream fos=new FileOutputStream("./file/table"+tableNumber.toString()+".txt");
 	        ObjectOutputStream oos=new ObjectOutputStream(fos);
 	        oos.writeObject(map);
-	        oos.flush();
 	        oos.close();
 	        fos.close();
 	    }catch(Exception e){}
 	}
-	public static HashMap<String, Posting> PRINTmap(String[] args) throws IOException{
+	public static HashMap<String, Posting> readMap(Integer tableNumber) throws IOException{
 		HashMap<String,Posting> mapInFile = new HashMap<String,Posting>();
    		try{
-            File toRead=new File("D:\\test\\hashmap\\mapOfmyfile558");
-            FileInputStream fis=new FileInputStream(toRead);
+            FileInputStream fis=new FileInputStream("./file/table"+tableNumber.toString()+".txt");
             ObjectInputStream ois=new ObjectInputStream(fis);
             mapInFile.putAll((HashMap<String,Posting>)ois.readObject());
             ois.close();
             fis.close();
-
         }catch(Exception e){}
    		return mapInFile;
 	}
