@@ -18,6 +18,7 @@ public class IndexBuilder {
     HashMap<String, Posting> revertedIndex = new HashMap<>();
     
     IndexBuilder(){//INIT
+    	storeURL_Map(null,'$');//$ table is for urls
     	for(char i = '0'; i <= '9';i++) {
     		//File varTmpDir = new File("./file/tables/table_"+i+".txt");
     		//if(!varTmpDir.exists())
@@ -34,9 +35,8 @@ public class IndexBuilder {
     	char lastChar = '~';
     	for(String i : tempTable.keySet() ){
     		if(lastChar!=i.charAt(0)){
-    			if(lastChar!='~'){
+    			if(lastChar!='~')
     				storeMap(revertedIndex,lastChar);
-    			}
     			revertedIndex.clear();
     			revertedIndex = readMap(i.charAt(0));
     			lastChar=i.charAt(0);
@@ -51,7 +51,8 @@ public class IndexBuilder {
 				}
 			}
 		}
-    	storeMap(revertedIndex,lastChar);
+    	if(lastChar!='~')
+    		storeMap(revertedIndex,lastChar);
 		revertedIndex.clear();
     }
     
@@ -73,7 +74,7 @@ public class IndexBuilder {
 	    }catch(Exception e){}
 	}
 	public HashMap<String, Posting> readMap(char prefix) throws IOException{
-		HashMap<String,Posting> mapInFile = new HashMap<String,Posting>();
+		HashMap<String,Posting> mapInFile = new HashMap<>();
    		try{
             FileInputStream fis=new FileInputStream("./file/tables/table_"+prefix+".txt");
             ObjectInputStream ois=new ObjectInputStream(fis);
@@ -83,4 +84,48 @@ public class IndexBuilder {
         }catch(Exception e){}
    		return mapInFile;
 	}
+	public void storeURL_Map(Map<Integer, String> map, char prefix){
+	    //write to file 
+	    try{
+	    	FileOutputStream fos=new FileOutputStream("./file/tables/table_"+prefix+".txt");
+	        ObjectOutputStream oos=new ObjectOutputStream(fos);
+	        oos.writeObject(map);
+	        oos.flush(); 
+	        oos.close();
+	        fos.close();
+	    }catch(Exception e){}
+	}
+	public Map<Integer, String> readURL_Map(char prefix) throws IOException{
+		Map<Integer, String> mapInFile = new HashMap<>();
+   		try{
+            FileInputStream fis=new FileInputStream("./file/tables/table_"+prefix+".txt");
+            ObjectInputStream ois=new ObjectInputStream(fis);
+            mapInFile.putAll((Map<Integer, String>)ois.readObject());
+            ois.close();
+            fis.close();
+        }catch(Exception e){}
+   		return mapInFile;
+	}
+	
+    public void printIndextTable(char prefix) throws IOException{
+		HashMap<String, Posting> testMap1 = readMap(prefix);
+		for(String i:testMap1.keySet()){
+			System.out.print(i+": Fre: "+testMap1.get(i).wordFreq+" ");
+			for(int j : testMap1.get(i).posting.keySet()){//doc id
+				System.out.print("(docID: "+j+" ");
+				for(int k : testMap1.get(i).posting.get(j)){
+					System.out.print(" - "+k);
+				}
+				System.out.print(") ");
+			}
+			System.out.println();
+		}
+    }
+    public void printURL() throws IOException{
+    	Map<Integer, String> urlMap = readURL_Map('$');
+		for(int i:urlMap.keySet())
+			System.out.println("DocID:  "+i+": "+urlMap.get(i));
+    }
+
+	
 }

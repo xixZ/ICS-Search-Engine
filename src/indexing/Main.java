@@ -37,9 +37,11 @@ public class Main {
 		int wordPos = 0;
 		
 		Map <String,Posting> temp_table = new TreeMap<>();
+		Map <Integer,String> docID_URL = new HashMap<>();
+
 		//===================================READ FILE
 		Integer fileNum = 0;
-		while(fileNum < 10){
+		while(fileNum < 1){
 			System.out.println("build index for file " + fileNum.toString());
 			try (BufferedReader br = new BufferedReader(new FileReader("./file/myfile" + fileNum.toString() + ".txt"))) {
 				for (String line; (line = br.readLine()) != null; ) {
@@ -50,7 +52,7 @@ public class Main {
 						}
 						docID++;
 						wordPos = 0;
-
+			        	if((line = br.readLine()) != null) docID_URL.put(docID, line);
 					} else if (line.equals("##-----------------TITLE------------------------##")) {
 
 					} else if (line.equals("##------------------TEXT------------------------##")) {
@@ -81,6 +83,7 @@ public class Main {
 							}
 						}
 					}
+					//if(docID==3)break;break;
 				}
 				br.close();
 			}
@@ -88,17 +91,16 @@ public class Main {
 		}
 		//add the remaining to table
 		iB.buildIndexForaChunk(temp_table);
+		iB.storeURL_Map(docID_URL, '$');
     	temp_table.clear();
+    	docID_URL.clear();
     	
     	
-    	//======================================================================================================
-    	//======================================��������ĸ���ĸ���Դ���� ����
-		
-		//iB.storeMap(iB.revertedIndex, '1');
-		HashMap<String, Posting> testMap1 = iB.readMap('a');
-		
-
-	
+    	//iB.printURL();
+    	iB.printIndextTable('a');
+    	
+    	
+    	/*HashMap<String, Posting> testMap1 = iB.readMap('a');
 		for(String i:testMap1.keySet()){
 			System.out.print(i+": Fre: "+testMap1.get(i).wordFreq+" ");
 			for(int j : testMap1.get(i).posting.keySet()){//doc id
@@ -109,8 +111,16 @@ public class Main {
 				System.out.print(") ");
 			}
 			System.out.println();
-		}
-
+		}*/
+    	/*Map<Integer, String> urlMap = iB.readURL_Map('$');
+		for(int i:urlMap.keySet())
+			System.out.println("DocID:  "+i+": "+urlMap.get(i));
+    	*/
+    	//======================================================================================================
+    	//======================================��������ĸ���ĸ���Դ���� ����
+		
+		//iB.storeMap(iB.revertedIndex, '1');
+		
 		/*
 		Scanner user_input = new Scanner(System.in);
 		//user input:
@@ -138,6 +148,6 @@ public class Main {
 			}
 		}
 		*/
-		
-    }	
+    }
+
 }
