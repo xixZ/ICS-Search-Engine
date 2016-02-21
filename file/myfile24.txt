@@ -1,0 +1,1909 @@
+##------------------URL-------------------------##
+http://www.ics.uci.edu/~djp3/classes/2012_09_INF241/assets/js/
+##-----------------TITLE------------------------##
+Index of /~djp3/classes/2012_09_INF241/assets/js
+##------------------TEXT------------------------##
+Index of /~djp3/classes/2012_09_INF241/assets/js
+NameLast modifiedSizeDescriptionParent Directory   -  bootstrap.js27-Sep-2012 13:44   55K bootstrap.min.js27-Sep-2012 13:44   25K 
+Apache/2.2.15 (CentOS) Server at www.ics.uci.edu Port 80
+##------------------URL-------------------------##
+http://www.ics.uci.edu/~djp3/classes/2012_09_INF241/assets/img/
+##-----------------TITLE------------------------##
+Index of /~djp3/classes/2012_09_INF241/assets/img
+##------------------TEXT------------------------##
+Index of /~djp3/classes/2012_09_INF241/assets/img
+NameLast modifiedSizeDescriptionParent Directory   -  glyphicons-halflings-white.png27-Sep-2012 13:44  8.6K glyphicons-halflings.png27-Sep-2012 13:44   12K turkey.jpg30-Sep-2012 16:30   49K 
+Apache/2.2.15 (CentOS) Server at www.ics.uci.edu Port 80
+##------------------URL-------------------------##
+http://www.ics.uci.edu/~djp3/classes/2012_09_INF241/assets/css/
+##-----------------TITLE------------------------##
+Index of /~djp3/classes/2012_09_INF241/assets/css
+##------------------TEXT------------------------##
+Index of /~djp3/classes/2012_09_INF241/assets/css
+NameLast modifiedSizeDescriptionParent Directory   -  bootstrap-responsive.css27-Sep-2012 13:44   21K bootstrap-responsive.min.css27-Sep-2012 13:44   16K bootstrap.css27-Sep-2012 13:44  115K bootstrap.min.css27-Sep-2012 13:44  107K bootstrap.min.css.orig27-Sep-2012 13:44   96K 
+Apache/2.2.15 (CentOS) Server at www.ics.uci.edu Port 80
+##------------------URL-------------------------##
+http://www.ics.uci.edu/~djp3/classes/2015_03_ICS163/
+##-----------------TITLE------------------------##
+Index of /~djp3/classes/2015_03_ICS163
+##------------------TEXT------------------------##
+Index of /~djp3/classes/2015_03_ICS163
+NameLast modifiedSizeDescriptionParent Directory   -  Lectures/02-Jun-2015 16:44    -  admin.html31-Mar-2015 13:05   15K assets/06-Mar-2015 12:30    -  calendar.html08-Jun-2015 23:28   50K quizzes/31-Mar-2015 14:17    -  structure.html31-Mar-2015 13:03   19K tasks/09-Jun-2015 09:25    -  
+Apache/2.2.15 (CentOS) Server at www.ics.uci.edu Port 80
+##------------------URL-------------------------##
+http://www.ics.uci.edu/~djp3/classes/2006_01_01_ICS290/
+##-----------------TITLE------------------------##
+UBICOMP 290: Patterson : Recent Research in Ubiquitous Computing
+##------------------TEXT------------------------##
+UBICOMP 290 (ICS 290) Winter 2006 
+ Recent Research in Ubiquitous Computing
+This reading group will review recent literature in the Ubiquitous, Pervasive, CHI and other  communities. The emphasis will be on developing
+  a familiarity with trends and directions being developed by active
+  researchers.  This is a lunch friendly, PowerPoint unfriendy meeting. This is also a forum for students to present practice talks and get feedback as the need arises (PP allowed in that case). This
+  class is being moderated by Asst. Prof. Don Patterson 
+This quarter we will be looking at work from the
+  previous  ISWC 2005, and CHI2005 conferences. 
+The class meets Tuesdays from noon to 1pm in
+  ICS 136. 
+Last quarter's web page is here. 
+Reading Schedule
+WeekPaperSourceLead DiscussorComments11/10/2006Organization Meeting Don21/17/2006 User-Extension of Physical Interfaces  From Interaction to Participation: Configuring Space Through Embodied 
+        InteractionUBICOMP 2005 AmandaLeft Over From Last Quarter Extending tangible interfaces for education: digital montessori-inspired manipulativesCHI 2005 Eric 31/24/2006Awareness  DeDe: design and evaluation of a context-enhanced mobile messaging systemCHI 2005 Sharon Privacy and proportionality: adapting legal evaluation techniques to inform design in ubiquitous computingCHI 2005 Nick 41/31/2006Awareness  Digital Family Portrait Field Trial: Support for Aging in PlaceCHI 2005 Sharon Who gets to know what when: configuring privacy permissions in an awareness applicationCHI 2005 Sameerlocal visiting speaker 52/7/2006Mobile Users : New Patterns   Children and emerging wireless technologies: investigating the potential for spatial practiceCHI 2005 Jen Exploring technology adoption and use through the lens of residential mobilityCHI 2005 David62/14/2006Inspiration from Paper  Documents at Hand: Learning from Paper to Improve Digital TechnologiesCHI 2005 Nick?Paper windows: interaction techniques for digital paperCHI 2005 Eric 72/21/2006Location Discovery and Disclosure   Analysis of Movement and Mobility of Wireless Network UsersISWC 2005 DonLocation disclosure to social relations: why, when, & what people want to shareCHI 2005 Sharon82/28/2006Does it suck or rock?   Artful systems in the homeCHI 2005 JenUrban probes: encountering our emerging urban atmospheresCHI 2005 Amanda?93/7/2006Sameer on the ropes  Sameer presents an experiment   103/14/2006Gesture Recognition  Incorporating Ultrasonic Hand Tracking in Motion Analysis Based Recognition of Manipulative GesturesISWC 2005 Nick?Recognizing Mimicked Autistic Self-Stimulatory Behaviors Using HMMsISWC 2005 David   Future Work   Kukkia and Vilkas: Kinetic Electronic GarmentsISWC 2005 Jen?A comparison of techniques for multi-display reachingCHI 2005 Eric   
+CHI Papers that did not receive any love:
+prefuse: a toolkit for interactive information visualization
+participatory design of an orientation aid for amnesics
+How to make secure email easier to use. 
+Examining Task engagement in sensor-based statistical models of human interruptibility
+EyeWindows: evaluation of eye-controlled zooming windows for focus selection
+Making space for stories: ambiguity in the design of personal communication systems
+tranStricks:physically manipulatable virtual connections
+A study on the manipulation of 2D objects in a projector/camera-based augmented reality environment 
+
+
+LUCI
+
+
+Information and Computer 
+Science
+University of California, 
+Irvine
+Irvine, CA 92697-3425
+##------------------URL-------------------------##
+http://www.ics.uci.edu/~djp3/classes/2005_09_ICS290/
+##-----------------TITLE------------------------##
+290 Patterson
+##------------------TEXT------------------------##
+Recent Trends in Ubiquitous Computing
+This reading group will review recent literature in the Ubiquitous and 
+Pervasive Computing communities. The emphasis will be on developing a 
+familiarity with trends and directions being developed by active researchers. 
+This class meets Mondays from noon to 1pm in ICS 136. This is a lunch friendly, 
+PowerPoint unfriendy meeting. This class is being moderated by Prof. Don Patterson 
+Reading Schedule
+WeekPaperSourceLead DiscussorComments110/3/2005Organization Meeting Activity Recognition210/10/2005Simultaneous Tracking and Activity Recognition (STAR)Pervasive 2005 NickFine-Grained Activity Recognition by Aggregating Abstract Object 
+    Usagepre-ISWC 2005 DonDon's Practice Talk Beacon-Based Localization310/17/2005Place 
+      Lab: Device Positioning Using Radio Beacons in the WildPervasive 2005 NickDon at ISWC(Japan)Accurate 
+      GSM Indoor LocalizationUBICOMP 2005 AmirAmanda Phase IIPlaces and Mapping410/24/2005Self-Mapping in 802.11 Location SystemsUBICOMP 2005 DonAmanda Phase IILearning and Recognizing the Places We GoUBICOMP 2005 SharonLeveraging Infrastructure510/31/2005Living for the Global City: Mobile Kits, Urban Interfaces and 
+    UbicompUBICOMP 2005 AmandaParasitic Mobility for Pervasive Sensor NetworksPervasive 2005 DonUser Interface611/7/2005Fast and Robust Interface Generation for Ubiquitous ApplicationsUBICOMP 2005 ZubinTo Frame or Not to Frame: The Role and Design of Frameless Displays in 
+      Ubiquitous ApplicationsUBICOMP 2005 EricDon at DARPA (Maryland)Privacy and Negotiation711/14/2005Control, Deception and Communication: Evaluating the Deployment of a 
+      Location-Enhanced Messaging ServiceUBICOMP2005SharonA Formal Model of Obfuscation and Negotiation for Location PrivacyPervasive 2005 AmandaSubversion and Gaming811/21/2005Preventing Camera Recording by Designing a Capture-Resistant 
+      EnvironmentUBICOMP 2005 DonPicking Pockets on the Lawn: The Development of Tactics and Strategies 
+      in a Mobile GameUBICOMP 2005 NickEnd-User Ubiquity911/28/2005u-Texture: Self-Organizable Universal Pannels for Creating Smart 
+      SurroundingsUBICOMP 2005 SharonFrom Interaction to Participation: Configuring Space Through Embodied 
+      InteractionUBICOM2005Amanda
+
+
+Information and Computer 
+ScienceUniversity of California, 
+IrvineIrvine, CA 92697-3425
+##------------------URL-------------------------##
+http://www.ics.uci.edu/~djp3/classes/2015_06_FutureMoney/
+##-----------------TITLE------------------------##
+Index of /~djp3/classes/2015_06_FutureMoney
+##------------------TEXT------------------------##
+Index of /~djp3/classes/2015_06_FutureMoney
+NameLast modifiedSizeDescriptionParent Directory   -  Lectures/11-Jun-2015 11:45    -  admin.html22-Apr-2015 14:33   15K assets/12-Jul-2015 13:02    -  calendar.html26-Jul-2015 05:24   86K quizzes/22-Apr-2015 14:33    -  syllabus.html12-Jul-2015 12:45   21K tasks/11-Jun-2015 11:47    -  
+Apache/2.2.15 (CentOS) Server at www.ics.uci.edu Port 80
+##------------------URL-------------------------##
+http://www.ics.uci.edu/~djp3/classes/2013_09_INF133/
+##-----------------TITLE------------------------##
+Index of /~djp3/classes/2013_09_INF133
+##------------------TEXT------------------------##
+Index of /~djp3/classes/2013_09_INF133
+NameLast modifiedSizeDescriptionParent Directory   -  Lectures/31-Mar-2015 19:37    -  admin.html19-Jun-2013 13:35   13K assets/15-Oct-2013 07:59    -  calendar.html05-Dec-2013 11:14   40K structure.html26-Sep-2013 09:15   12K task_01.html26-Sep-2013 07:07  5.4K task_02.html26-Sep-2013 07:12  5.1K task_03.html26-Sep-2013 07:25  6.0K task_03_example.html26-Sep-2013 07:16  163  task_04.html26-Sep-2013 07:29  4.9K task_08.html15-Oct-2013 06:45  7.9K task_08_example.html01-Oct-2013 05:45  440  task_11.html15-Oct-2013 07:47  6.5K task_11_example.html15-Oct-2013 07:02  284  task_14.html12-Nov-2013 14:00   11K task_19.html25-Nov-2013 09:04  6.6K task_21.html25-Nov-2013 08:42  9.1K task_24.html06-Dec-2013 18:01  7.7K 
+Apache/2.2.15 (CentOS) Server at www.ics.uci.edu Port 80
+##------------------URL-------------------------##
+http://www.ics.uci.edu/~djp3/classes/2011_09_Research/
+##-----------------TITLE------------------------##
+Patterson Research Fall 2011
+##------------------TEXT------------------------##
+Patterson Research
+Fall 2011
+Department of Informatics
+Donald Bren School of Information and Computer Sciences 
+
+  Week 2 
+  
+    Friday (10/7):
+    Discussion:
+      
+        We introduced the people that were in the room and basic research interests.
+          We confirmed a weekly meeting on Wednesday from 4-5
+          MS Surface: we talked about buying an MS Surface 2 for fun.
+          Funding:  We went over grants and funding status
+          We talked about making sure that everyone signs up for research credit.
+          We talked about creating a mailing list for the research group.  This email was sent to that mailing list.  Once Mingming is registered he should be getting the mail.
+          We talked about these mailing lists  luci-lab@ics.uci.edu, the blah-blah@ics.uci.edu and the hackers@ics.uci.edu.
+      
+    
+    Action Items for next week:
+      
+        Everyone:
+        Send a weekly summary and goals for the next week by Tuesday at midnight (before the next meeting) 
+        Don:
+        Set up mailing list
+          Contact Thomas Strang about partnering on InterchangeContact John Krumm about partnering on InterchangeSet up a schedule for the research meetingsSend Mingming papers and data from AIGR
+          Read Vrishti's Phase II draft and give her feedback
+        
+         Nitin:
+         Do a literature review on Interchange to make sure someone hasn't done thisStart to write a lit review based on thisFigure out how to run ns3
+            
+          
+         Mingming:
+         Review the previous work on AIGR and prepare a proposal to analyze the latest baby data.
+        Vrishti:
+         Rewrite paper based on Don's feedbackFigure out Phase II schedule
+            
+          
+         Julie/Marcel:
+         Get photos and artifacts ready for presentation next weekSend Don a schedule for the quarter for project
+            
+          
+      
+    
+  
+
+
+  Week 3 
+  
+    Wednesday  (10/12):
+    Plan:
+      
+        Everyone give an update
+        Marcel and Julie show artifacts
+      
+    
+    Discussion:    
+    Action Items:
+      
+        Everyone:
+        Send an update of previous work and plans for future weeks by Tuesday 10/18Review the next draft of Vrishti's Phase II paper and prepare some recommendations for her
+        Don:
+        Send out CHI paper submissions to group for those who are interested.          
+          Follow up with Thomas about 802.11p code
+          See if we can get John Krumm in on the Interchange action
+        
+         Nitin:
+        Simulate some car networking in ns3 for next weekPut together the references found into the literature review draft - send out with update
+         Mingming:
+        Schedule a meeting with Don to go over questions about AIGR papers and structure of svn repositorySend Don a copy of paper that was rejected for feedback
+        Vrishti:
+        Rewrite the Phase II paper for next week with a focus on creating a consistent argument throughout the paper and incorporating the results of the GiftBox study. Send out a copy my Monday night so everyone can read it.Find out if Prof. Mazmanian will agree to be on Phase II committeeSend out proposed schedule modifications for Phase II to committee and get their agreeement
+         Julie/Marcel:
+        Prepare to finish going over the vending machine photographs from last week.Finalize the list of tasks that are going to be supportedPrepare to discuss next week
+      
+    
+  
+
+
+  Week 4
+  
+    Wednesday (10/19):
+    Plan:
+      
+        Updates 
+        Julie and Marcel finish contextual inquiry presentation and task list presentation.
+        Give feedback to Vrishti on Phase II draft
+        Discuss "coffee shop" problem
+      
+    
+    Action Items:
+      
+        Everyone: 
+        Send an update of previous work and plans for future weeks by Tuesday 10/25Review the next draft of Vrishti's Phase II paper and prepare some recommendations for her
+        Don: 
+        Follow up with Thomas and JohnMeet with Mingming
+         Nitin: 
+        Change gears and look into simulating with SUMOSee about building SUMO outside of WindowsRead 5 additional papers on the reading list and update lit review
+         Mingming: 
+        Schedule a meeting with Don to go over questions dataFinish reading papers on temporal modelingBrainstorm ideas about temporal modeling extensions to current work
+        Vrishti: 
+        Rewrite the Phase II paper for next week. Also rewrite and then rewrite again.Send out proposed schedule modifications for Phase II to committee and get their agreeement
+         Julie/Marcel: 
+        We decided on 4 interactions for paying on the machine
+            cashcalling in with a phone and typing in a dollar amount after you have an accountscanning a QR code that automatically deducts a set dollar amount from an account (like a check)transferring money on the website to the machine
+          For next week please prep  detailed walk-throughs of scenarios and a lo-fi protoype or two that the group can test out
+      
+    
+  
+
+
+  Week 5: 
+  
+    Wednesday (10/26):
+    Plan:
+      
+        Updates
+        Mingming present current thinking about baby gestures
+        Julie/Marcel run us through a lo-fi prototype or two
+      
+    
+    Action Items:
+      
+        Everyone: 
+        Send an update of previous work and plans for future weeks by Tuesday 11/01Review the next draft of Vrishti's Phase II paper and prepare some recommendations for her
+        Don: 
+        Follow up with Thomas about SUDO modificationsMeet with Julie and MarcelGet Mingming on the IRB
+         Nitin: 
+        Investigate the AIM4 simulator
+         Mingming: 
+        Review WEKAFinish reading papers on temporal modelingBrainstorm ideas about temporal modeling extensions to current workVisualize data in MatlabPrepare to finish presentation next week
+        Vrishti: 
+        Rewrite the Phase II paper for next week. Also rewrite and then rewrite again.
+         Julie/Marcel: 
+        We decided on 4 interactions for paying on the machine
+            cashcalling in with a phone and typing in a dollar amount after you have an accountscanning a QR code that automatically deducts a set dollar amount from an account (like a check)transferring money on the website to the machine
+          For next week please prep  detailed walk-throughs of scenarios and a lo-fi protoype or two that the group can test out
+      
+    
+  
+
+
+  Week 6: 
+  
+    Wednesday  (11/2):
+    Plan:
+      
+        Updates
+        Mingming present current thinking about baby gestures
+        Julie/Marcel run us through a lo-fi prototype or two
+      
+    
+  
+
+
+  
+    
+  
+
+
+  Week 7: 
+  
+    Wednesday (11/9):
+    Plan:
+      
+        Updates
+        Nitin present
+      
+    
+    Action Items:
+      
+        Everyone: 
+        Send an update of previous work and plans for future weeks by Tuesday 11/01Meet with Don individually before next Wednesday
+        Don: 
+        Email John and Thomas with updates
+         Nitin: 
+        Build a simple 2-lane intersections with standard timing to collect stats
+         Mingming: 
+        Take human subjects training for IRBTBD at meeting
+        Vrishti: 
+        Rewrite Phase II as a Pervasive paperTBD at meeting
+         Julie/Marcel: 
+        TBD at meeting
+      
+    
+  
+
+
+  Week 8: 
+  
+    Wednesday (11/16):
+    Plan:
+      
+        Updates
+        Vrishti present
+      
+    
+  
+
+
+  Week 9: 
+  
+    Wednesday (11/23):
+    Plan:
+      
+        Updates
+        Mingming present
+      
+    
+  
+
+
+  Week 10: 
+  
+    Wednesday (11/30):
+    Plan:
+      
+        Updates
+        Nitin present
+      
+    
+  
+
+
+  Finals Week: 
+  
+    Wednesday (12/7):
+ Plan:
+      
+         
+##------------------URL-------------------------##
+http://www.ics.uci.edu/~djp3/classes/2012_01_Research/
+##-----------------TITLE------------------------##
+Patterson Research Fall 2011
+##------------------TEXT------------------------##
+Patterson Research
+Winter 2012
+Department of Informatics
+Donald Bren School of Information and Computer Sciences 
+
+
+  
+    
+  
+
+
+  Week 1 
+  
+    Plan:
+      
+          
+      
+    
+    Minutes:
+      
+          
+      
+    
+    Action Items
+      
+        
+    
+  
+
+
+  Week 2 
+  
+    Plan:
+      
+          
+      
+    
+    Minutes:
+      
+          
+      
+    
+    Action Items
+      
+          
+      
+    
+  
+
+
+  Week 3 
+  
+    Plan:
+      
+          
+      
+    
+    Minutes:
+      
+          
+      
+    
+    Action Items
+      
+          
+      
+    
+  
+
+
+  Week 4
+  
+    Plan:
+      
+          
+      
+    
+    Minutes:
+      
+          
+      
+    
+    Action Items
+      
+          
+      
+    
+  
+
+
+  Week 5: 
+  
+    Plan:
+      
+          
+      
+    
+    Minutes:
+      
+          
+      
+    
+    Action Items
+      
+          
+      
+    
+  
+
+
+  Week 6: 
+  
+    Plan:
+      
+          
+      
+    
+    Minutes:
+      
+          
+      
+    
+    Action Items
+      
+          
+      
+    
+  
+
+
+  Week 7: 
+  
+    Plan:
+      
+          
+      
+    
+    Minutes:
+      
+          
+      
+    
+    Action Items
+      
+          
+      
+    
+  
+
+
+  Week 8: 
+  
+    Plan:
+      
+          
+      
+    
+    Minutes:
+      
+          
+      
+    
+    Action Items
+      
+          
+      
+    
+  
+
+
+  Week 9: 
+  
+    Plan:
+      
+          
+      
+    
+    Minutes:
+      
+          
+      
+    
+    Action Items
+      
+          
+      
+    
+  
+
+
+  Week 10: 
+  
+    Plan:
+      
+          
+      
+    
+    Minutes:
+      
+          
+      
+    
+    Action Items
+      
+          
+      
+    
+  
+
+
+  Finals Week: 
+  
+    Plan:
+      
+          
+      
+    
+    Minutes:
+      
+          
+      
+    
+    Action Items
+      
+         
+##------------------URL-------------------------##
+http://www.ics.uci.edu/~djp3/classes/2013_01_INF134/
+##-----------------TITLE------------------------##
+null
+##------------------TEXT------------------------##
+Hello World!
+##------------------URL-------------------------##
+http://www.ics.uci.edu/~djp3/classes/2008_09_26_CS221/
+##-----------------TITLE------------------------##
+Fall 2008: Computer Science 221 : Information Retrieval : Home
+##------------------TEXT------------------------##
+Computer Science  221: Information Retrieval: 
+  Home
+  Fall 2008 
+  Department of Informatics
+  Donald Bren School of Information and Computer Sciences 
+  University of California, Irvine 
+   
+    Discussions about this class
+  Loading...
+
+
+
+
+
+
+
+( Home ) | Administrative Policies  | Course Structure | Resources & Materials | Calendar 
+
+   From the catalog:
+   "Algorithms for the storage, retrieval, filtering, and classification of textual and multimedia data. The vector space model, Boolean and probabilistic queries, and relevance feedback. Latent semantic indexing; collaborative filtering; and relationship to machine learning methods."
+
+
+  Instructor: Professor Don Patterson
+  Email: djp3@ics.uci.edu
+  Lecture: M W F 9:00 - 9:50  
+  Classroom: DBH 1423 
+  Office Hours:
+  
+    By appointment 
+  
+
+
+  Teaching Assistant : None 
+  Email: N/A 
+  Discussion: N/A 
+  Classroom: N/A 
+  Office Hours: N/A 
+
+ 
+##------------------URL-------------------------##
+http://www.ics.uci.edu/~djp3/classes/2010_01_CS221/
+##-----------------TITLE------------------------##
+CS 221, Information Retrieval, Winter 2009-2010 Department of Informatics, UCI
+##------------------TEXT------------------------##
+Computer Science 221: Information Retrieval 
+Winter 2009-2010
+Department of Informatics
+Donald Bren School of Information and Computer Sciences 
+ Home | Administrative Policies  | Course Structure | Materials | Assignment Schedule 
+
+  From the catalog:
+   "Algorithms for the storage, retrieval, filtering, and classification of textual and multimedia data. The vector space model, Boolean and probabilistic queries, and relevance feedback. Latent semantic indexing; collaborative filtering; and relationship to machine learning methods."
+   
+  Information Retrieval is a *the* hot industry on the web today thanks to Google, Yahoo!, Bing and all of the other competitors out there both current and past. The amount of effort required to translate your 2 or 3 keywords into 5-10 relevant documents is enormous. During this class we will attempt to explore some of the complexities behind search.
+   
+
+
+  Lecture: T/TR 3:30-4:50 
+  Classroom: ICS 209 
+   
+  Discussion Section: N/A
+  Classroom: N/A 
+   
+  Instructor: Professor Don Patterson
+  Email: djp3@ics.uci.edu
+  Office Hours: F 2:00pm - 3:00pm DBH 5084 
+  	We'll try and use the EEE online chat-room this quarter.
+  https://eee.uci.edu/toolbox/chat/enter.php?id=1512 
+  
+
+
+
+  Teaching Assistant:None
+  Email: N/A
+  Office Hours/Discussion Section: N/A
+   
+  Reader: None 
+  Email: N/A
+  Office Hours: N/A
+  
+    
+    The reductions in spending at the Unviersity of California mean that we do not have TA support for this class.
+##------------------URL-------------------------##
+http://www.ics.uci.edu/~djp3/classes/2014_01_INF141/
+##-----------------TITLE------------------------##
+Index of /~djp3/classes/2014_01_INF141
+##------------------TEXT------------------------##
+Index of /~djp3/classes/2014_01_INF141
+NameLast modifiedSizeDescriptionParent Directory   -  Discussion/23-Jan-2014 13:32    -  Lectures/31-Mar-2015 19:36    -  admin.html10-Jan-2014 17:19   17K assets/11-Feb-2014 10:47    -  calendar.html14-Mar-2014 13:28   47K structure.html22-Jan-2014 14:16   15K tasks/15-Mar-2014 17:56    -  
+Apache/2.2.15 (CentOS) Server at www.ics.uci.edu Port 80
+##------------------URL-------------------------##
+http://www.ics.uci.edu/~djp3/classes/2014_09_INF133/
+##-----------------TITLE------------------------##
+Index of /~djp3/classes/2014_09_INF133
+##------------------TEXT------------------------##
+Index of /~djp3/classes/2014_09_INF133
+NameLast modifiedSizeDescriptionParent Directory   -  Lectures/14-Apr-2015 17:07    -  admin.html21-Oct-2014 09:58   16K assets/03-Nov-2014 10:20    -  calendar.html12-Dec-2014 16:41   63K old/29-Sep-2014 13:38    -  structure.html06-Oct-2014 15:56   17K tasks/12-Dec-2014 15:57    -  
+Apache/2.2.15 (CentOS) Server at www.ics.uci.edu Port 80
+##------------------URL-------------------------##
+http://www.ics.uci.edu/~djp3/classes/2012_09_UNISTU3/
+##-----------------TITLE------------------------##
+Index of /~djp3/classes/2012_09_UNISTU3
+##------------------TEXT------------------------##
+Index of /~djp3/classes/2012_09_UNISTU3
+NameLast modifiedSizeDescriptionParent Directory   -  Lectures/05-Dec-2012 15:04    -  admin.html02-Oct-2012 16:59   12K assets/02-Oct-2012 16:57    -  calendar.html05-Dec-2012 20:55   28K papers/03-Nov-2012 18:11    -  structure.html03-Oct-2012 09:54   10K transferExcludes.txt02-Oct-2012 16:57   17  transferExcludesStudents.txt02-Oct-2012 16:57   17  
+Apache/2.2.15 (CentOS) Server at www.ics.uci.edu Port 80
+##------------------URL-------------------------##
+http://www.ics.uci.edu/~djp3/classes/2006_03_30_ICS290/
+##-----------------TITLE------------------------##
+UBICOMP 290: Patterson : Recent Research in Ubiquitous Computing
+##------------------TEXT------------------------##
+UBICOMP 290 (ICS 290) Spring 2006 
+ Recent Research in Ubiquitous Computing
+This reading group will review recent literature in the Ubiquitous, Pervasive, CHI and other  communities. The emphasis will be on developing
+  a familiarity with trends and directions being developed by active
+  researchers.  This is a lunch friendly, PowerPoint unfriendy meeting. This is also a forum for students to present practice talks and get feedback as the need arises (PP allowed in that case). This
+  class is being moderated by Asst. Prof. Don Patterson 
+This quarter we will be looking at a mix of interesting papers and will be viewing some videos during class as well. 
+The class meets Tuesdays from noon to 1pm in
+  ICS 136. 
+Last quarter's web page is here. 
+Reading Schedule
+WeekPaperSourceLead DiscusserComments14/4/2006Organization Meeting Don24/11/2006Clean-up from last quarter   Kukkia and Vilkas: Kinetic Electronic GarmentsISWC 2005 Nickvideos also A comparison of techniques for multi-display reachingCHI 2005 Eric 34/18/2006Video screening  Mary Czerwinski (Microsoft) UW CSE   "From Scatter-brained to Focussed:User-Interface support for today's crazed information worker"    44/25/2006Video screening  Video screening: Feng Zhao (Microsoft) UW CSE some folks gone to CHI 2006 "Information Processing Sensor Networks: Challenges and Some Progress"    55/2/2006Practice Talk    Don Patterson UW CSE Phase II exam? LOCA Paper  65/9/2006Discussion  David Nguyen facilitating a discussion about elevator speeches   Don/Nick gone at Pervasive 2006     75/16/2006Video screening  Meredith Ringel Morris (Stanford) UW CSE "Supporting Effective Interaction with Tabletop Groupware"   85/23/2006Video screening  Amam Kansal (UCLA) UW CSE "Mobility for Enhancing Coverage Resolution in Sensor Networks"  95/30/2006 Paper   Making space for stories: ambiguity in the design of personal communication systemsCHI 2005 David106/6/2006Video screening  Saadi Lahlou, EDFStanford Back from the office of the future: Lessons learned for the design of augmented environments        James Fogarty (Carnegie Mellon)UW CSE "Constructing and Evaluating Sensor-based Statistical Models of Human Interruptibility"     
+ 
+
+
+LUCI
+
+
+Information and Computer 
+Science
+University of California, 
+Irvine
+Irvine, CA 92697-3425
+##------------------URL-------------------------##
+http://www.ics.uci.edu/~djp3/classes/2014_03_ICS163/
+##-----------------TITLE------------------------##
+Index of /~djp3/classes/2014_03_ICS163
+##------------------TEXT------------------------##
+Index of /~djp3/classes/2014_03_ICS163
+NameLast modifiedSizeDescriptionParent Directory   -  Lectures/21-May-2015 15:20    -  admin.html07-Apr-2014 15:54   17K assets/25-Mar-2014 14:11    -  calendar.html13-Jun-2014 17:03   43K quizzes/07-Apr-2014 15:55    -  structure.html07-Apr-2014 15:54   14K tasks/17-Jun-2014 12:27    -  
+Apache/2.2.15 (CentOS) Server at www.ics.uci.edu Port 80
+##------------------URL-------------------------##
+http://www.ics.uci.edu/~djp3/classes/2012_09_INF133/
+##-----------------TITLE------------------------##
+Index of /~djp3/classes/2012_09_INF133
+##------------------TEXT------------------------##
+Index of /~djp3/classes/2012_09_INF133
+NameLast modifiedSizeDescriptionParent Directory   -  Assignment04/16-Oct-2012 11:10    -  Assignment05/01-Nov-2012 09:28    -  Lectures/01-May-2014 13:12    -  admin.html01-Oct-2012 16:29   11K assets/27-Sep-2012 09:53    -  assignment_01.html01-Oct-2012 21:29  5.2K assignment_02.html04-Oct-2012 21:40  5.9K assignment_02_example.html11-Oct-2012 10:01  2.4K assignment_03.html11-Oct-2012 10:02  5.8K assignment_03_example.html11-Oct-2012 09:55  2.4K assignment_04.html23-Oct-2012 10:09  9.2K assignment_05.html01-Nov-2012 09:14  5.9K assignment_06.html29-Nov-2012 10:13  8.7K assignment_07.html13-Dec-2012 17:13  7.9K calendar.html10-Dec-2012 20:46   29K files/18-Oct-2012 09:35    -  structure.html13-Nov-2012 11:17   11K transferExcludes.txt27-Sep-2012 12:26   17  transferExcludesStudents.txt27-Sep-2012 12:26   17  
+Apache/2.2.15 (CentOS) Server at www.ics.uci.edu Port 80
+##------------------URL-------------------------##
+http://www.ics.uci.edu/prospective/vi/admissions/transfer/contact/student-affairs/contact/student-affairs/contact/student-affairs/contact/student-affairs/contact/student-affairs/contact/student-affairs/​
+##-----------------TITLE------------------------##
+Chuyển tiếp « TUYỂN SINH « BREN: Khoa học Thông tin và Điện toán « Đại học California Irvine
+##------------------TEXT------------------------##
+?>
+   
+   
+    
+
+        
+        
+            
+
+                BẰNG CẤPCƠ HỘINGHỀ NGHIỆP
+
+            
+        
+            
+                
+                
+            
+        
+            
+
+                ĐỜI SỐNG SINH VIÊNTUYỂN SINHLIÊN HỆ
+
+            
+        
+        
+
+        
+        
+            
+
+                TUYỂN SINH
+Thông tin chi tiết về yêu cầu tuyển sinh, hạn chót nộp đơn và chỉ dẫn làm cho đơn xin nhập học phong phú            
+            
+
+            
+
+                Sinh viên năm nhấtChuyển tiếpNhà ởHỗ trợ Tài chínhChỉ dẫn nộp đơn                    
+            
+                    
+            
+    Chuyển tiếp
+
+Bren:ICS có những thỏa thuận liên kết với nhiều trường cao đẳng cộng đồng California cho phép bạn tham gia những khóa học để giúp bạn không chỉ đáp ứng được những tiêu chí tuyển sinh mà còn phù hợp với những yêu cầu việc cấp bằng của chúng tôi. Nếu bạn chưa tìm được trường đại học để chuyển tiếp, hãy truy cập www.assist.org để xem những thỏa thuận liên kết mới nhất, đặc biệt là giữa trường cao đẳng cộng đồng của bạn với UC Irvine. Nếu bạn lên kế hoạch đúng, phần lớn các chuyên ngành học của chúng tôi hỗ trợ bạn khi bắt đầu đáp ứng những yêu cầu của chuyên ngành học ở hệ học cao hơn trong khóa học đầu tiên của bạn với tư cách là sinh viên của Bren:ICS và UCI.
+
+
+Một số trường cao đẳng cộng đồng như Orange Coast College, Long Beach City College, và Fullerton College có một chương trình hợp tác chuyên sâu và trực tiếp hơn với chúng tôi được gọi là Smart-ICS. Để biết thêm thông tin về thỏa thuận này , hãy ghé thăm Khoa Khoa học Điện toán (CS) ở một trong những trường cao đẳng cộng đồng này.
+
+
+Nhà trường cung cấp nhiều nguồn thông tin đa dạng dành cho sinh viên năm nhất cùng những thông tin chi tiết về mọi phương diện của quy trình tuyển sinh. Chúng tôi đặc biệt khuyến khích các bạn hãy cùng khám phá qua những kênh thông tin sau đây:
+
+
+
+Chuyên trang dành cho những ứng viên triển vọng: http://www.uci.edu/prospective.php
+
+
+Tuyển sinh: http://www.admissions.uci.edu/
+
+
+Những câu hỏi thường gặp: http://www.admissions.uci.edu/resources/faq.html 
+
+Xuất bản phẩm trên mạng: http://www.admissions.uci.edu/publications/online_publications.html 
+
+và đừng quên con vật lấy khước của chúng tôi, Peter the Anteater: http://www.uci.edu/peter/
+
+
+Hiện tại, số lượng sinh viên theo học hệ đại học ở Bren:ICS là 850 sinh viên trong tổng số gần 22.000 sinh viên UC Irvine. GPA bình quân đối với sinh viên năm nhất năm 2010 là 3,89, với điểm số SAT trung bình là 1822.
+
+
+                
+                    Chia sẻ
+                    |
+                    
+                    
+                    
+                    
+                
+                
+                
+            
+
+            
+
+        
+        
+        
+        
+            
+            
+                Language: 
+                English |
+                Chinese (Traditional) |
+                Korean |
+                Vietnamese            
+            
+        
+            
+            
+                Đại học California, Irvine - Irvine, CA 92697 : 949-824-5011
+
+                
+                    Góp ý & Thắc mắc |
+                    Chính sách về Quyền Riêng tư & Thông báo Pháp lý |
+                    Những thắc mắc về bản quyền |
+                    © 2016 UC Regents
+                
+
+            
+            
+            
+            
+                Site By Crisp
+##------------------URL-------------------------##
+http://www.ics.uci.edu/prospective/zh-tw/admissions/transfer/contact/student-affairs/contact/student-affairs/contact/student-affairs/contact/student-affairs/contact/student-affairs/contact/student-affairs/​
+##-----------------TITLE------------------------##
+轉學 « 入學 « 貝林： 資訊電腦科學 « 加州大學爾灣分校
+##------------------TEXT------------------------##
+?>
+   
+   
+    
+
+        
+        
+            
+
+                學位機會職場
+
+            
+        
+            
+                
+                
+            
+        
+            
+
+                生活入學聯絡方式
+
+            
+        
+        
+
+        
+        
+            
+
+                入學
+入學申請要求、申請期限，以及申請書撰寫秘訣            
+            
+
+            
+
+                新生轉學住宿獎助學金申請手續提示                    
+            
+                    
+            
+    轉學
+    	        
+	            
+	            貝林資科院和加州各社區大學訂有學分抵免協議，不但讓你修讀符合入學條件的課程，而且可抵免獲得本校文憑必要的學分。  如果你尚未申辦，請上www.assist.org網站，查詢目前就讀社區大學和加大爾灣分校簽訂的學分抵免協議。  如果規劃得宜，大部分科系就能在你進入貝林資科院和加大爾灣分校的第一季，讓你選讀高級必修課程。
+	            
+	            
+	            
+	            某些社區大學（例如Orange Coast College、Long Beach City College和Fullerton College）設有更直接專門的學分抵免方案，稱為Smart-ICS。  詳情請到這些社區大學資訊工程系的系辦親自洽詢。
+	            
+	            
+	             
+	          準新鮮人可在校內獲得豐富的資訊，以及所有入學程序的詳細說明。 我們特別鼓勵你詳讀以下網頁：
+	          
+	          
+	          
+	          準學生： http://www.uci.edu/prospective.php
+	          
+	          
+	          
+	          入學方式： http://www.admissions.uci.edu/
+	          
+	          
+	          
+	          常見問題： http://www.admissions.uci.edu/resources/faq.html 
+	          
+	          
+	          
+	          線上文件： http://www.admissions.uci.edu/publications/online_publications.html 
+	          
+    	       
+    	      
+    	      也別忘了本校的吉祥物食蟻獸Peter： http://www.uci.edu/peter/
+    	       
+    	      
+    	      
+    	      目前貝林資科院大學部共有850名學生，加大爾灣分校學生總數則將近22,000人。 2010年入學新生GPA平均分數是3.89，SAT平均分數是1822分。
+    	      
+
+                
+                    分享
+                    |
+                    
+                    
+                    
+                    
+                
+                
+                
+            
+
+            
+
+        
+        
+        
+        
+            
+            
+                Language: 
+                English |
+                Chinese (Traditional) |
+                Korean |
+                Vietnamese            
+            
+        
+            
+            
+                University of California, Irvine - Irvine, CA 92697 : 949-824-5011
+
+                
+                    問題與意見 |
+                    隱私權和法律聲明 |
+                    著作權查詢 |
+                    © 2016 UC Regents
+                
+
+            
+            
+            
+            
+                Site By Crisp
+##------------------URL-------------------------##
+http://www.ics.uci.edu/prospective/ko/admissions/transfer/contact/student-affairs/contact/student-affairs/contact/student-affairs/contact/student-affairs/contact/student-affairs/contact/student-affairs/​
+##-----------------TITLE------------------------##
+편입 « 입학 « BREN: 정보와 컴퓨터 과학(ICS) « 캘리포니아 대학교 어바인
+##------------------TEXT------------------------##
+?>
+   
+   
+    
+
+        
+        
+            
+
+                학위기회진로
+
+            
+        
+            
+                
+                
+            
+        
+            
+
+                대학 생활입학문의
+
+            
+        
+        
+
+        
+        
+            
+
+                입학
+자세한 지원 요건, 지원 마감일, 좋은 지원서를 만드는 요령            
+            
+
+            
+
+                신입생편입기숙사학자금 지원지원 요령                    
+            
+                    
+            
+    편입
+    	        
+	            
+	            Bren:ICS는 본교 입학 기준에 맞을 뿐 아니라 본교 학위 요건에도 적용되는 과정을 밟을 수 있는 캘리포니아 커뮤니티 칼리지와 공식학점인정협정을 맺고 있습니다.  아직 이렇게 학점을 받아본 적이 없다면, www.assist.org에서 여러분의 커뮤니티 칼리지와 UC 어바인 간에 특별히 맺은 최신 공식학점인정협정에 대해 살펴보십시오.  계획을 제대로 세우면, 여러분이 본교 대부분의 전공에서 Bren:ICS와 UCI 학생으로서 첫 학기에 들어와 전공과정의 전공필수과목을 시작할 때 많은 도움이 됩니다.
+	            
+	            
+	            
+	            오렌지 코스트 칼리지(Orange Coast College), 롱 비치 시티 칼리지(Long Beach City College), 풀러톤 칼리지(Fullerton College)와 같은 일부 커뮤니티 칼리지는 Smart-ICS라는 더욱 직접적이고 특화된 편입 프로그램을 실시하고 있습니다.  이 협정에 관한 자세한 내용이 궁금하시면 이들 커뮤니티 칼리지의 CS 부서에 문의하시기 바랍니다.
+	            
+	            
+	             
+	          본교는 예비 신입생들을 위한 풍부한 정보는 물론 입학 절차의 모든 측면에 관한 상세한 정보를 제공하고 있습니다. 특히 다음 부분을 살펴보실 것을 권장합니다.
+	          
+	          
+	          
+	          예비 학생: http://www.uci.edu/prospective.php
+	          
+	          
+	          
+	          입학: http://www.admissions.uci.edu/
+	          
+	          
+	          
+	          자주 묻는 질문(FAQ): http://www.admissions.uci.edu/resources/faq.html 
+	          
+	          
+	          
+	          온라인 출간물: http://www.admissions.uci.edu/publications/online_publications.html 
+	          
+    	       
+    	      
+    	      본교 마스코트인 개미핥기 피터(Peter the Anteater)도 잊지 마세요. http://www.uci.edu/peter/
+    	       
+    	      
+    	      
+    	      현재, Bren:ICS의 학부생 입학자 수는 850명이며, UC 어바인 전체로 하면 신입생이 총 22,000명 가까이 됩니다. 2010년에 입학한 신입생들의 GPA 평균은 3.89였고, SAT 평균 점수는 1,822점이었습니다.
+    	      
+
+                
+                    공유하기
+                    |
+                    
+                    
+                    
+                    
+                
+                
+                
+            
+
+            
+
+        
+        
+        
+        
+            
+            
+                Language: 
+                English |
+                Chinese (Traditional) |
+                Korean |
+                Vietnamese            
+            
+        
+            
+            
+                캘리포니아 대학교 어바인 - Irvine, CA 92697 : 949-824-5011
+
+                
+                    의견과 질문 |
+                    개인정보 보호정책과 법적 고지 |
+                    저작권 문의 |
+                    © 2016 UC Regents
+                
+
+            
+            
+            
+            
+                Site By Crisp
+##------------------URL-------------------------##
+http://www.ics.uci.edu/prospective/zh-tw/admissions/transfer/contact/student-affairs/contact/student-affairs/contact/student-affairs/contact/student-affairs/contact/student-affairs/contact/student-affairs/%E2%80%8B
+##-----------------TITLE------------------------##
+轉學 « 入學 « 貝林： 資訊電腦科學 « 加州大學爾灣分校
+##------------------TEXT------------------------##
+?>
+   
+   
+    
+
+        
+        
+            
+
+                學位機會職場
+
+            
+        
+            
+                
+                
+            
+        
+            
+
+                生活入學聯絡方式
+
+            
+        
+        
+
+        
+        
+            
+
+                入學
+入學申請要求、申請期限，以及申請書撰寫秘訣            
+            
+
+            
+
+                新生轉學住宿獎助學金申請手續提示                    
+            
+                    
+            
+    轉學
+    	        
+	            
+	            貝林資科院和加州各社區大學訂有學分抵免協議，不但讓你修讀符合入學條件的課程，而且可抵免獲得本校文憑必要的學分。  如果你尚未申辦，請上www.assist.org網站，查詢目前就讀社區大學和加大爾灣分校簽訂的學分抵免協議。  如果規劃得宜，大部分科系就能在你進入貝林資科院和加大爾灣分校的第一季，讓你選讀高級必修課程。
+	            
+	            
+	            
+	            某些社區大學（例如Orange Coast College、Long Beach City College和Fullerton College）設有更直接專門的學分抵免方案，稱為Smart-ICS。  詳情請到這些社區大學資訊工程系的系辦親自洽詢。
+	            
+	            
+	             
+	          準新鮮人可在校內獲得豐富的資訊，以及所有入學程序的詳細說明。 我們特別鼓勵你詳讀以下網頁：
+	          
+	          
+	          
+	          準學生： http://www.uci.edu/prospective.php
+	          
+	          
+	          
+	          入學方式： http://www.admissions.uci.edu/
+	          
+	          
+	          
+	          常見問題： http://www.admissions.uci.edu/resources/faq.html 
+	          
+	          
+	          
+	          線上文件： http://www.admissions.uci.edu/publications/online_publications.html 
+	          
+    	       
+    	      
+    	      也別忘了本校的吉祥物食蟻獸Peter： http://www.uci.edu/peter/
+    	       
+    	      
+    	      
+    	      目前貝林資科院大學部共有850名學生，加大爾灣分校學生總數則將近22,000人。 2010年入學新生GPA平均分數是3.89，SAT平均分數是1822分。
+    	      
+
+                
+                    分享
+                    |
+                    
+                    
+                    
+                    
+                
+                
+                
+            
+
+            
+
+        
+        
+        
+        
+            
+            
+                Language: 
+                English |
+                Chinese (Traditional) |
+                Korean |
+                Vietnamese            
+            
+        
+            
+            
+                University of California, Irvine - Irvine, CA 92697 : 949-824-5011
+
+                
+                    問題與意見 |
+                    隱私權和法律聲明 |
+                    著作權查詢 |
+                    © 2016 UC Regents
+                
+
+            
+            
+            
+            
+                Site By Crisp
+##------------------URL-------------------------##
+http://www.ics.uci.edu/prospective/en/admissions/transfer/contact/student-affairs/contact/student-affairs/contact/student-affairs/contact/student-affairs/contact/student-affairs/contact/student-affairs/%E2%80%8B
+##-----------------TITLE------------------------##
+Transfer « Admissions « Bren School of Information and Computer Sciences « University of California Irvine
+##------------------TEXT------------------------##
+?>
+   
+   
+    
+
+        
+        
+            
+
+                DegreesOpportunitiesCareers
+
+            
+        
+            
+                
+                
+            
+        
+            
+
+                Student LifeAdmissionsContact
+
+            
+        
+        
+
+        
+        
+            
+
+                Admissions
+Details about requirements, application deadlines, and tips for enhancing your application            
+            
+
+            
+
+                FreshmenTransferHousingFinancial AidApplication Tips                    
+            
+                    
+            
+    Transfer
+                
+                
+                The Bren School has articulation agreements with California community colleges that allow you to take courses that not only meet our admissions criteria, but can also be applied to our degree requirements.  If you have not done so already, check out www.assist.org for the latest articulation agreement specifically between your community college and UC Irvine.  If you plan it right, most of our majors support you in starting with your upper-division major requirements in your first quarter as a Bren School and UCI student.
+                
+                
+                
+                Some community colleges such as Orange Coast College, Long Beach City College, and Fullerton College, have a more direct and specialized articulation program called Smart-ICS.  For more information about this agreement, please visit the CS department at one of these community colleges.
+                
+                
+                 
+              The campus offers a wealth of information for prospective freshmen, as well as details on all aspects of the admissions process. We particularly encourage you to explore the following:
+              
+              
+              
+              Admissions: http://www.admissions.uci.edu/
+              
+
+              
+              Online publications: http://www.admissions.uci.edu/publications/online_publications.html 
+              
+               
+              
+              and do not forget our mascot, Peter the Anteater: http://www.uci.edu/peter/
+               
+              
+              
+              Currently, undergraduate enrollment in the Bren School is about 2,000 students, out of a total of almost 23,500 for UC Irvine as a whole.
+              
+
+                
+                    Share
+                    |
+                    
+                    
+                    
+                    
+                
+                
+                
+            
+
+            
+
+        
+        
+        
+        
+            
+            
+                Language: 
+                English |
+                Chinese (Traditional) |
+                Korean |
+                Vietnamese            
+            
+        
+            
+            
+                University of California, Irvine - Irvine, CA 92697 : 949-824-5011
+
+                
+                    Comments & Questions |
+                    Privacy & Legal Notice |
+                    Copyright Inquiries |
+                    © 2016 UC Regents
+                
+
+            
+            
+            
+            
+                Site By Crisp
+##------------------URL-------------------------##
+http://www.ics.uci.edu/prospective/ko/admissions/transfer/contact/student-affairs/contact/student-affairs/contact/student-affairs/contact/student-affairs/contact/student-affairs/contact/student-affairs/%E2%80%8B
+##-----------------TITLE------------------------##
+편입 « 입학 « BREN: 정보와 컴퓨터 과학(ICS) « 캘리포니아 대학교 어바인
+##------------------TEXT------------------------##
+?>
+   
+   
+    
+
+        
+        
+            
+
+                학위기회진로
+
+            
+        
+            
+                
+                
+            
+        
+            
+
+                대학 생활입학문의
+
+            
+        
+        
+
+        
+        
+            
+
+                입학
+자세한 지원 요건, 지원 마감일, 좋은 지원서를 만드는 요령            
+            
+
+            
+
+                신입생편입기숙사학자금 지원지원 요령                    
+            
+                    
+            
+    편입
+    	        
+	            
+	            Bren:ICS는 본교 입학 기준에 맞을 뿐 아니라 본교 학위 요건에도 적용되는 과정을 밟을 수 있는 캘리포니아 커뮤니티 칼리지와 공식학점인정협정을 맺고 있습니다.  아직 이렇게 학점을 받아본 적이 없다면, www.assist.org에서 여러분의 커뮤니티 칼리지와 UC 어바인 간에 특별히 맺은 최신 공식학점인정협정에 대해 살펴보십시오.  계획을 제대로 세우면, 여러분이 본교 대부분의 전공에서 Bren:ICS와 UCI 학생으로서 첫 학기에 들어와 전공과정의 전공필수과목을 시작할 때 많은 도움이 됩니다.
+	            
+	            
+	            
+	            오렌지 코스트 칼리지(Orange Coast College), 롱 비치 시티 칼리지(Long Beach City College), 풀러톤 칼리지(Fullerton College)와 같은 일부 커뮤니티 칼리지는 Smart-ICS라는 더욱 직접적이고 특화된 편입 프로그램을 실시하고 있습니다.  이 협정에 관한 자세한 내용이 궁금하시면 이들 커뮤니티 칼리지의 CS 부서에 문의하시기 바랍니다.
+	            
+	            
+	             
+	          본교는 예비 신입생들을 위한 풍부한 정보는 물론 입학 절차의 모든 측면에 관한 상세한 정보를 제공하고 있습니다. 특히 다음 부분을 살펴보실 것을 권장합니다.
+	          
+	          
+	          
+	          예비 학생: http://www.uci.edu/prospective.php
+	          
+	          
+	          
+	          입학: http://www.admissions.uci.edu/
+	          
+	          
+	          
+	          자주 묻는 질문(FAQ): http://www.admissions.uci.edu/resources/faq.html 
+	          
+	          
+	          
+	          온라인 출간물: http://www.admissions.uci.edu/publications/online_publications.html 
+	          
+    	       
+    	      
+    	      본교 마스코트인 개미핥기 피터(Peter the Anteater)도 잊지 마세요. http://www.uci.edu/peter/
+    	       
+    	      
+    	      
+    	      현재, Bren:ICS의 학부생 입학자 수는 850명이며, UC 어바인 전체로 하면 신입생이 총 22,000명 가까이 됩니다. 2010년에 입학한 신입생들의 GPA 평균은 3.89였고, SAT 평균 점수는 1,822점이었습니다.
+    	      
+
+                
+                    공유하기
+                    |
+                    
+                    
+                    
+                    
+                
+                
+                
+            
+
+            
+
+        
+        
+        
+        
+            
+            
+                Language: 
+                English |
+                Chinese (Traditional) |
+                Korean |
+                Vietnamese            
+            
+        
+            
+            
+                캘리포니아 대학교 어바인 - Irvine, CA 92697 : 949-824-5011
+
+                
+                    의견과 질문 |
+                    개인정보 보호정책과 법적 고지 |
+                    저작권 문의 |
+                    © 2016 UC Regents
+                
+
+            
+            
+            
+            
+                Site By Crisp
+##------------------URL-------------------------##
+http://www.ics.uci.edu/prospective/en/admissions/transfer/contact/student-affairs/contact/student-affairs/contact/student-affairs/contact/student-affairs/contact/student-affairs/contact/student-affairs/contact/student-affairs/​
+##-----------------TITLE------------------------##
+Transfer « Admissions « Bren School of Information and Computer Sciences « University of California Irvine
+##------------------TEXT------------------------##
+?>
+   
+   
+    
+
+        
+        
+            
+
+                DegreesOpportunitiesCareers
+
+            
+        
+            
+                
+                
+            
+        
+            
+
+                Student LifeAdmissionsContact
+
+            
+        
+        
+
+        
+        
+            
+
+                Admissions
+Details about requirements, application deadlines, and tips for enhancing your application            
+            
+
+            
+
+                FreshmenTransferHousingFinancial AidApplication Tips                    
+            
+                    
+            
+    Transfer
+                
+                
+                The Bren School has articulation agreements with California community colleges that allow you to take courses that not only meet our admissions criteria, but can also be applied to our degree requirements.  If you have not done so already, check out www.assist.org for the latest articulation agreement specifically between your community college and UC Irvine.  If you plan it right, most of our majors support you in starting with your upper-division major requirements in your first quarter as a Bren School and UCI student.
+                
+                
+                
+                Some community colleges such as Orange Coast College, Long Beach City College, and Fullerton College, have a more direct and specialized articulation program called Smart-ICS.  For more information about this agreement, please visit the CS department at one of these community colleges.
+                
+                
+                 
+              The campus offers a wealth of information for prospective freshmen, as well as details on all aspects of the admissions process. We particularly encourage you to explore the following:
+              
+              
+              
+              Admissions: http://www.admissions.uci.edu/
+              
+
+              
+              Online publications: http://www.admissions.uci.edu/publications/online_publications.html 
+              
+               
+              
+              and do not forget our mascot, Peter the Anteater: http://www.uci.edu/peter/
+               
+              
+              
+              Currently, undergraduate enrollment in the Bren School is about 2,000 students, out of a total of almost 23,500 for UC Irvine as a whole.
+              
+
+                
+                    Share
+                    |
+                    
+                    
+                    
+                    
+                
+                
+                
+            
+
+            
+
+        
+        
+        
+        
+            
+            
+                Language: 
+                English |
+                Chinese (Traditional) |
+                Korean |
+                Vietnamese            
+            
+        
+            
+            
+                University of California, Irvine - Irvine, CA 92697 : 949-824-5011
+
+                
+                    Comments & Questions |
+                    Privacy & Legal Notice |
+                    Copyright Inquiries |
+                    © 2016 UC Regents
+                
+
+            
+            
+            
+            
+                Site By Crisp
+##------------------URL-------------------------##
+http://www.ics.uci.edu/prospective/vi/admissions/transfer/contact/student-affairs/contact/student-affairs/contact/student-affairs/contact/student-affairs/contact/student-affairs/contact/student-affairs/%E2%80%8B
+##-----------------TITLE------------------------##
+Chuyển tiếp « TUYỂN SINH « BREN: Khoa học Thông tin và Điện toán « Đại học California Irvine
+##------------------TEXT------------------------##
+?>
+   
+   
+    
+
+        
+        
+            
+
+                BẰNG CẤPCƠ HỘINGHỀ NGHIỆP
+
+            
+        
+            
+                
+                
+            
+        
+            
+
+                ĐỜI SỐNG SINH VIÊNTUYỂN SINHLIÊN HỆ
+
+            
+        
+        
+
+        
+        
+            
+
+                TUYỂN SINH
+Thông tin chi tiết về yêu cầu tuyển sinh, hạn chót nộp đơn và chỉ dẫn làm cho đơn xin nhập học phong phú            
+            
+
+            
+
+                Sinh viên năm nhấtChuyển tiếpNhà ởHỗ trợ Tài chínhChỉ dẫn nộp đơn                    
+            
+                    
+            
+    Chuyển tiếp
+
+Bren:ICS có những thỏa thuận liên kết với nhiều trường cao đẳng cộng đồng California cho phép bạn tham gia những khóa học để giúp bạn không chỉ đáp ứng được những tiêu chí tuyển sinh mà còn phù hợp với những yêu cầu việc cấp bằng của chúng tôi. Nếu bạn chưa tìm được trường đại học để chuyển tiếp, hãy truy cập www.assist.org để xem những thỏa thuận liên kết mới nhất, đặc biệt là giữa trường cao đẳng cộng đồng của bạn với UC Irvine. Nếu bạn lên kế hoạch đúng, phần lớn các chuyên ngành học của chúng tôi hỗ trợ bạn khi bắt đầu đáp ứng những yêu cầu của chuyên ngành học ở hệ học cao hơn trong khóa học đầu tiên của bạn với tư cách là sinh viên của Bren:ICS và UCI.
+
+
+Một số trường cao đẳng cộng đồng như Orange Coast College, Long Beach City College, và Fullerton College có một chương trình hợp tác chuyên sâu và trực tiếp hơn với chúng tôi được gọi là Smart-ICS. Để biết thêm thông tin về thỏa thuận này , hãy ghé thăm Khoa Khoa học Điện toán (CS) ở một trong những trường cao đẳng cộng đồng này.
+
+
+Nhà trường cung cấp nhiều nguồn thông tin đa dạng dành cho sinh viên năm nhất cùng những thông tin chi tiết về mọi phương diện của quy trình tuyển sinh. Chúng tôi đặc biệt khuyến khích các bạn hãy cùng khám phá qua những kênh thông tin sau đây:
+
+
+
+Chuyên trang dành cho những ứng viên triển vọng: http://www.uci.edu/prospective.php
+
+
+Tuyển sinh: http://www.admissions.uci.edu/
+
+
+Những câu hỏi thường gặp: http://www.admissions.uci.edu/resources/faq.html 
+
+Xuất bản phẩm trên mạng: http://www.admissions.uci.edu/publications/online_publications.html 
+
+và đừng quên con vật lấy khước của chúng tôi, Peter the Anteater: http://www.uci.edu/peter/
+
+
+Hiện tại, số lượng sinh viên theo học hệ đại học ở Bren:ICS là 850 sinh viên trong tổng số gần 22.000 sinh viên UC Irvine. GPA bình quân đối với sinh viên năm nhất năm 2010 là 3,89, với điểm số SAT trung bình là 1822.
+
+
+                
+                    Chia sẻ
+                    |
+                    
+                    
+                    
+                    
+                
+                
+                
+            
+
+            
+
+        
+        
+        
+        
+            
+            
+                Language: 
+                English |
+                Chinese (Traditional) |
+                Korean |
+                Vietnamese            
+            
+        
+            
+            
+                Đại học California, Irvine - Irvine, CA 92697 : 949-824-5011
+
+                
+                    Góp ý & Thắc mắc |
+                    Chính sách về Quyền Riêng tư & Thông báo Pháp lý |
+                    Những thắc mắc về bản quyền |
+                    © 2016 UC Regents
+                
+
+            
+            
+            
+            
+                Site By Crisp
+##------------------URL-------------------------##
+http://www.ics.uci.edu/~rex/index.html
+##-----------------TITLE------------------------##
+Rex Chen - UC Irvine - Home Page
+##------------------TEXT------------------------##
+Rex Chen
+    
+     Home Publications Projects Experiences Services Teaching Personal
+
+    About Me
+    
+      
+      
+                  	
+	I am a graduate from the University of California, Irvine with a PhD degree from the  Networked Systems Program. I am affiliated with the UC Irvine  School of Information and Computer Science  and  UC Irvine  Institute of Transportation Studies.
+	I am co-advised by Professor  Amelia Regan  and Professor  Wen-Long Jin.		  
+	As an engineer, my industry experiences include  Cisco Systems  and  Qualcomm .  I also did internships during college years in start-up companies,  Anydata  and  Endeavors Technology.  
+	
+	
+	I am grateful to meet wonderful mentors in life who have provided invaluable learning capacities and wisdom for me. 
+	
+	Here are a few quotes that I value highly and live my life with these quotes in mind.
+        
+	
+	"Happiness keeps you Sweet,"
+	
+	"Sorrow keeps you Human,"
+	
+	"Failures keep you Humble,"
+	
+	"Success keeps you Glowing."
+	
+	
+      
+    
+    
+        Research Summary
+    
+      
+      My broad research interests are in the general field of computer networks with a focus on building routing protocols and network architectures that improve the reliability, security, and performance of future communication systems.        
+      Currently, I am interested in Vehicular Ad Hoc Networks (VANET).  VANET has the potential to be an important enhancer for  Intelligent Transportation Systems (ITS). Future ITS can lead to significant impact on people's lives and society with lasting effects on safety, economy, and the environment.
+      My primary research in VANET include network architecture and design with focus on addressing the reliability and security aspects.  The subject of my PhD dissertation is to leverage and incorporate understanding of traffic flow dynamics to improve broadcast communication and network security in VANET.
+
+      
+      
+    
+
+    
+    Recent News
+    
+
+      Dec 2010: I have finished my dissertation and defended my oral presentation for the Doctor of Philosophy degree in Networked Systems at UC Irvine. I am interested to continue doing research in vehicular networks and exploring industry opportunities.
+		  Short Bio: 
+             June 2010: I attended and presented our paper on dynamic transmission range in VANET with stop-and-go traffic at  IEEE Intelligent Vehicles Symposium in San Diego, California on June 21-24, 2010. April 2010: Our paper on inter-vehicle communication performance using ns-2 has been accepted to  17th ITS World Congress in Busan, Korea on October 25-29, 2010. March 2010: I attended and presented our joint work ("Security and Communication in Vehicular Ad Hoc Networks: Issues and Approaches") at the Industry Seminar on Wireless Access in Vehicular Environments (WAVE) in the  Connected Vehicle Proving Center  (CVPC) building in Dearborn, Michigan on March 11, 2010. Jan 2010: I attended and presented our paper at  IEEE Intelligent Vehicular Communications System in Las Vegas on Jan 9th, 2010. 
+    
+    Contact Information
+
+    
+      Office: 4th floor, Anteater Instruction and Research Bldg (here is a  picture, it is building # 653 according to UCI   campus map) Email: rex at uci dot edu
+##------------------URL-------------------------##
+http://www.ics.uci.edu/~rex/personal.html
+##-----------------TITLE------------------------##
+Rex Chen - UC Irvine - Personal
+##------------------TEXT------------------------##
+Personal
+    
+     Home Publications Projects Experiences Services Teaching Personal
+    Hobbies
+    
+      My latest passion is ballroom dancing and especially like tango, salsa, and swing.  I am associated with the tango club at UCI. We have a lot of fun learning dancing, attending workshops and practica, and going out to milongas.I like outdoor adventures and enjoy a variety of activities such as hiking in hills and sailing in newport harbor.
+      
+              
+##------------------URL-------------------------##
+http://www.ics.uci.edu/~rex/teaching.html
+##-----------------TITLE------------------------##
+Rex Chen - UC Irvine - Teaching
+##------------------TEXT------------------------##
+Teaching
+    
+     Home Publications Projects Experiences Services Teaching Personal
+      Teaching Assistant/Grader (undergraduate and graduate school)  | UC Irvine, Irvine, CA, USA
+    
+      From Winter 2002 to Spring 2006:
+      Project in Algorithms (Spring 2006)Operating Systems (Winter 2006)Digital Logic Design (Fall 2003, Winter 2003)Computer Networks (Winter 2002)Through UC Irvine ACM student chapter, hold several volunteer midterm and final review sessions (2002 to 2003)
+##------------------URL-------------------------##
+http://www.ics.uci.edu/~rex/projects.html
+##-----------------TITLE------------------------##
+Rex Chen - UC Irvine - Research Projects
+##------------------TEXT------------------------##
+Projects
+    
+     Home Publications Projects Experiences Services Teaching Personal
+    	Dissertation Work - Broadcasting in Vehicular Ad Hoc Networks (VANET) 
+    
+      From 05/2008 to 12/2010 (with Co-Advisors Professor Amelia Regan and Professor Wen-Long Jin): 
+      I study vehicular ad hoc network (VANET), a specific type of mobile ad hoc network (MANET) with unique and distinctive differences from a general MANET. In VANET, a vehicle represents a network node, and its network topology is constrained by the underlying transportation system in which it operates (for example, highway and arterial roads) which can change fast and frequently. Understanding of and incorporation of techniques in communication networks and traffic systems are important to improve the stability, reliability, and performance of VANET. 
+      An important piece of my dissertation work builds upon this framework to borrow ideas from traffic flow theory and to fine-tune and optimize VANET which will likely be based on IEEE 802.11p and IEEE 1609, the standard for data exchange between high-speed vehicles and between vehicles and the roadside infrastructure in the licensed  5.9 Ghz Intelligent Transportation Systems (ITS) band. Further, VANET is governed by the application requirements. In the near and mid-term future, these will primarily be safety-oriented applications. I have surveyed the literature in-depth on broadcast communication for vehicular safety applications. I use ns-2 network simulator to evaluate the broadcast communication and network security system design and analyze performance measures for different traffic patterns.
+ The work presents methods to improve reliability for broadcasting by having a better understanding on the mobility behaviors and traffic characteristics of the VANET.  
+	  	  
+          
+        
+    Anonymous Routing in MANETs 
+    
+      From 09/2005 to 09/2007 (with Professor Li-Chun Bao):
+      This is a collabortive work where I investigate the development of an anonymous routing protocol called On-Demand Anonymous Routing (ODAR) which seeks to preserve topology and location privacy in ad hoc networks. ODAR leverages the novel use of Bloom filters to enable anonymity of the nodes, links, and source-routing paths. Using the J-Sim network simulator, the performance results indicate that ODAR had comparable control overhead with AODV. The success of this work, its quality and novelty was well received in the research community and subsequently invited later on for a book chapter on Security in Ad Hoc and Sensor Networks, published in 2009. 
+    
+    Evaluating the BitTorrent Peer-to-Peer Network 
+    
+      From 04/2006 to 12/2006 (with Professor Xiaowei Yang, while at UCI earlier): 
+      This is a collaborative work and its motivation initially came from a graduate level course project in advanced computer networks. P2P networks is the major contributor of network traffic on the Internet and this research evaluates the popular BitTorrent P2P system.  In particular, we look at the incentive mechanism (tic-for-tac) and investigate its vulnerabilities in the file exchange by free-riding the system with a large view of the network.  The project involves modifying BitTorrent and deploying the system onto hundreds of PlanetLab overlay nodes around the world. This work received more than 60 citations according to Google Scholar and provided motivation for future networking researchers and practitioners on designing robust and incentive-based P2P systems.
+##------------------URL-------------------------##
+http://www.ics.uci.edu/~rex/publications.html
+##-----------------TITLE------------------------##
+Rex Chen - UC Irvine - Publications
+##------------------TEXT------------------------##
+Publications
+    
+     Home Publications Projects Experiences Services Teaching Personal
+    Journals
+    
+      Rex Chen, Wen-Long Jin, and Amelia Regan, "Broadcasting in Vehicular Networks: Issues and Approaches," IEEE Network Magazine - Special Issue on Advances in Vehicular Communications Networks, Jan/Feb 2010 Issue (pdf).  Rex Chen, Kenneth L. Kraemer, and Prakul Sharma, "Google: The World's First Information Utility?," Business & Information Systems Engineering journal (BSIE State of the Art) Jan 2009 Issue and WIRTSCHAFTSINFORMATIK (Fiftieth Anniversary, German translation) Jan 2009 Issue (pdf). 
+    
+    
+    Book Chapter
+    
+     Li-Chun Bao, Rex Chen, and Denh Sy, "ODAR: On-Demand Anonymous Routing in Ad Hoc Networks," book chapter in Security in Ad-hoc and Sensor Networks,World Scientific Press, Editors: R. Beyah, J. McNair, C. Corbett, July 2009 (pdf)
+    
+     
+    Conferences and Workshops
+    
+      Jaeyoung Jung, Rex Chen, Wen-Long Jin,  R. Jayakrishnan, and Amelia Regan, "An Empirical Study of Inter-Vehicle Communication Performance using ns-2," 17th Intelligent Transportation System World Congress, Oct 2010 (pdf). Rex Chen, Hao Yang, Wen-Long Jin, and Amelia Regan, "Dynamic Transmission Range in Inter-Vehicle Communication with Stop-and-Go Traffic," IEEE Intelligent Vehicles Symposium, June 2010 (pdf). Rex Chen, Wen-Long Jin, and Amelia Regan, "Multi-Hop Broadcasting in Vehicular Ad Hoc Networks with Shockwave Traffic," 2nd IEEE Intelligent Vehicular Communications System Workshop, January 2010 (pdf). Rex Chen,  Di Ma, and Amelia Regan, "TARI: Meeting Delay Requirements in VANETs with Efficient Authentication and Revocation," 2nd International Conference on Wireless Access in Vehicular Environments (WAVE), December 2009 (pdf). Rex Chen and Amelia Regan, "Wireless Networks for Car and Ride Sharing Systems: An Assessment of 802.11 Wi-Fi," Transportation Research Board 2009 Annual Meeting, January 2009. Michael Sirivianos, Jong-Han Park, Rex Chen, and  Xiaowei Yang  "Free-riding in BitTorrent Networks with the Large View Exploit," 6th International Workshop on Peer-to-Peer Systems (IPTPS), 2007 (pdf). Rex Chen, Oisze Lam, and Kenneth L. Kraemer, "Strategic Use of Information Technology: Google," The Center for Research on Information Technology and Organizations (CRITO), 2007 (pdf). Denh Sy, Rex Chen and Li-Chun Bao, "ODAR: On-Demand Anonymous Routing in Ad Hoc Networks," 3rd IEEE International Conference on Mobile Ad-hoc and Sensor Systems (MASS), 2006  (pdf)
+      
+      
+    Patents
+    
+      Rex Chen, Eric Lee, Matthew Khulke, Ethan Hugg and Michael Ramalho, "Digital Signature of Changing Signals Using Feature Extraction," Cisco Systems, Inc. Under Review by USPTO, Serial # 12/352,697, CPOL # 957048 Rex Chen, Matthew Khulke, Ethan Hugg and Eric Lee, "Method and Apparatus for Incorporating User Intersection Based Presence in Email Systems," Cisco Systems, Inc. Under Review by  USPTO, Serial # 12272959, CPOL # 957377 Daniel Ayoub and Rex Chen "Closed Caption Language Translation System for Digital Television in North America," Cisco Systems, Inc. Under Review by  USPTO, Serial # 12/269,592, CPOL # 952732 Rex Chen, Eric Lee, Matthew Khulke and Ethan Hugg, "Organization of a Contact List Based on Social Network Context," Cisco Systems, Inc. Under Review by  USPTO, Serial # 12238068, CPOL # 957194 Rex Chen, Matthew Khulke, Eric Lee and Ethan Hugg, "Automatic Temporary Address Book," Cisco Systems, Inc. Under Review by  USPTO, Serial # 12184511, CPOL # 958577 Pratik Dhebri, Hai Qu and Rex Chen, "Location-specific broadcast messaging," Qualcomm, Inc. Under Review by  USPTO, Pub # 20070202886 Pratik Dhebri, Hai Qu and Rex Chen, "Replying to an SMS broadcast message," Qualcomm, Inc. Under Review by  USPTO, Pub # 20070202894 
+    
+
+
+A standard disclaimer: the materials on this page is provided for timely dissemination of research work. Copyright and all rights therein are retained by authors or by corresponding copyright holders.
+##------------------URL-------------------------##
+http://www.ics.uci.edu/~rex/service.html
+##-----------------TITLE------------------------##
+Rex Chen - UC Irvine - Service
+##------------------TEXT------------------------##
+Software
+    
+     Home Publications Projects Experiences Services Teaching Personal
+    
+    Institutional Services 
+    
+      Program Co-Chairs, 4th Ad Hoc, Sensor and P2P Networks Workshop (2011) Technical Program Vice Chair, 3rd IEEE Intelligent Vehicular Communications System Workshop (2011) IEEE Communications Magazine and Letter, Automotive Networking Services (Reviewer, 2010) IEEE Intelligent Transportation System Magazine (External Reviewer, 2010) IEEE Intelligent Transportation Systems Conference (External Reviewer, 2010)  Session Chair (delegated), 2nd IEEE Intelligent Vehicular Communications System Workshop, Jan 2010 EURASIP Journal on Advances in Signal Processing (Reviewer, 2010)  IEEE Vehicular Technology Conference (Reviewer, 2010)  Transportation Research Part C: Emerging Technologies (External Reviewer, 2009)  Transportation Research Board Annual Meeting (External Reviewer, 2009, 2010)  IEEE Transactions on Intelligent Transportation Systems (External Reviewer, 2009)  IEEE Intelligent Vehicles Symposium (Reviewer 2010, External Reviewer, 2009)  IEEE INFOCOM (External Reviewer, 2007)  Information Technology and Telecom Committee, University of California Student Association, Graduate Student Rep (2005 to 2006)  Lead Career Expo Coordinator, UC Irvine, ACM Student Chapter (2003).  Coordinator for a career evening event with over 200+ students and 25+ employers in attendance. Organized a team of ten student staffs for material preparation, facility setup, registration, and workshop moderator
+##------------------URL-------------------------##
+http://www.ics.uci.edu/~rex/experience.html
+##-----------------TITLE------------------------##
+Rex Chen - UC Irvine - Experiences
+##------------------TEXT------------------------##
+Experiences
+    
+     Home Publications Projects Experiences Services Teaching Personal
+    Graduate Student Researcher, Institute of Transportation Studies    | UC Irvine, Irvine, CA, USA
+    
+      From 5/2008 to 12/2010:
+      Study fundamental traffic flow theory concepts and methodsEvaluate the reliability and efficiency of broadcasting in vehicular ad-hoc network using the ns-2 network simulatorAnalyze the delay-time constraint, communication capacity, and performance measures of IEEE 802.11p
+   
+    Graduate Student Researcher, Department of Computer Science   | UC Irvine, Irvine, CA, USA
+    
+      From 09/2005 to 09/2007:
+      Contributed in studying the free-rider exploit in BitTorrent peer-to-peer network using the PlanetLab overlay networkContributed in the design of a MANET routing protocol using Bloom filter data structure for anonymous routing
+    
+    Product Engineer, Telco Home Network Business Unit  |  Cisco Systems, Irvine, CA, USA
+    
+      From 4/2006 to 2/2011:
+      Product Engineer who assisted at first and was later in charge of product development life cycle for  Linksys WCM300, the world's fastest cable modem at the time with eight downstream channel bonding and DOCSIS 3.0 compliant  (the product was an endpoint unit of the DOCSIS Downstream Wideband Architecture and Winner of the 2007 Cisco Pioneer Hall of Fame Award for the Core Technology Category)  
+	Product Engineer that facilitated the product development life cycle of several mobile broadband routers for the service provider market (Linksys WRT54G3Gv1/WRT54G3Gv2)
+    
+    Software Development Engineer, CDMA ASIC Software Group  |  Qualcomm, San Diego, CA, USA
+    
+      From 6/2003 to 9/2005:
+      Software development for short messaging services protocol stack with 3GPP and TIA/EIA communication standard complianceCoordinated development process with design reviews, software developers, and system team for integration and testingProvided technology and product leadership in short messaging services with patent filing and customer interaction to ensure timely product delivery and passing GCF and CDG certification Designed and prototyped mobile user interfaces for various messaging applications
+##------------------URL-------------------------##
+http://www.ics.uci.edu/%7ewelling/teaching/ICS171Fall09/Intelligence.html
+##-----------------TITLE------------------------##
+Untitled Document
+##------------------TEXT------------------------##
+Intelligence
+						
+			
+			Alan Turing, the father of computer science, proposed a test to determine if an artificial system could be intelligent. He proposed to play a game where a human interrogator would ask questions to either another human or to a machine which would be hidden out of sight (behind a brick wall or on the other side of the earth). If the human interrogator would be fooled 30% of the time the system would pass the test and ought to be called intelligent.
+			Now, this is a somewhat arbitrary line in the sand. Why 30%? How many humans must it fool? Moreover, why would we be so concerned about human intelligence? Can't we imagine other types of intelligence that would not be able to fool us? I don't think we should take the claim too seriously that this ought to be the working definition of intelligence, but rather a very useful illustration of what may be needed to build robots that are behaving in ways similar to humans. Turing believed that by the year 2000 this machine would be reality. It didn't turn out that way.
+			The Turing test did spark a lot of heated debate about whether we could ever build machines that can think in the same way as humans do. Most importantly, can we ever build robots that have a conscious mind? John Searle was the most vocal opponent of this idea. He invented interesting thought experiments which, according to his reasoning, would make it clear that such a thing could not happen. He imagined a "Chinese Room" with a human in it that would receive questions in Chinese. S/He would also have access to an enormous library with a (Chinese) answer to every conceivable (Chinese) question. Mechanically, the person would look up the answer, perhaps randomly picking from a large set of possible answers, and return it to the interrogator. Clearly this person has no idea of Chinese even though s/he would pass this variant of the Turing test.
+			One objection could be that it is really somewhat unrealistic to ask for a library with answers to every possible question; it would require more atoms to store than the universe has to offer. So perhaps we should restrict ourselves to systems that are limited in their capabilities of storing data. This seems like a workable sophistication of the Turing test, but I am pretty sure someone else will come with a system that may beat the Turing test in another way which would then require addition changes because "surely that system could not be really intelligent"!
+			In another famous thought experiment (the "brain prosthesis experiment" by Clark Glymour) one imagines replacing the neurons in one's brain one by one with electrical circuits. Each circuit models the input output function of a neuron perfectly. By the time we are done we have replaced the entire brain by a computer. We can do it again in reverse order to rebuild the human. Assuming for a moment this can be technically achieved, would we then have altered the human mind in any way? Many people (among whom Searle) believe this is the case. During the process they believe that one will gradually loose any conscious experience of the world, yet one's behavior will remain unaltered.
+			How about this thought experiment then? In 3000 AC a smart scientist comes up with a really clever way to build an intelligent machine. S/He first assembles a long strand of amino-acids which s/he places in a small protein cover. The strand of amino-acids will copy itself and code for new proteins to be assembled. The proteins become a robotic body (made mostly of carbohydrates and water) with a brain. S/He then decides to raise this robot among her biological children. This robot has a normal life because it looks so much like a real human being. And some day, it starts referring to itself as "me". It looks in the mirror and understands who that person is. When published, people cry out: "this is not a real robot" it was just a copy of a human being grown in a test tube". So the scientist develops new techniques to copy the exact same process by now with new synthetic molecules that have the same properties as carbon, hydrogen, iron etc. People are still not satisfied until the same procedure is now repeated with electronic circuits. Now what? Intelligent machine or not?
+			For me these examples drive home the fact that a mind has nothing to do with the substrate it is made from. It's about computation and information. And therefore, if our goal is creating human intelligence, yes, we will be able to build intelligent machines that may have conscious minds, real emotions and all the other good and bad things that make us human. These are not magical, but rather functional properties. We evolved them for a purpose. They are fascinating, and utterly un-understood today, but perhaps not un-understandable or non-replicable. Our brain is extremely complex, propelled by principles that we don't understand today. It therefore seems far to premature to claim that a consciousness mind is something reserved uniquely for human beings. 
+			Max Welling,
+			UCI 2008.
