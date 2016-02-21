@@ -38,47 +38,53 @@ public class Main {
 		
 		Map <String,Posting> temp_table = new TreeMap<>();
 		//===================================READ FILE
-		try (BufferedReader br = new BufferedReader(new FileReader("./file/myfile0.txt"))) {
-		    for(String line; (line = br.readLine()) != null; ) {
-		        if(line.equals("##------------------URL-------------------------##")){
-		        	if(docID%10000==0){
-			        	iB.buildIndexForaChunk(temp_table);
-			        	temp_table.clear();
-			        }
-		        	docID++;
-		        	wordPos=0;
-		        	
-		        }else if(line.equals("##-----------------TITLE------------------------##")){
-		        	
-		        }else if(line.equals("##------------------TEXT------------------------##")){
-		        	
-		        }else{
-		    		for(String i:iB.tokenizeFile(line)){
-			    		if(i.length()>1){
-			    			wordPos++;
-				    		if(!temp_table.containsKey(i)){//new word for big table
-				    			Posting post = new Posting();
-								post.wordFreq=1;
-								Map <Integer, ArrayList<Integer>> docAndPosition = new HashMap<>();
-				    			ArrayList<Integer> newList = new ArrayList<>();
-				    			newList.add(wordPos);
-				    			docAndPosition.put(docID, newList);
-				    			post.posting=docAndPosition;
-				    			temp_table.put(i, post);
-				    		}else{//existing word for big table
-				    			temp_table.get(i).wordFreq++;
-				    			if(temp_table.get(i).posting.containsKey(docID)){//the word has the page record
-				    				temp_table.get(i).posting.get(docID).add(wordPos);
-								}else{//the word does not have the page record
+		Integer fileNum = 0;
+		while(fileNum < 10){
+			System.out.println("build index for file " + fileNum.toString());
+			try (BufferedReader br = new BufferedReader(new FileReader("./file/myfile" + fileNum.toString() + ".txt"))) {
+				for (String line; (line = br.readLine()) != null; ) {
+					if (line.equals("##------------------URL-------------------------##")) {
+						if (docID % 10000 == 0) {
+							iB.buildIndexForaChunk(temp_table);
+							temp_table.clear();
+						}
+						docID++;
+						wordPos = 0;
+
+					} else if (line.equals("##-----------------TITLE------------------------##")) {
+
+					} else if (line.equals("##------------------TEXT------------------------##")) {
+
+					} else {
+						for (String i : iB.tokenizeFile(line)) {
+							if (i.length() > 1) {
+								wordPos++;
+								if (!temp_table.containsKey(i)) {//new word for big table
+									Posting post = new Posting();
+									post.wordFreq = 1;
+									Map<Integer, ArrayList<Integer>> docAndPosition = new HashMap<>();
 									ArrayList<Integer> newList = new ArrayList<>();
-				    				newList.add(wordPos);
-				    				temp_table.get(i).posting.put(docID, newList);
+									newList.add(wordPos);
+									docAndPosition.put(docID, newList);
+									post.posting = docAndPosition;
+									temp_table.put(i, post);
+								} else {//existing word for big table
+									temp_table.get(i).wordFreq++;
+									if (temp_table.get(i).posting.containsKey(docID)) {//the word has the page record
+										temp_table.get(i).posting.get(docID).add(wordPos);
+									} else {//the word does not have the page record
+										ArrayList<Integer> newList = new ArrayList<>();
+										newList.add(wordPos);
+										temp_table.get(i).posting.put(docID, newList);
+									}
 								}
-				    		}
-			    		}
-		    		}
-		        }
-		    }
+							}
+						}
+					}
+				}
+				br.close();
+			}
+			fileNum ++;
 		}
 		//add the remaining to table
 		iB.buildIndexForaChunk(temp_table);
@@ -86,7 +92,7 @@ public class Main {
     	
     	
     	//======================================================================================================
-    	//======================================ÔÚÕâÏÂÃæ¸Ä¸ö×ÖÄ¸¿ÉÒÔ´ò³öÀ´ £º£©
+    	//======================================ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä¸ï¿½ï¿½ï¿½Ä¸ï¿½ï¿½ï¿½Ô´ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
 		
 		//iB.storeMap(iB.revertedIndex, '1');
 		HashMap<String, Posting> testMap1 = iB.readMap('a');
