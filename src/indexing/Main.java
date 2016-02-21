@@ -44,7 +44,7 @@ public class Main {
 			try (BufferedReader br = new BufferedReader(new FileReader("./file/myfile" + fileNum.toString() + ".txt"))) {
 				for (String line; (line = br.readLine()) != null; ) {
 					if (line.equals("##------------------URL-------------------------##")) {
-						if (docID % 10000 == 0) {
+						if (docID  % 10000 == 0) {
 							iB.buildIndexForaChunk(temp_table);
 							temp_table.clear();
 						}
