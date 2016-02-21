@@ -1,6 +1,5 @@
 package indexing;
 
-import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
@@ -9,9 +8,7 @@ import java.io.ObjectOutputStream;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
-import java.util.List;
 import java.util.Map;
-import java.util.StringTokenizer;
 
 
 public class IndexBuilder {
@@ -106,7 +103,7 @@ public class IndexBuilder {
         }catch(Exception e){}
    		return mapInFile;
 	}
-	
+
     public void printIndextTable(char prefix) throws IOException{
 		HashMap<String, Posting> testMap1 = readMap(prefix);
 		for(String i:testMap1.keySet()){

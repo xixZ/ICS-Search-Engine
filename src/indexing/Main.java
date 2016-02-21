@@ -2,51 +2,33 @@ package indexing;
 
 
 import java.io.BufferedReader;
-import java.io.File;
-import java.io.FileInputStream;
 import java.io.FileNotFoundException;
-import java.io.FileOutputStream;
 import java.io.FileReader;
 import java.io.IOException;
-import java.io.ObjectInputStream;
-import java.io.ObjectOutputStream;
-import java.nio.charset.StandardCharsets;
-import java.nio.file.Files;
-import java.nio.file.Paths;
 import java.util.ArrayList;
-import java.util.Collections;
-import java.util.Comparator;
 import java.util.HashMap;
-import java.util.List;
 import java.util.Map;
-import java.util.StringTokenizer;
 import java.util.TreeMap;
-
-import jdk.internal.util.xml.impl.Pair;
-
-import java.util.Map.Entry;
-import java.util.Scanner;
-import java.util.Set;
 
 
 public class Main {
-    public static void main(String[] args) throws FileNotFoundException, IOException{        
-        IndexBuilder iB = new IndexBuilder();
-
-    	int docID = 0;
+	static int MAX_FILE_NUM=10;
+	static int MAX_PAGE_IN_MEMERY=10000;
+	
+	public static void processFiles(IndexBuilder iB ) throws FileNotFoundException, IOException{
+		int docID = 0;
 		int wordPos = 0;
-		
 		Map <String,Posting> temp_table = new TreeMap<>();
 		Map <Integer,String> docID_URL = new HashMap<>();
-
+		
 		//===================================READ FILE
 		Integer fileNum = 0;
-		while(fileNum < 1){
+		while(fileNum <= MAX_FILE_NUM){
 			System.out.println("build index for file " + fileNum.toString());
 			try (BufferedReader br = new BufferedReader(new FileReader("./file/myfile" + fileNum.toString() + ".txt"))) {
 				for (String line; (line = br.readLine()) != null; ) {
 					if (line.equals("##------------------URL-------------------------##")) {
-						if (docID  % 10000 == 0) {
+						if (docID%MAX_PAGE_IN_MEMERY == 0 && docID!=0) {
 							iB.buildIndexForaChunk(temp_table);
 							temp_table.clear();
 						}
@@ -54,9 +36,9 @@ public class Main {
 						wordPos = 0;
 			        	if((line = br.readLine()) != null) docID_URL.put(docID, line);
 					} else if (line.equals("##-----------------TITLE------------------------##")) {
-
+		
 					} else if (line.equals("##------------------TEXT------------------------##")) {
-
+		
 					} else {
 						for (String i : iB.tokenizeFile(line)) {
 							if (i.length() > 1) {
@@ -92,35 +74,16 @@ public class Main {
 		//add the remaining to table
 		iB.buildIndexForaChunk(temp_table);
 		iB.storeURL_Map(docID_URL, '$');
-    	temp_table.clear();
-    	docID_URL.clear();
-    	
-    	
-    	//iB.printURL();
-    	iB.printIndextTable('a');
-    	
-    	
-    	/*HashMap<String, Posting> testMap1 = iB.readMap('a');
-		for(String i:testMap1.keySet()){
-			System.out.print(i+": Fre: "+testMap1.get(i).wordFreq+" ");
-			for(int j : testMap1.get(i).posting.keySet()){//doc id
-				System.out.print("(docID: "+j+" ");
-				for(int k : testMap1.get(i).posting.get(j)){
-					System.out.print(" - "+k);
-				}
-				System.out.print(") ");
-			}
-			System.out.println();
-		}*/
-    	/*Map<Integer, String> urlMap = iB.readURL_Map('$');
-		for(int i:urlMap.keySet())
-			System.out.println("DocID:  "+i+": "+urlMap.get(i));
-    	*/
-    	//======================================================================================================
-    	//======================================��������ĸ���ĸ���Դ���� ����
-		
-		//iB.storeMap(iB.revertedIndex, '1');
-		
+		temp_table.clear();
+		docID_URL.clear();
+	}
+	
+    public static void main(String[] args) throws FileNotFoundException, IOException{        
+        IndexBuilder iB = new IndexBuilder();
+        processFiles(iB);
+    	iB.printURL();
+    	//iB.printIndextTable('a');
+        
 		/*
 		Scanner user_input = new Scanner(System.in);
 		//user input:
