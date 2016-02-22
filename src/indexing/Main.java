@@ -8,14 +8,17 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
+import java.util.Scanner;
 import java.util.TreeMap;
+
+import scala.collection.mutable.Set;
 
 
 public class Main {
-	static int MAX_FILE_NUM=10;
-	static int MAX_PAGE_IN_MEMERY=10000;
+	static int MAX_FILE_NUM=0;
+	static int MAX_PAGE_IN_MEMERY=50000;
 	
-	public static void processFiles(IndexBuilder iB ) throws FileNotFoundException, IOException{
+	public static int processFiles(IndexBuilder iB ) throws FileNotFoundException, IOException{
 		int docID = 0;
 		int wordPos = 0;
 		Map <String,Posting> temp_table = new TreeMap<>();
@@ -76,15 +79,18 @@ public class Main {
 		iB.storeURL_Map(docID_URL, '$');
 		temp_table.clear();
 		docID_URL.clear();
+		return docID;
 	}
 	
     public static void main(String[] args) throws FileNotFoundException, IOException{        
         IndexBuilder iB = new IndexBuilder();
-        processFiles(iB);
-    	iB.printURL();
+        int totalPages = processFiles(iB);
+        System.out.println("total Unique Words: "+iB.uniqueWordsCounter());
+        System.out.println("total Pages: "+ totalPages);
+    	//iB.printURL();
     	//iB.printIndextTable('a');
-        
-		/*
+        /*
+		
 		Scanner user_input = new Scanner(System.in);
 		//user input:
 		String query1;
@@ -94,7 +100,7 @@ public class Main {
 		
 		
 		//fetch result  HUGE CHANGE NEED TO BE HAPPEN HERE TOOOOOO SLOWWWW:
-		Set<Integer> resultPageNumber = iB.revertedIndex.get(query1).posting.keySet();
+		Set resultPageNumber = (Set) iB.readMap(query1.charAt(0)).get(query1).posting.keySet(); 
 		List<String> returnURL = new ArrayList<>();
 		
 		System.out.println("Bro, here is your results: ");
@@ -109,8 +115,8 @@ public class Main {
 			        URLcnt++;
 				}	
 			}
-		}
-		*/
+		}*/
+		
     }
 
 }

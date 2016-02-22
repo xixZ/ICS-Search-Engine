@@ -1,5 +1,6 @@
 package indexing;
 
+import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
@@ -15,15 +16,17 @@ public class IndexBuilder {
     HashMap<String, Posting> revertedIndex = new HashMap<>();
     
     IndexBuilder(){//INIT
+    	//File urlFile = new File("./file/tables/table_$.txt");
+		//if(!urlFile.exists())
     	storeURL_Map(null,'$');//$ table is for urls
     	for(char i = '0'; i <= '9';i++) {
-    		//File varTmpDir = new File("./file/tables/table_"+i+".txt");
-    		//if(!varTmpDir.exists())
+    		//File tableFile = new File("./file/tables/table_"+i+".txt");
+    		//if(!tableFile.exists())
     		storeMap(revertedIndex,i);
     	}
     	for(char i = 'a'; i <= 'z';i++) {
-    		//File varTmpDir = new File("./file/tables/table_"+i+".txt");
-    		//if(!varTmpDir.exists())
+    		//File tableFile = new File("./file/tables/table_"+i+".txt");
+    		//if(!tableFile.exists())
     		storeMap(revertedIndex,i);
     	}
     }
@@ -123,6 +126,15 @@ public class IndexBuilder {
 		for(int i:urlMap.keySet())
 			System.out.println("DocID:  "+i+": "+urlMap.get(i));
     }
-
+    public int uniqueWordsCounter() throws IOException{//INIT
+    	int totalUniqueWords = 0;
+    	for(char i = '0'; i <= '9';i++) { 
+    		totalUniqueWords+=readMap(i).size();
+    	}
+    	for(char i = 'a'; i <= 'z';i++) {
+    		totalUniqueWords+=readMap(i).size();
+    	}
+    	return totalUniqueWords;
+    }
 	
 }
