@@ -1,7 +1,41 @@
-@(message: String)
+@(titles: Array[String])(urls: Array[String])(contents: Array[String])(numOfResults: Integer)
 
-@main("Welcome to Play") {
+@main("ICS Search") {
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="">
+        <meta name="author" content="">
+        <link href="@routes.Assets.versioned("WebUI/css/bootstrap.min.css")" rel="stylesheet">
+    </head>
 
-    @play20.welcome(message, style = "Java")
+    <body>
+    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+        <div class = "container">
+            <div class="col-md-3">
+                <h1><a href = "/">ICS Search</a></h1>
+            </div>
+            <form role="form" action = "/search" method = "GET">
+                <div class = "col-md-6">
+                    <br>
+                    <input class="form-control input-lg" id="query" name = "query" type="text">
+                </div>
+                <div class = "col-md-3">
+                    <br>
+                    <button type="submit" class="btn btn-primary btn-lg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Go!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</button>
+                </div>
+            </form>
+        </div>
+    </nav>
+    <br><br><br><br>
+    <div class="container" left-padding = "300px" top-padding = "300px">
+            @for(i <- 1 to numOfResults){
+                <h2><a href = "@urls(i-1)">@titles(i-1)</a></h2>
+                <p>@contents(i-1)</p>
+            }
+    </div>
+    </body>
+
 
 }
