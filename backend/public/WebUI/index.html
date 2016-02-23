@@ -31,11 +31,6 @@
 </head>
 
 <body>
-    <script>
-    function Search() {
-        window.alert("Hello World");
-    }
-    </script>
 
     <!-- Header -->
     <header id="top" class="header">
@@ -43,15 +38,15 @@
         <div class="text-vertical-center">
             <h1>ICS Search</h1>
             <br>
-            <form role="form">
+            <form role="form" action = "/search" method = "GET">
                 <center>
                   <div align="center" class="form-group" style="width:600px" >
-                    <input class="form-control input-lg" id="inputlg" type="text">
+                    <input class="form-control input-lg" id="query" name = "query" type="text">
                   </div>
                 </center>
+                <br>
+                <button type="submit" class="btn btn-success btn-lg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Go!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</button>
             </form>
-            <br>
-            <button type="button" class="btn btn-success btn-lg" onclick = "Search()">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Go!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</button>
         </div>
     </header>
 </body>
