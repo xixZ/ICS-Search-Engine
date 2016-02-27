@@ -23,24 +23,31 @@ public class Search extends Controller {
     public Result search(String query) throws IOException{
     	Map<String, Posting> temp_table = readMap(query.charAt(0));
     	Map<Integer,String[]> URL_Title_table = readURL_Map();
+    	
     	Posting result = temp_table.get(query);
-    	Set<Integer> docIDs = result.posting.keySet();
-    	numOfResults = Math.min(10, docIDs.size());
+    	
+    	//Set docIDs = result.posting.keySet();
+    	//numOfResults = Math.min(10, docIDs.size());
     	
     	
     	String[] title = new String[numOfResults];
         String[] url = new String[numOfResults];
         String[] content = new String[numOfResults];
         
-        int i=0;
-        for(int docID:docIDs) {
-        	if(i>=numOfResults) break;
-        	i++;
+         /*for(Integer docID:docIDs) {
             title[i] = URL_Title_table.get(docID)[1];
             url[i] = URL_Title_table.get(docID)[0];
             content[i] = "I am the " + Integer.toString(i) + "th result"+" for "+query;
+        }*/
+     	
+        for(int i = 0; i < numOfResults; i ++) {
+            title[i] = Integer.toString(i)+": " + URL_Title_table.get(i+1)[1];;
+            url[i] = "http://google.com";
+            content[i] = "I am the " + Integer.toString(i) + "th result"+" for "+query;
         }
-    	
+        
+        
+        
         /*String[] title = new String[numOfResults];
         String[] url = new String[numOfResults];
         String[] content = new String[numOfResults];
@@ -73,7 +80,7 @@ public class Search extends Controller {
 	public Map<Integer, String[]> readURL_Map() throws IOException{
 		Map<Integer, String[]> mapInFile = new HashMap<>();
    		try{
-            FileInputStream fis=new FileInputStream("C:/Users/henry91w/Documents/workspace/SearchEngine/ICS-Search-Engine/file/tables/table_$.txt");
+            FileInputStream fis=new FileInputStream("../file/tables/table_$.txt");
             ObjectInputStream ois=new ObjectInputStream(fis);
             mapInFile.putAll((Map<Integer, String[]>)ois.readObject());
             ois.close();
