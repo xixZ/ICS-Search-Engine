@@ -7,7 +7,9 @@ import java.util.Map;
 
 public class Posting implements Serializable{
 	int wordFreq;     //number of occurrence in the whole corpus
-    Map<Integer, ArrayList<Integer>> posting;   //<DocID, positions>
+    Map<Integer, ScoreNPosition> posting;   //<DocID, positions>
     Posting(){
     }
 }
+
+
