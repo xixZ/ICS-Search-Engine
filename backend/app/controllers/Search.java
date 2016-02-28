@@ -15,6 +15,7 @@ import java.util.Map;
 import java.util.TreeMap;
 import java.util.Set;
 import java.util.Collections;
+import java.util.PriorityQueue;
 import controllers.indexing.Posting;
 import controllers.indexing.ScoreNPosition;
 
@@ -36,9 +37,9 @@ public class Search extends Controller{
         @Override
         public int compareTo(ScoredDoc other) {
             if(score - other.score > 0)
-                return -1;
-            if(score - other.score < 0)
                 return 1;
+            if(score - other.score < 0)
+                return -1;
             return 0;
         }
     }
@@ -46,7 +47,7 @@ public class Search extends Controller{
      * @param query
      * @return A treeMap which maps score to docID
      */
-    private ArrayList<ScoredDoc> searchHelper(String query) throws IOException, ClassNotFoundException{
+    private PriorityQueue<ScoredDoc> searchHelper(String query) throws IOException, ClassNotFoundException{
         String[] keyWords = (query.toLowerCase()).split("[^a-zA-Z0-9]");
         if(keyWords.length == 0)
             return null;
@@ -68,17 +69,23 @@ public class Search extends Controller{
             }
         }
         Set<Integer> docIDs = docIdToScore.keySet();
-        ArrayList<ScoredDoc> result = new ArrayList<>();
+        PriorityQueue<ScoredDoc> result = new PriorityQueue<>();
         for(Integer docID: docIDs) {
             ScoredDoc sd = new ScoredDoc(docID, docIdToScore.get(docID));
-            result.add(sd);
+            if(result.size() == numOfResults) {
+                if (sd.score > result.peek().score) {
+                    result.poll();
+                    result.add(sd);
+                }
+            } else{
+                result.add(sd);
+            }
         }
-        Collections.sort(result);
         return result;
     }
     public Result search(String query) throws IOException, ClassNotFoundException{
-
-        ArrayList<ScoredDoc> docs = searchHelper(query);
+        System.out.println("################ received query " + query);
+        PriorityQueue<ScoredDoc> docs = searchHelper(query);
     	Map<Integer,String[]> URL_Title_table = readURL_Map();
 
         String[] title;
@@ -90,14 +97,15 @@ public class Search extends Controller{
             title = new String[numOfResults];
             url = new String[numOfResults];
             content = new String[numOfResults];
-            int i = 0;
+            int i = numOfResults - 1;
             Integer docID;
-            for(ScoredDoc sd: docs){
+            while(docs.size() > 0){
+                ScoredDoc sd = docs.poll();
                 docID = sd.docID;
                 title[i] = URL_Title_table.get(docID)[1];
                 url[i] = URL_Title_table.get(docID)[0];
                 content[i] = "docID: " + docID.toString() + " score: " + sd.score;
-                i ++;
+                i --;
             }
         } else {
             numOfResults = 0;
