@@ -30,9 +30,14 @@
     </nav>
     <br><br><br><br>
     <div class="container" left-padding = "300px" top-padding = "300px">
-            @for(i <- 1 to numOfResults){
-                <h2><a href = "@urls(i-1)">@titles(i-1)</a></h2>
-                <p>@contents(i-1)</p>
+            @if( numOfResults == 0){
+                <h2>No Result Found</h2>
+            }
+            @if( numOfResults != 0){
+                @for(i <- 1 to numOfResults){
+                    <h2><a href = "@urls(i-1)">@titles(i-1)</a></h2>
+                    <p>@contents(i-1)</p>
+                }
             }
     </div>
     </body>

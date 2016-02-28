@@ -4,8 +4,8 @@ import java.io.*;
 import java.util.*;
 import controllers.indexing.*;
 public class FileProcessor{
-    static int MAX_FILE_NUM=0;
-    static int MAX_PAGE_IN_MEMERY=50000;
+    static int MAX_FILE_NUM = 57;
+    static int MAX_PAGE_IN_MEMERY = 10000;
     public static int processFiles(IndexBuilder iB ) throws FileNotFoundException, IOException{
         int docID = 0;
         int wordPos = 0;

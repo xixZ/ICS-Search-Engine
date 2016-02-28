@@ -12,7 +12,9 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
+import java.util.TreeMap;
 import java.util.Set;
+import java.util.Collections;
 import controllers.indexing.Posting;
 import controllers.indexing.ScoreNPosition;
 
@@ -22,36 +24,90 @@ import play.mvc.*;
 import views.html.*;
 
 public class Search extends Controller{
-    Integer numOfResults = 10;
+    Integer numOfResults = 20;
+
+    class ScoredDoc implements Comparable<ScoredDoc>{
+        Integer docID;
+        Double score;
+        ScoredDoc(Integer docID, Double score){
+            this.docID = docID;
+            this.score = score;
+        }
+        @Override
+        public int compareTo(ScoredDoc other) {
+            if(score - other.score > 0)
+                return -1;
+            if(score - other.score < 0)
+                return 1;
+            return 0;
+        }
+    }
+    /**
+     * @param query
+     * @return A treeMap which maps score to docID
+     */
+    private ArrayList<ScoredDoc> searchHelper(String query) throws IOException, ClassNotFoundException{
+        String[] keyWords = (query.toLowerCase()).split("[^a-zA-Z0-9]");
+        if(keyWords.length == 0)
+            return null;
+        HashMap<Integer, Double> docIdToScore = new HashMap<>();    //docID -> score
+        for(String keyWord: keyWords) {
+            HashMap<String, Posting> invertedIndex = readMap(keyWord.charAt(0));
+            Posting postingObj = invertedIndex.get(keyWord);
+            if (postingObj == null)
+                continue;
+            Map<Integer, ScoreNPosition> pos = postingObj.posting;
+            Set<Integer> docIDs = pos.keySet();
+            for(Integer docID: docIDs){
+                Double score = docIdToScore.get(docID);
+                if (score == null){
+                    docIdToScore.put(docID, (pos.get(docID)).score);
+                } else{
+                   docIdToScore.put(docID, score + (pos.get(docID)).score);
+                }
+            }
+        }
+        Set<Integer> docIDs = docIdToScore.keySet();
+        ArrayList<ScoredDoc> result = new ArrayList<>();
+        for(Integer docID: docIDs) {
+            ScoredDoc sd = new ScoredDoc(docID, docIdToScore.get(docID));
+            result.add(sd);
+        }
+        Collections.sort(result);
+        return result;
+    }
     public Result search(String query) throws IOException, ClassNotFoundException{
-    	HashMap<String, Posting> temp_table = readMap(query.charAt(0));
+
+        ArrayList<ScoredDoc> docs = searchHelper(query);
     	Map<Integer,String[]> URL_Title_table = readURL_Map();
 
-    	Posting result = temp_table.get(query);
-    	
-    	Set<Integer> docIDs = result.posting.keySet();
-    	numOfResults = Math.min(10, docIDs.size());
-    	
-    	String[] title = new String[numOfResults];
-        String[] url = new String[numOfResults];
-        String[] content = new String[numOfResults];
+        String[] title;
+        String[] url;
+        String[] content;
 
-        int i = 0;
-     	for(Integer docID: docIDs){
-            title[i] = Integer.toString(i)+": " + URL_Title_table.get(docID)[1];
-            url[i] = URL_Title_table.get(docID)[0];
-            content[i] = "I am the " + Integer.toString(i) + "th result"+" for "+query;
-            i ++;
+        if (docs != null) {
+            numOfResults = docs.size();
+            title = new String[numOfResults];
+            url = new String[numOfResults];
+            content = new String[numOfResults];
+            int i = 0;
+            Integer docID;
+            for(ScoredDoc sd: docs){
+                docID = sd.docID;
+                title[i] = URL_Title_table.get(docID)[1];
+                url[i] = URL_Title_table.get(docID)[0];
+                content[i] = "docID: " + docID.toString() + " score: " + sd.score;
+                i ++;
+            }
+        } else {
+            numOfResults = 0;
+            title = new String[numOfResults];
+            url = new String[numOfResults];
+            content = new String[numOfResults];
         }
         return ok(index.render(title, url, content, numOfResults));
     }
-    
-    public ArrayList<String> tokenizeFile(String fileText){// need some work to delete stop words
-    	String[] tokensArray =(fileText.toLowerCase()).split("[^a-zA-Z0-9]");
-    	ArrayList<String> tokens = new ArrayList<>(Arrays.asList(tokensArray));
-		return tokens;
-	}
-    
+
 	public HashMap<String, Posting> readMap(char prefix) throws IOException, ClassNotFoundException{
 		HashMap<String,Posting> mapInFile = new HashMap<>();
         String filePath = "./file/tables/table_" + prefix + ".txt";

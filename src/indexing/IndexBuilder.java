@@ -63,7 +63,8 @@ public class IndexBuilder {
 	}
     
     public void storeMap(HashMap<String, Posting> map, char prefix){
-	    //write to file 
+	    //write to file
+		
 	    try{
 	    	FileOutputStream fos=new FileOutputStream("./file/tables/table_"+prefix+".txt");
 	        ObjectOutputStream oos=new ObjectOutputStream(fos);
@@ -73,7 +74,7 @@ public class IndexBuilder {
 	        fos.close();
 	    }catch(Exception e){}
 	}
-	public HashMap<String, Posting> readMap(char prefix) throws IOException{
+	public static HashMap<String, Posting> readMap(char prefix) throws IOException{
 		HashMap<String,Posting> mapInFile = new HashMap<>();
    		try{
             FileInputStream fis=new FileInputStream("./file/tables/table_"+prefix+".txt");
@@ -84,7 +85,7 @@ public class IndexBuilder {
         }catch(Exception e){}
    		return mapInFile;
 	}
-	public void storeURL_Map(Map<Integer, String[]> map, char prefix){
+	public static void storeURL_Map(Map<Integer, String[]> map, char prefix){
 	    //write to file 
 	    try{
 	    	FileOutputStream fos=new FileOutputStream("./file/tables/table_"+prefix+".txt");
@@ -95,7 +96,7 @@ public class IndexBuilder {
 	        fos.close();
 	    }catch(Exception e){}
 	}
-	public Map<Integer, String[]> readURL_Map(char prefix) throws IOException{
+	public static Map<Integer, String[]> readURL_Map(char prefix) throws IOException{
 		Map<Integer, String[]> mapInFile = new HashMap<>();
    		try{
             FileInputStream fis=new FileInputStream("./file/tables/table_"+prefix+".txt");
@@ -107,7 +108,7 @@ public class IndexBuilder {
    		return mapInFile;
 	}
 
-    public void printIndextTable(char prefix) throws IOException{
+    public static void printIndextTable(char prefix) throws IOException{
 		HashMap<String, Posting> testMap1 = readMap(prefix);
 		for(String i:testMap1.keySet()){
 			System.out.print(i+": Fre: "+testMap1.get(i).wordFreq+" ");
@@ -121,7 +122,7 @@ public class IndexBuilder {
 			System.out.println();
 		}
     }
-    public void printURL() throws IOException{
+    public static void printURL() throws IOException{
     	Map<Integer, String[]> urlMap = readURL_Map('$');
 		for(int i:urlMap.keySet())
 			System.out.println("DocID:  "+i+": "+urlMap.get(i)[1]+"\t URL:"+urlMap.get(i)[0]);

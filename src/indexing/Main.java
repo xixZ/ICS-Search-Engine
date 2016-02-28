@@ -1,17 +1,8 @@
 package indexing;
 
 
-import java.io.BufferedReader;
-import java.io.FileNotFoundException;
-import java.io.FileReader;
-import java.io.IOException;
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.Map;
-import java.util.Scanner;
-import java.util.TreeMap;
-
-import scala.collection.mutable.Set;
+import java.io.*;
+import java.util.*;
 
 
 public class Main {
@@ -86,43 +77,13 @@ public class Main {
 		return docID;
 	}
 	
-    public static void main(String[] args) throws FileNotFoundException, IOException{        
-        IndexBuilder iB = new IndexBuilder();
+    public static void main(String[] args) throws IOException{
+       	IndexBuilder iB = new IndexBuilder();
         int totalPages = processFiles(iB);
         System.out.println("total Unique Words: "+iB.uniqueWordsCounter());
         System.out.println("total Pages: "+ totalPages);
-    	
-        
-        
-        //iB.printURL();
-    	iB.printIndextTable('a');
-        /*
-		
-		Scanner user_input = new Scanner(System.in);
-		//user input:
-		String query1;
-		System.out.println("Enter your query please, dude: ");
-		query1 = user_input.next();
-		user_input.close();
-		
-		
-		//fetch result  HUGE CHANGE NEED TO BE HAPPEN HERE TOOOOOO SLOWWWW:
-		Set resultPageNumber = (Set) iB.readMap(query1.charAt(0)).get(query1).posting.keySet(); 
-		List<String> returnURL = new ArrayList<>();
-		
-		System.out.println("Bro, here is your results: ");
-		for(int pageNumber : resultPageNumber){
-			try (BufferedReader br2 = new BufferedReader(new FileReader("./file/urls1.txt"))) {    
-				int URLcnt=1;
-				for(String line; (line = br2.readLine()) != null; ) {
-			        if(URLcnt==pageNumber){
-			        	returnURL.add(line);
-			        	System.out.println(line);
-			        }
-			        URLcnt++;
-				}	
-			}
-		}*/
+    	IndexBuilder.printIndextTable('a');
+		//iB.printURL();
 		
     }
 

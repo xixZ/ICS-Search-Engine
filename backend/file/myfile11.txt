@@ -1,0 +1,1979 @@
+##------------------URL-------------------------##
+http://www.ics.uci.edu/~kay/computer.law/cyberlawcourse/lessons/fresp06.html
+##-----------------TITLE------------------------##
+Free Speech 6
+##------------------TEXT------------------------##
+Back to Lesson Index
+
+
+
+
+
+
+Lesson 45 - Free Speech 6:
+Restrictions of Fully Protected Speech, Part II
+
+In the previous message we said that content-based restrictions (on fully protected speech imposed by the government acting as sovereign) are *generally* unconstitutional, and content-neutral restrictions are *generally* constitutional.  Actually, it's more precise to say:
+
+-    Content-based restrictions are constitutional only if they are
+ "narrowly tailored" to a
+"compelling government interest."
+
+-    Content-neutral restrictions are constitutional as long as they are
+ "narrowly tailored" to a
+"substantial government interest," and
+ "leave open ample alternative channels of communication."
+
+
+None of these terms is particularly clear and, on top of that, it turns out that "narrowly tailored" means quite different things in the two tests.  But, at least today, the Supreme Court seems *extremely* unlikely to uphold content- based restrictions (again, where the government is acting as sovereign and trying to restrict fully protected speech). And, at least today, the Supreme Court seems *quite* unlikely -- but not extremely unlikely -- to strike down content- neutral restrictions.
+So rather than bore you with a long and technical discussion of the cases, we'll just leave it at this: Content-based speech restrictions are almost certainly unconstitutional, and content-neutral speech restrictions are quite likely to be constitutional.
+authors:
+Larry LessigDavid PostEugene Volokh
+
+
+
+
+
+
+
+
+Back to Lesson Index
+
+
+
+Copyright © 1999 Social Science Electronic Publishing, Inc. All Rights 
+Reserved
+##------------------URL-------------------------##
+http://www.ics.uci.edu/~kay/computer.law/cyberlawcourse/lessons/fresp09.html
+##-----------------TITLE------------------------##
+Free Speech 9
+##------------------TEXT------------------------##
+Back to Lesson Index
+
+
+
+
+
+
+Lesson 48 - Free Speech 9:
+Anonymous Speech
+Anonymous speech generally gets the same protection as non-anonymous (attributed) speech. While anonymity may make it easier for people to do harm, it also makes it easier for people to express unpopular views without fear of reprisal from their employers, teachers, or neighbors. A law that, for instance, bans anonymous e-mail would be unconstitutional.
+In fact, both the harms and benefits from anonymity come from one source: Lack of accountability.
+People who speak anonymously are less likely to suffer harmful consequences from their speech. Some of those consequences (e.g., punishment for bad speech, such as threats or libel) would be justified, which is why we have misgivings about anonymous speech. Others (e.g., being fired for blowing the whistle on misconduct, or being shunned for expressing unpopular views) would be less justified, which is why we value the right to speak anonymously. Some might think that the harms of anonymity exceed its benefits, but the Court has generally concluded otherwise.
+Note, however, that the right to speak anonymously doesn't prevent people from taking steps to find out your identity. Say you use an anonymous remailer to libel someone, or to infringe someone's copyright. If you get sued, then the plaintiff can get a court to order the remailer to turn over any records related to that message. If the remailer does indeed keep an audit trail of materials sent through it, there goes your anonymity.
+
+authors:
+Larry LessigDavid PostEugene Volokh
+
+
+
+
+
+
+
+
+Back to Lesson Index
+
+
+
+Copyright © 1999 Social Science Electronic Publishing, Inc. All Rights 
+Reserved
+##------------------URL-------------------------##
+http://www.ics.uci.edu/~kay/computer.law/cyberlawcourse/lessons/copyr09.html
+##-----------------TITLE------------------------##
+Copyright 9
+##------------------TEXT------------------------##
+Back to Lesson Index
+
+
+
+
+
+
+Lesson 10 - Copyright 9:
+Still More on "Fair Use"
+
+As we've seen,
+copies of small excerpts tend to be FAIR,
+copies for systematic news reporting, criticism, or parody tend to be FAIR, and
+copies of unpublished works tend to be UNFAIR.
+*Outside* the area covered by these three basic rules, there are two more:
+COMMERCIAL copying is generally UNFAIR. "Commercial" here just means copying that makes the copier money.
+It doesn't much matter (A) whether you're making money from subscribers or advertisers, (B) whether you're a for-profit organization or a non-profit-one, and (C) whether your ultimate goal is the betterment of mankind or just making a quick buck. If you're making money from the copying, you should probably ask the copyright owner for a license (which might mean having to pay him for it).
+NONCOMMERCIAL copying is generally fair UNLESS the text you're copying is available for money (or for free in a place that carries advertising) either online or offline.
+The test is: If this noncommercial copying became WIDESPREAD, would it *displace some sales* (or some advertising revenues)? If it will, it's unfair.
+That's why it's a copyright infringement for you to send a copy of WordPerfect to a friend. Even if you're pretty sure your friend would never buy it himself, WordPerfect loses some money when this sort of copying becomes commonplace.
+authors:
+Larry LessigDavid PostEugene Volokh
+
+
+
+
+
+
+
+
+Back to Lesson Index
+
+
+Copyright © 1999 Social Science Electronic Publishing, Inc. All Rights 
+Reserved
+##------------------URL-------------------------##
+http://www.ics.uci.edu/~kay/computer.law/cyberlawcourse/lessons/libe04.html
+##-----------------TITLE------------------------##
+Libel 4
+##------------------TEXT------------------------##
+Back to Lesson Index
+
+
+
+
+
+
+Lesson 35 - Libel 4:
+Libel Online I
+Last time we said that one reason public figures got less protection from libel law was that they had an easy opportunity to defend themselves. Because they had access to the media, they could easily rebut charges that were in fact false. This, the courts have said, distinguishes public figures from private persons, since private persons don't have as easy an opportunity to reply.
+ But what about people on the net? If I am libeled in an America Online chat room, not only do I have the opportunity to respond quite easily and cheaply, AOL in principle could determine most of the people who saw the libel. My reply could then be targeted at them. Thus my ability to reply in that context is better than a public figure's ability to reply. Does that means people on the net should be treated as public figures for purposes of libel law and given as little protection from libel as public figures?
+ Some have argued that they should, but no court has yet accepted that argument. And while libel law may need to be adjusted to fit cyberspace, it is unlikely that it will be changed so dramatically. Whether people on the net can defend themselves or not, courts are unlikely to make self- help the only remedy for libel. They believe the law as well should help. The ability to respond cheaply may affect how harmful any particular libel is, but we believe it is unlikely that that fact will convert net speech into a license to libel.
+Next time we'll discuss other cyberspace-specific concerns.
+authors:
+Larry LessigDavid PostEugene Volokh
+
+
+
+
+
+
+
+
+Back to Lesson Index
+
+
+
+Copyright © 1999 Social Science Electronic Publishing, Inc. All Rights 
+Reserved
+##------------------URL-------------------------##
+http://www.ics.uci.edu/~kay/computer.law/cyberlawcourse/lessons/copyr02.html
+##-----------------TITLE------------------------##
+Copyright 2
+##------------------TEXT------------------------##
+s
+Back to Lesson Index
+
+
+
+
+
+
+Lesson 3 - Copyright 2:
+Pretty Much All Writings Are Copyrighted
+
+ Let´s begin with how to obtain a copyright.  What do you 
+need to do to get a copyright for something you´ve written?
+You don´t need to send it in to the Library of Congress.
+You don´t need to put a copyright notice on it.
+Your work is copyrighted THE MOMENT IT´S WRITTEN DOWN.
+
+That´s right:  To get a copyright for something you´ve 
+written, you need to do *absolutely nothing* except for 
+writing it down.
+So the e-mail you send to a friend?  It´s copyrighted. 
+(Copyright law applies to things you write electronically, 
+even if they never end up actually "written" on a piece of 
+paper.)
+The personal Web page you´ve put up?  It´s copyrighted.
+The memo you write on the job?  It´s copyrighted, though 
+under the "work made for hire" doctrine, the copyright is 
+owned by your employer.  The general rule is that anything 
+you write within the scope of your employment is owned by 
+the employer.  (The rule may be different if you´re an 
+independent contractor, but the legal distinction between 
+employee and non-employee is too complex for this seminar.)
+There are only two basic limitations here:
+Extremely short writings - for instance, several words or shorter - or extremely simple drawings are generally not copyrighted.
+If you simply copy what someone else has done, without adding anything new of your own, your copy is generally not copyrighted.
+
+Larry LessigDavid PostEugene Volokh
+
+
+
+
+
+
+
+
+Back to Lesson Index
+
+
+
+Copyright © 1999 Social Science Electronic Publishing, Inc. All Rights 
+Reserved
+##------------------URL-------------------------##
+http://www.ics.uci.edu/~kay/computer.law/cyberlawcourse/lessons/contr07.html
+##-----------------TITLE------------------------##
+Content Regulation: The CDA - Lesson 7
+##------------------TEXT------------------------##
+Back to Lesson Index
+
+
+
+
+
+
+Lesson 72 - Content Regulation: the CDA  of 1996
+Applying the Law, Part 1
+
+Can we use the free speech framework we outlined earlier to figure out whether the CDA is constitutional?  As usual, we'll have to oversimplify a bit; when the Supreme Court actually issues its decision in this case (by early July), it'll probably take many dozen pages to give the full explanation, and we're trying to swing it in 2000 words. But let's see how far we can get over the next couple(P) messages.
+ As we noted in our first message here, the most controversial part of the CDA prohibits anyone from
+
+"us[ing] an interactive computer service"
+"to display in a manner available to a person under 18 years of age"      	"any comment, request, suggestion, proposal, image, or other communication"
+"that, in context, depicts or describes,"
+"in terms patently offensive as measured by contemporary community standards,"
+"sexual or excretory activities or organs."
+
+ Speech in the public areas of cyberspace is generally available to minors, so the law really applies to all such areas, including Web sites, Internet newsgroups, e-mail discussion lists, chat rooms, and bulletin boards.
+ As we said in the very first message in the free speech material, the first inquiry must be whether the *government* is imposing such a restriction.  The answer here is certainly "yes."  A private service provider may certainly refuse to let its customers put up Web sites with "patently offensive" material; there'd be no free speech problem with that.  But here, the *government* is acting.
+ The second inquiry is into the government's *role* -- is it acting as sovereign, proprietor, educator, or something else? Here, the government is acting as *sovereign*, passing general laws regulating people's conduct, which means the First Amendment provides some pretty strong protections.  If the government were acting as, say, K-12 educator, the First Amendment protections would be much weaker; it's almost certain, for instance, that a school board could set up a CDA-like rule for posts by public school students on public school computers.
+ The third question is whether the speech falls into any of the unprotected categories, such as obscenity or child pornography.  Some speech that the CDA bans would indeed fall into these categories, but a lot won't.  The CDA covers speech that doesn't appeal to the prurient interest; for example, the CDA might be read as barring hard-core profanity.  (We say "might" because the Act is fairly vague, though -- under the Court's recent decision on a similar question in Denver Area Educational Telecommunication Consortium v. FCC (1996) -- probably not unconstitutionally vague.)
+ The CDA also covers speech that has serious literary, artistic, political, or scientific value:  For instance, Mapplethorpe photos, works such as the Kama Sutra or other ancient sexual art, or perhaps even frank discussions about sexually transmitted diseases, sexual dysfunction, and so on might all qualify.  Thus, the obscenity and child pornography doctrines aren't enough to justify the CDA.
+ As we mentioned before, the Court has at times suggested that this sort of "indecent" speech, even if it isn't obscenity or child pornography, is "low-value" and thus gets a relatively low level of protection (even though it gets *some* protection).  This is a very murky area, but it seems likely that the Court would *not* take such an approach here.  We say this because in the precedent closest to this case -- Sable Communications v. FCC (1989), which involved a similar ban on "indecency" in telephone communications (chiefly focused on dial-a-porn) -- the Court refused to apply the "low-value speech" analysis.  Instead, the Court treated the speech as fully protected.(P)
+ So the Court will probably treat the CDA as involving the government, acting as sovereign, restricting fully protected speech.  What's more, the government is regulating the speech *because of its content* -- not because the speech is too loud or blocks traffic, but because *what it says* is supposedly harmful.  This means that the CDA is unconstitutional unless it passes the very demanding test called "strict scrutiny":  The government must show that the CDA is
+
+- "narrowly tailored" to a
+- "compelling government interest."
+
+ OK, so now we have our test; but what does it really mean? Does the CDA serve a compelling interest?  What's "compelling"?  Is the CDA "narrowly tailored" to the interest, and what exactly does "narrow tailoring" require?(P)
+ Well, the Court has never given entirely satisfactory definitions of these terms, but we do know a few things:
+In Sable v. FCC, the Court concluded that the government *does* have a compelling interest in shielding children from the material banned by the CDA. Some people disagree, and think that this interest isn't compelling, but we're just telling you what the Court has said.
+*However*, the Court has also held that this shielding must be done through the "least restrictive means."  If there are "less restrictive alternatives" that can shield children without restricting as much speech as the ban would, then the ban is unconstitutional.  At the same time, these proposed alternatives must still be *effective* at shielding children; if they are much less effective than the ban, then in theory the ban would be upheld.
+
+ So the constitutionality of the CDA comes down to this:  Are there other ways in which the government can shield children that are *less restrictive* than the CDA but still at the same time *pretty much as effective* as the CDA?
+ In our next message, we'll tell you what we think.
+
+
+
+authors:
+Larry LessigDavid PostEugene Volokh
+
+
+
+
+
+
+
+
+Back to Lesson Index
+
+
+
+Copyright © 1999 Social Science Electronic Publishing, Inc. All Rights 
+Reserved
+##------------------URL-------------------------##
+http://www.ics.uci.edu/~kay/computer.law/cyberlawcourse/lessons/tm06.html
+##-----------------TITLE------------------------##
+Trademark 6
+##------------------TEXT------------------------##
+Back to Lesson Index
+
+
+
+
+
+
+Lesson 31 - Trademark 6:
+Trademarks on the Net II
+Other uses of Trademarks
+The process of giving out domain names is not the only place where trademark law intersects with the Internet - nor even, for most users (who will never try to acquire their own domain name) the most important one. We all use trademarks all the time, if only in our discussions with others about goods or services we have used or thought about using. How can you know whether or not you are infringing anyone else's trademark?
+ The first rule of thumb is the easiest: if you're not trying to associate a name with some goods or services that *you* are offering to the public, you're almost certainly OK. You can participate in a discussion group about the pros and cons of Netscape (and use the Netscape trademarked name to your heart's content), you can put up a Web page discussing "The Ten Things I Love (or Hate) About Pizza Hut" and nobody can claim that you are infringing Pizza Hut's trademark. Remember that the touchstone of trademark infringement is consumer confusion about the origin or source of goods or services to ensure that consumers do not go to another pizza restaurant ("Pizza House") thinking that they are going to Pizza Hut. In other words, as long as you do not try to attach a trademark that is already in use to some *other* goods or services (thereby deceiving or confusing potential consumers), you are generally safe.
+ But what if you are offering goods and services over the Internet and you want to use a particular word, or phrase, or symbol to identify *your* stuff? Here you do have to think a little bit. Obviously, if you know of some other business that is using the same or a similar mark, and unless you are *quite* sure that the other business is operating in a market that is *very* different from the one you're planning to operate in, your best course of action is probably to think of another identifier. Discretion being the better part of valor and all that.
+ But can you ever know for certain whether there is trademark being used somewhere out there that is the same as the one you have chosen? The fact is, you can't. In the US, there are a number of commercial firms that will perform a search of the US Patent and Trademark Office's Trademark Register for you (and wouldn't it be nice if we could all persuade the Patent and Trademark Office to put this database online for us all to use?). That may well be worth doing if you are serious about the use of a mark for a business venture you're engaged in. But bear in mind that even that is not foolproof insurance against an infringement claim, for two reasons. First, as we saw earlier, trademark rights in the US are based on *use*, not registration; someone may own a protectable trademark without ever having registered the trademark.
+ Second, what about marks that are in use and possibly registered in countries other than the US? Might some, say, Brazilian company see your logo on the Web and complain that your use conflicts with its trademark registered in Brazil?
+ Here, we have to admit, we're on uncertain ground. Every country does indeed have its own trademark system, and the general rule is that each country's trademarks will be enforced within that country's boundaries. So we know, for example, that if your mark conflicts with an existing Brazilian mark, you can't send your goods into Brazil bearing that mark. The problem, of course, is that the global nature of the Internet makes it difficult to apply this simple rule; are you "sending your goods into Brazil" when you put up a Web page on a server in Kansas - a server that is, of course, accessible by people in Brazil?
+ An interesting and important question - but one that, in these early days of the Net, has not yet been resolved.
+
+authors:
+Larry LessigDavid PostEugene Volokh
+
+
+
+
+
+
+
+
+Back to Lesson Index
+
+
+
+Copyright © 1999 Social Science Electronic Publishing, Inc. All Rights 
+Reserved
+##------------------URL-------------------------##
+http://www.ics.uci.edu/~kay/computer.law/cyberlawcourse/lessons/libe06.html
+##-----------------TITLE------------------------##
+Libel 6
+##------------------TEXT------------------------##
+Back to Lesson Index
+
+
+
+
+
+
+Lesson 37 - Libel 6:
+Libel Online III
+Imagine Dr. Evans (from our last message) moves over to a different online service provider. This online service provider promises to screen all messages before they are posted on an online bulletin board. Dr. Evans chooses this over the other online service provider, since she is less likely to be flamed on this service than the other.
+ The new service provider does what it promised; it screens all messages before they are posted. A gaggle of editors sits at computer screens reading every message; any questionable message gets routed to a fact checking team that determines whether it is too questionable to publish or not. Questionable posts are dumped; indecent posts are dumped. This online service provider becomes known as the Disney World of online services.
+ And then IBEX returns. Again, IBEX posts a similar message: "Dr. Evans is not a medical doctor; she is a veterinarian. She has fraudulently been practicing medicine for 5 years, pretending to be a medical doctor when she is not. She is a LIAR and a FRAUD."
+ The message is sent to be posted. A tired, and bored, editor, reads it, but doesn't understand the significance of what he has read. He allows the message to be posted. Evans is shocked; very quickly, the service provider pulls the message, but not before 1,000 people have read it. IBEX has once again disappeared. What can Dr. Evans do now?
+ Well, this case is a bit different from the case in message 5. In this case, the online service provider is acting more like a traditional publisher. It is screening the stories that it posts; it promised that it would. And while this might be a difficult task to do, or do well, no one forced it to do it. The service chose to be the Disney World of online services. Now, the argument goes, the online service provider must pay. This was the reasoning that led a court recently to a different conclusion from the one in Cubby. In a case called Stratton Oakmont, the court ruled that Prodigy would be treated as a newspaper, since the court believed it had exercised editorial control over the content of the messages posted. Both through automatic screening, and some manual screening, Prodigy (the court thought) had become something different from CompuServe.
+Many thought the Stratton Oakmont case a radical departure from the Cubby decision, and many have criticized the decision quite forcefully. Technically, however, (and lawyers love the technical), it was a much more limited decision. The court was not holding that Prodigy was responsible for every false fact published on their service. Prodigy had represented (or so the court found) that it would remove offensive and uncivil comments, whether true or not, and this was what they had failed to do. It was only because of it undertook to do this that the court considered Prodigy more like a publisher than a book store.
+The authority of the Stratton Oakmont case has been made questionable by the recent Communications Decency Act of 1996. The famous part of that statute is the part that attempts to limit indecency online. But in a little- discussed portion of the statute, it says that service providers will not be considered "publishers" of material that they did not write. That seems to say that the Cubby decision is the law, and that Stratton Oakmont is not. But this is an area of some doubt. Stay tuned!
+authors:
+Larry LessigDavid PostEugene Volokh
+
+
+
+
+
+
+
+
+Back to Lesson Index
+
+
+
+Copyright © 1999 Social Science Electronic Publishing, Inc. All Rights 
+Reserved
+##------------------URL-------------------------##
+http://www.ics.uci.edu/~kay/computer.law/cyberlawcourse/lessons/contr11.html
+##-----------------TITLE------------------------##
+Content Regulation: The CDA - Lesson 11
+##------------------TEXT------------------------##
+Back to Lesson Index
+
+
+
+
+
+
+Lesson 76 - Introduction and Overview 1
+Content Regulation and the
+The CDA:  We Report from the Supreme Court
+
+
+     We thought we'd give you a flavor of the argument at the Supreme Court Wednesday, on the CDA.  Two of your three professors were there.  Here's a brief account -- and keep in mind: the Supreme Court does not allow visitors to take notes at the argument, so there may be some errors or omissions in what follows due to our faulty memories.
+ The Government's Argument:
+ 
+ Two lessons ago, we sketched for you what we believed was the government's strongest case.  This was the zoning argument -- that the CDA simply attempted to zone porn in cyberspace to a place where kids couldn't get access.  On Wednesday, however, the government apparently forgot that argument.  The case was argued not by the Solicitor General (Walter Dellinger), but by one of his primary deputies, Seth Waxman.
+
+ Waxman gave the weakest argument imaginable.  He began with something about the threat that indecency presented on the Internet.  On this issue (for those who believe that this is the problem) he was ok.  The Internet threatens, he argued, to make ineffective all the real space regulation of indecency, because in cyberspace, as it is just now, any kid can get access to an unlimited amount of pornography.
+
+But then, rather than shifting into the zoning argument, mysteriously, Waxman began to talk about the weakest part of his case:  the definition of indecency.  His claim was essentially this:  That it would be only a minor burden for publishers to screen out indecency.
+
+ That was ok as far as it went, but Waxman gave as his first real space example the example of a library.  The Carnegie Library.  In the court below, the Carnegie Library said that they were concerned because they wanted to put their catalog on the Web.  But parts of their catalog might be considered indecent, and hence the library would face the threat of punishment unless it could find a way to exclude the indecent material from the online catalog.
+
+ Bizarrely, Waxman offered this to the Justices, as an example of how the burden of the CDA would not be too great.  Said Waxman: it wouldn't take a very sophisticated software program to find the indecent card catalog entries, and exclude them.  That may be right, but it set an extremely weird tone for the rest of the argument.  In fact, we don't ordinarily think about libraries segregating material based on whether the material is indecent. And this first weird example seemed to procreate and simply inspire more weird examples.
+
+ Justice Breyer asked whether Congress could declare indecent telephone conversations between high school students criminal. Imagine, Breyer said, high school students discussing their sexual exploits.  ("This has been known to happen," Breyer joked.)  Could Congress make that speech criminal?  Waxman didn't have a clear answer.  That resulted in the Justices proposing even more extreme examples for the government attorney's consideration:  What if a parent made indecent material available to his or her child? Would that be a criminal offense?  Again, Waxman had no clear answer.  Sometimes that would be child abuse, Waxman said, but if the Court didn't think Congress could regulate such speech, then it could narrow the statute (that is, the Court could read it in a narrow way) so it would not cover cases such as this.
+
+ In the end, Waxman's mistake was to make the statute seem like a kind of regulation we haven't seen before.  The Justices were already unsure about just what the Internet is.  Waxman made them even more unsure about the legitimacy of regulating it, given how weird and different this regulation seemed.  Rather than make the Justices feel that this was just real space regulation applied in cyberspace, he made the Justices feel that this was a kind of invasiveness and censorship that real space regulation has never seen.  He failed, in our minds, to make the case for the CDA plausible, let alone convincing.  And we doubt whether more than three justices accepted his argument.
+
+ The Plaintiffs' Argument:
+ 
+ Bruce Ennis argued the case for the plaintiffs (the ACLU, the American Library Association, and the other organizations and individuals who had challenged the constitutionality of the CDA). He first responded to the government's argument that information providers can simply implement "adult verification" devices so as to comply with the statute.  Ennis pointed out that while that might be true for some (though not all) *Web sites*, the Web is only a small part of "cyberspace."
+
+ Newsgroups, chat rooms, listservers and the like, Ennis argued, are where most of the conversation on the Internet actually takes place, and in those forums it is simply impossible for anyone to know whether he or she is "making available" indecent information to someone under the age of 18.  As a result, the only way to comply with the statute in those contexts is to refrain entirely from communicating about "indecent" subjects.   But that, of course, sweeps too broadly -- adults have a constitutionally protected right to such
+communication, and the statute would thus "chill" protected speech. It was an effective rebuttal to a significant portion of the government's presentation.
+
+ [During this colloquy, Justice Scalia asked a question to the effect:  "Why can't we just channel all communication on the Internet onto the World Wide Web?"  One can never be sure that Justice Scalia is not just playing devil's advocate when he asks outrageous questions like this, but we noticed that several of America Online's lawyers visibly blanched at the suggestion that they simply fold up their tent and go away!]
+
+ And even for the Web, Ennis argued that adult verification schemes are "prohibitively expensive."  There was some skepticism on the part of some Justices (especially Scalia and Rehnquist) about this, but Ennis vigorously pressed the points that (a) for many Web sites (e.g., those hosted by commercial online service providers like America Online or Compuserve) the verification schemes relying on the use of CGI scripts cannot now be utilized, and (b) that other Web sites being used for non-commercial purposes would find such schemes financially burdensome in the extreme.
+
+ Ennis also spent some time following up some of the hypotheticals that the Justices had been developing during the government's presentation.  In particular, he pointed out that not only, as Justice Breyer had suggested, would a parent be *criminally* liable under the CDA if the parent were viewing "indecent" material with his or her 17 year old child looking on, but also that an e-mail from parent to child discussing, say, safe sex techniques might similarly subject the parent to criminal prosecution.
+
+ Ennis also tried -- somewhat less successfully, we think -- to suggest that the statute would simply be ineffective at controlling the exposure of minors to indecent material, because of the large amount of material available on the Internet from foreign sources.  Again, Justices Rehnquist and Scalia found this unpersuasive -- so we can only shut down 50% of the dirty
+ bookstores, Scalia asked, does that make the statute unconstitutional?
+ 
+ Finally, Ennis returned to the major theme developed in the briefs: that there are "less restrictive alternatives" to accomplishing the government's goals here than by implementing the CDA, namely the parental control filters that already are in place on the major online services or those available from such providers as SurfWatch, Net Nanny, and the like.  What, one of the Justices asked, about children who might not be supervised by parents at all?  Doesn't the statute help to protect those children from this material in a way that no other form of protection can?  Perhaps, Ennis conceded -- but the cost to society is simply too high to permit the government to proceed in this manner.
+
+                 *************************
+ So there it is.   In our view, the Justices appeared to be sympathetic to the plaintiffs' arguments attacking the CDA, with perhaps 2 or 3 exceptions -- but handicapping the Supreme Court from the conduct of the Justices at oral argument is a notoriously difficult task (as is said regarding the weather in many places -- "only fools and newcomers try to predict"), and we'll all just have to wait until the opinion is released (some time before the July Court recess) to see where they really stand.
+
+ So, our final view on the CDA is this:  the government had two very difficult hurdles to overcome.  It had to show that the statute could be narrowed to properly regulated speech.  And it had to show that the burden of its zoning provisions for that properly regulated speech were not too severe.  As we have explained, if it had done the first, at least one of us believes it could have done the second.  But none of us believe the government came close to doing the first.  We all believe the statute is, and will be, held to be unconstitutional.
+
+
+authors:
+Larry LessigDavid PostEugene Volokh
+
+
+
+
+
+
+
+
+Back to Lesson Index
+
+
+
+Copyright © 1999 Social Science Electronic Publishing, Inc. All Rights 
+Reserved
+##------------------URL-------------------------##
+http://www.ics.uci.edu/~kay/computer.law/cyberlawcourse/lessons/fresp12.html
+##-----------------TITLE------------------------##
+Internet Archive Wayback Machine
+##------------------TEXT------------------------##
+Enter 
+										Web Address: 
+										  
+											All200120001999199819971996
+											 
+											 Adv. Search
+										
+							
+				
+			  
+		
+
+
+
+      
+               
+               File Location Error.
+
+               Sorry, we can't find the file containing the archived
+version of this page.  Perhaps it's been moved.
+Try another request or click here to search for all pages on
+ssrn.com/update/lsn/cyberspace/lessons/fresp12.html
+See the FAQs for more info and help, or contact us.
+ 
+            
+
+
+		
+    		
+    		
+				
+				 
+                                                Home |
+                                                Help
+                                        
+                                                Copyright © 2001,
+                                                Internet Archive |
+                                                Terms of Use |
+                                                Privacy Policy
+##------------------URL-------------------------##
+http://www.ics.uci.edu/~kay/computer.law/cyberlawcourse/lessons/tm05.html
+##-----------------TITLE------------------------##
+Trademark 5
+##------------------TEXT------------------------##
+Back to Lesson Index
+
+
+
+
+
+
+Lesson 30 - Trademark 5:
+Are Domain Names Trademarks?
+So you may well be asking yourself, what does all of this have to do with the Net, anyway? It's a good question. There are a couple of ways in which trademark law has an important bearing on activities in cyberspace..
+ The one that has gotten the most attention thus far involves the question of Internet domain names. As you probably know, machines that are connected to the Internet must have an "address" - a unique identifier that belongs to it and it alone, so that messages can be routed correctly among the millions of machines that constitute the global network..
+ The problem is, these names might conflict with already- established trademarks in the non-virtual world. You may have heard about Joshua Quittner, a reporter for Wired magazine, who registered the "www.mcdonalds.com" domain for himself (and, just to have a little fun, wrote a column asking readers for suggestions on how to dispose of this interesting little piece of property). McDonalds was not amused, and although McDonalds and Quittner settled their dispute, there have been a couple of lawsuits filed by other trademark holders, and there are several dozen other disputes of this kind. Roadrunner.com was claimed by a small New Mexico computer company - and Warner Brothers has asserted that this use infringes on its trademarked cartoon character. Newton.com was claimed by a gentleman by the name of Mark Newton, much to the displeasure of Apple Computers. And the Gap, Inc. has complained about the registration of the name "thegap.com" given out to Genesis Access Point, an Internet Service Provider in Northern Ireland..
+ You might want to take a look at the "What's In A Name" web page at http://www.cli.org for lots of information about these disputes..
+ Only one case has been decided thus far, in which a court ordered the Internet Engineering Group to give up the "www.candyland.com" address (which they were using for something called "Club Love") after a complaint by Hasbro, Inc. (manufacturers of the children's game "Candyland")..
+ This is surely not the last we will hear of this issue. Network Solutions, Inc. (NSI), the company controlling addressing on the Internet in the US under contract with the National Science Foundation, used to give out domain names on a simple first come, first served basis. But no more. NSI's policy, adopted last year, and is currently in the process of revision after much debate on the Net and off, requires all applicants to promise that their use of a particular domain name will not infringe anyone else's trademark rights. The NSI policy also declares that NSI will force you to relinquish your domain name if anyone shows them a trademark registration for that name issued by any national government. (See http://rs.internic.net for NSI=92s registration services and current policies.).
+ So the "trademark battles" are likely to continue .
+
+authors:
+Larry LessigDavid PostEugene Volokh
+
+
+
+
+
+
+
+
+Back to Lesson Index
+
+
+
+Copyright © 1999 Social Science Electronic Publishing, Inc. All Rights 
+Reserved
+##------------------URL-------------------------##
+http://www.ics.uci.edu/~kay/computer.law/cyberlawcourse/lessons/priv08.html
+##-----------------TITLE------------------------##
+Privacy 8
+##------------------TEXT------------------------##
+Back to Lesson Index
+
+
+
+
+
+
+Lesson 20 - Privacy 8:
+Exceptions to ECPA Protection
+In our last message we described 4 Sysop-specific exceptions to the protections against the "interception" of electronic communications that the Electronic Communication Privacy Act (ECPA) provides. In this message, we describe some more general exceptions, that in operation, might sweep quite broadly.
+ First there are exceptions to protect the service provider (AOL, Compuserve, etc.). These allow the service provider to protect itself against the harm that a user might cause, or against illegality that the user might be engaged in. To this end, it is not a violation of ECPA for the service provider to:
+(1) keep a log of the messages sent and received, for example, to protect against fraud or abuse; (2) assist an authorized law enforcement official to intercept a message; (3) intercept messages when necessary to assure the continuation of service or to protect the rights of the service provider.
+
+ Second, consent can be a basis of the interception. If one of the parties to the communication has given consent, prior to the interception, then:
+a police officer, or someone acting as if they have the authority of law behind them, can intercept an electronic message;
+any private citizen can intercept the message, so long as the purpose of that interception is not to commit some crime, or other wrong protected by the law;
+publicity can be the basis of a lawful interception. If you are posting a message to a public bulletin board, or to USENET, then it is not a violation of ECPA for someone to intercept or disclose your message;
+finally, you may have waived you rights to protection under ECPA. If the contract with your electronic service provider, for example, says that the service provider can intercept your messages, then you can't complain if the provider does. The same may be true with your employer - but that is a topic we discuss later.
+
+ In general, these exceptions can be summarized like this: First, if you are doing harm and there is reason to believe you are doing the harm, or if the system provider is protecting against harm, then you don't have a right not to have your message intercepted. Second, if you have agreed to have your message intercepted, whether explicitly (through the agreement you have with your provider), or implicitly (by posting to a public bulletin board, or because of an employment relationship), then you don't have a right not to have your message intercepted. Next time we discuss protections against access to communications you might have stored on your computer.
+authors:
+Larry LessigDavid PostEugene Volokh
+
+
+
+
+
+
+
+
+Back to Lesson Index
+
+
+
+Copyright © 1999 Social Science Electronic Publishing, Inc. All Rights 
+Reserved
+##------------------URL-------------------------##
+http://www.ics.uci.edu/~thornton/ics22/LabManual/GoneToTheMovies/
+##-----------------TITLE------------------------##
+ICS 22 / CSE 22 Fall 2012, Project #4: Gone to the Movies
+##------------------TEXT------------------------##
+ICS 22 / CSE 22 Fall 2012 |
+News |
+Course Reference |
+Schedule |
+Lab Manual |
+Code Examples
+About Alex
+
+
+
+
+
+
+
+
+ICS 22 / CSE 22 Fall 2012
+   Project #4: Gone to the Movies
+   
+
+
+
+
+Due date and time: Monday, November 19, 11:59pm
+
+This project is to be completed individually
+
+
+
+
+
+
+
+Background
+
+In business or scientific contexts, it's sometimes very costly to make changes to the way that you're doing things, yet sometimes the changes you consider might yield great benefits; but sometimes, you don't know if they'll yield those benefits without some experimentation.  But if the experimentation is too costly, you might never be willing to pay the cost of finding out whether the changes you're considering are worthwhile or not.
+
+Computers have a role to play in situations like this.  If you can write a program that will show you how things would be different after you make your changes, and compare that result to how things are now, you can more cheaply find the answer you're looking for — should I make this change or not? — and, if it turns out to be a positive change, you can proceed with making it happen.
+
+In this project, we'll consider a situation like this one.  Suppose that the movie theater chain Millennium Cinemas is interested in finding ways to attract customers away from their larger, more well-established rivals.  With the proliferation of "megaplex" movie theaters during the last couple of decades, Millennium management believes that one problem that movie-goers face is the long wait in line to buy tickets.  They seek a solution that will allow their customers to spend less time in line, hoping that this will dramatically improve their sales.  It's not in their best interest to spend a lot of time running experiments, especially since some of the things they might want to try could well end up lengthening their customers' waits in line, ultimately hurting their business.  (When you're a large company, you can spend money trying things that might have a negative impact, absorb the loss, and move on.  When you're small, you don't have this kind of freedom.)
+
+So, to aid in their analysis of the time that customers spend in line, you'll build a program that will simulate various arrangements of lines and ticket windows, to allow them to find the optimal combinations for its theaters.  The project will give you practice implementing queues, as well as introduce you to the concept of a simulation, a program that approximates a real-world situation (in this case, the movement of customers as they arrive at the theater, stand in line, and buy tickets) and keeps track of statistics about it.  You'll also have a chance to gain some design skills, as you'll be starting this project from scratch.  Don't worry, though; we'll give you plenty of help along the way.
+
+
+
+
+
+
+
+Reminder: Do not partner up
+
+For this project, your work is expected to be completed individually, so do not partner up, and do not use the pair programming technique.
+
+
+
+
+
+
+
+The program
+
+Millennium requires a program that will allow them to simulate a variety of arrangements of ticket lines, ticket windows, and patterns of customer arrival.  You will write a program that gives them this flexible simulation ability.  It will allow the user to specify the number of ticket windows, whether there will be a single line or one per window, and the speed at which each ticket attendant can process customers.  Once these simulation parameters have been specified, the program processes a file that indicates the arrival of customers, simulating their arrival into the ticket lines, tracking how long each customer spends in line, and ultimately calculating statistics about them.
+
+
+
+
+
+
+
+Window and line arrangements
+
+Millennium has many different styles of theaters, from single-screen theaters showing classic or foreign films to larger multi-screen varieties showing the latest releases.  To support its various sizes and styles of theaters, it wishes to investigate two arrangements of ticket windows and lines:
+
+One or more ticket windows, each with its own line.One or more ticket windows, and one line feeding all of them.
+
+For each arrangement of lines, they will also be interested in investigating the number of windows necessary to support various numbers and patterns of customers.  They will use the simulator to determine the contexts in which each arrangement will be appropriate.
+
+
+
+
+
+
+
+The input file
+
+In order to simulate different types of theaters, the simulator will need to accept a set of parameters, specified in an input file.  The input file specifies the number of ticket windows, and whether there is a single ticket line or a separate line for each window.  In addition, the input file will contain a list of customer arrivals, specifying how many customers will arrive at the theater at which times.  Here is an example of an input file.  The italicized portions are included here for descriptive purposes, and should not be included in the actual input file.
+
+
+Short simulation     brief description of the simulation
+5                    the length of the simulation, in minutes
+2                    the number of ticket windows
+S                    how many lines: "S" for single, "M" for multiple
+45                   number of seconds it takes to process a customer at window #1
+35                   number of seconds it takes to process a customer at window #2
+1 30                 one customer arrives 30 seconds into the simulation
+5 35                 five customers arrive 35 seconds into the simulation
+3 45                 three customers arrive 45 seconds into the simulation
+1 60                 one customer arrives 60 seconds into the simulation
+1 90                 one customer arrives 90 seconds into the simulation
+END                  the "END" tag marks the end of the customer arrivals
+
+
+The input file is broken into two parts: the setup section, which describes the arrangement of ticket windows and lines, and the customer arrival section, which lists the arrival of customers.
+
+The setup section
+
+The first line of the setup section is a brief description, perhaps a sentence or so, that explains the purpose of the simulation.  The next line specifies the length of the simulation.  Following that, the next line specifies how many ticket windows there will be during the simulation.  This is followed by either "S" or "M" on a line by itself, which specifies whether there is a single ticket line or one ticket line per window.  Finally, there is a line for each of the windows — they should be numbered from 1..n — that states how many seconds it takes the attendant at that window to sell a ticket to a single customer.
+
+There must be a positive number (i.e., greater than zero) of ticket windows, though there is no pre-defined maximum.  The number of seconds that each attendant takes to process a customer must also be a positive number.
+
+After reading the setup section, the simulator should be ready to begin processing the arrival and departure of customers, so any applicable data structures should have been created and initialized appropriately.
+
+The customer arrival section
+
+Each line in the customer arrival section of the input file describes the arrival of a number of customers at a particular time.  The time is specified as the number of seconds since the simulation started, and they must increase as the file is processed (i.e., the time on each line in the file must be greater than the time on the line that came before it).  The number of customers must be positive.
+
+When customers arrive, they get into one of the ticket lines.  If there is only a single line, obviously they get into that line.  If there are multiple lines, each customer should be processed one by one; each one should get into the line which has the fewest number of customers already in it.  In the event of a tie, they should always get into the one corresponding to the lowest-numbered window.  There is no maximum number of customers that can be in a particular line.
+
+When a window is unoccupied, a customer immediately moves from its corresponding ticket line to the window.  That customer will stay for the appropriate number of seconds.  At that time, the customer will leave the window and will immediately be replaced by another.
+
+For the sake of simplicity, we'll assume for our simulator that customers may not move from one ticket line to another.  In other words, suppose there is one ticket line per window.  If there is no one at the first window and no one in the first line, but there are three customers in the second line, we will assume that the customers in the second line will not go to the first window.  (Obviously, this is a non-issue when there is only one single line.)
+
+Assumptions about the input file
+
+You may assume that the input file is formatted as described above.  You may not assume that it will be exactly the file that we're showing as an example, but you may assume that there won't be a word where a number is expected, and that there will always be exactly two integers on a line that's supposed to have two integers.  Further, you may assume that other restrictions, such as customer arrivals being in ascending order with respect to time, will hold.
+
+
+
+
+
+
+
+How will you know how to run my program?
+
+The name of the input file should be specified as a command-line argument, as in Project #3.  If you'd like to refresh your memory about how to do that in Java (and within Eclipse), read through the relevant section of the Project #3 write-up.
+
+The class with your main() method should be called Simulator, so we'll be able to run your program in a predictable way.
+
+
+
+
+
+
+
+The final report
+
+When the simulation is complete, your simulator should print out the final report.  The final report prints out some summary statistics about the simulation to System.out.  The final report must contain the following information:
+
+For each ticket window:
+    The number of tickets sold at that window.  You may assume that each customer buys exactly one ticket.The percentage of time spent idle.  You can calculate this by counting the number of seconds when no customer was at that window, and divide it by the total number of seconds in the simulation.
+  For each ticket line:
+    The number of customers still waiting in that line.The maximum length that line ever reached.The average amount of time customers waited in that line to buy
+tickets.  Count only the customers who reached a window, though you may
+count them if they are still at the window when the simulation ends.The maximum amount of time any customer waited in that line, including customers who are still in line at the time the simulation ends.
+  Overall:
+    The total number of tickets sold at all windows.The average amount of time customers waited in line to buy tickets.  Count only the customers who reached a window, though you may count them if they are still at the window when the simulation ends.The average amount of time each customer spent at a ticket window.  Naturally, you should only count customers who reached a window and bought a ticket, so don't count customers who are still at the window when the simulation ends.
+  
+
+
+
+
+
+
+
+How should the example file be processed?
+
+What follows is a step-by-step explanation of the processing of the example file shown in the previous section.  At the conclusion of the example, the statistics are shown.  All times are reported in terms of seconds.  The final output of your program does not need to look like this, but I do suggest that you include something like this in your program's output; there is simply no way you'll get the final statistics to come out correctly if customers aren't moving to the right places at the right times during the simulation.  (This also provides us the ability to give you partial credit if you're not able to get the entire program finished; as problems get more complex, it's worth considering ways to reach stable ground and have partial solutions working, and this partial output is a great example of that.)
+
+time 0: window #1 and window #2 are idle, no one is in linetime 30: one customer arrives and gets into linetime 30: customer goes to window #1 (spent 0 seconds in line)time 35: five customers arrive and get into linetime 35: customer goes to window #2 (spent 0 seconds in line)time 45: three customers arrive and get into linetime 60: one customer arrives and gets into linetime 70: customer leaves window #2 (spent 35 seconds at window #2)time 70: customer goes to window #2 (spent 35 seconds in line)time 75: customer leaves window #1 (spent 45 seconds at window #1)time 75: customer goes to window #1 (spent 40 seconds in line)time 90: one customer arrives and gets into linetime 105: customer leaves window #2 (spent 35 seconds at window #2)time 105: customer goes to window #2 (spent 70 seconds in line)time 120: customer leaves window #1 (spent 45 seconds at window #1)time 120: customer goes to window #1 (spent 85 seconds in line)time 140: customer leaves window #2 (spent 35 seconds at window #2)time 140: customer goes to window #2 (spent 95 seconds in line)time 165: customer leaves window #1 (spent 45 seconds at window #1)time 165: customer goes to window #1 (spent 120 seconds in line)time 175: customer leaves window #2 (spent 35 seconds at window #2)time 175: customer goes to window #2 (spent 130 seconds in line)time 210: customer leaves window #1 (spent 45 seconds at window #1)time 210: customer leaves window #2 (spent 35 seconds at window #2)time 210: customer goes to window #1 (spent 150 seconds in line)time 210: customer goes to window #2 (spent 120 seconds in line)time 245: customer leaves window #2 (spent 35 seconds at window #2)time 245: window #2 is idletime 255: customer leaves window #1 (spent 45 seconds at window #1)time 255: window #1 is idletime 300: simulation ends
+
+
+
+
+
+
+
+The statistics for the example file
+
+These are the statistics that you should see after processing the example file.  Note that the decimal numbers may be off by a hundredth in some cases for you, depending on how (and whether) you handle rounding, and that's fine.
+
+Window #1
+    5 tickets sold25.00% of time was idle (75 seconds out of 300)
+  Window #2
+    6 tickets sold30.00% of time was idle (90 seconds out of 300)
+  Line
+    No customers were waiting at the end of the simulationMaximum length was 8 customersAvg. wait time: 76.82 secondsMaximum wait time: 150 seconds
+  Overall
+    11 tickets soldAvg. wait time: 76.82 secondsAvg. time spent at a window: 39.55 seconds
+  
+
+
+
+
+
+
+
+How about some additional examples?
+
+To test your simulation, you'll want to run more examples than just the one example file that I provided.  However, I'm only going to be providing you with the one example.  Part of the goal of writing a program is to find a way to be sure that it works; that means that you need to test it.  In the case of a simulation, that means you need to come up with some interesting inputs, figure out for yourself what the output should be, then see if your program generates the right output.  That's part of what I'm expecting you to do for this project, though you will not be required to submit your additional input files.  In fact, because it can be an arduous task to build input files and figure out what their expected output is, I encourage you to share your input files and expected outputs with one another, so that everyone can benefit from one another's insights about testing the program.
+
+
+
+
+
+
+
+Some suggestions (and requirements) about the design of your simulator
+
+There are many ways that you could implement your simulator, and I will not impose any particular one on you, though I will make a few specific requirements.  For the most part, you're on your own for this project.  However, here are some suggestions which might help you get started, along with a few design requirements.
+
+Deciding on your classes
+
+A somewhat simplistic, but often effective, way to break a large design into classes is to consider a description of the desired system and "look for the nouns."  While this technique won't give you a complete or perfect design, it will at least give you a good feel for what the major abstractions in your program are.  Using that approach for this program, you might discover some of the following ideas (and probably others).  Of course, depending on how you describe your program, you may discover different abstractions than these.
+
+Customer.  The simulator is intended to keep track of customers as they enter lines, enter windows, and leave the area with their tickets.Queue.  A queue is an object that manages a set of objects standing in line waiting for access to some shared resource.  In the case of this program, the objects are customers and the shared resource is a ticket window; however, the queue class should be built to be generic, so that it could be reused in other programs.Ticket line.  One of the central features of the simulation.  Customers enter at the back of lines, work their way up, then emerge from the front.  This is an example of the concept of a queue, which you will be required to use to implement your ticket line.  A good way to implement your ticket line is to have it contain a queue.  The distinction between a queue and a ticket line is that a queue is generic (i.e., it can store any kind of object) and is intended to be possibly reused in other programs, while a ticket line specifically manages customers and keeps tracks of statistics necessary for this program.Ticket window.  Another central feature of the simulation.  One customer at a time can occupy a ticket window.  For each window, there is a predetermined amount of time that each customer will need to spend there.  It is possible for a window to be "idle" (i.e., to have no customer in it).  A ticket window will need to keep track of the necessary statistics that are specific to that window.Theater.  A broader abstraction for the theater area.  Contains ticket lines and ticket windows.  The purpose of the theater abstraction is to prevent other parts of the program from needing to be aware of the arrangement of lines and windows.  For example, when a customer arrival is processed, the Theater object can be in charge of placing the customers in the appropriate lines.  The Theater object should also track summary statistics for the entire simulation.Simulation.  An object that manages the entire simulation, delegating tasks to the theater (which will delegate some tasks to other objects, such as ticket lines and ticket windows).  This is where the input file can be read and processed.  This object will also manage the simulation loop, which I'll describe a bit later.Clock.  Since the simulation has a clock that keeps track of the current time, expressed as the number of seconds since the simulation started, it makes sense to have one object, shared by all of these classes, that keeps track of the current time.
+
+Using a queue to implement your ticket line
+
+You are required to build a queue class for this project and use it to implement your ticket line.  The queue should be generic (e.g., Queue<E>), so that it could be used in other programs.  It is required to be implemented as a linked list, with the major operations (enqueue, dequeue, and front) written so that they will run in O(1) time.
+
+Separately, you'll probably find the need to define a ticket line class that specifically deals with customers and keeps track of the statistics that are necessary for this program.  (There are two reasons why it's wise to separate the queue from the ticket line: so that the queue can be reused in other programs and so that you can separate the logic that stores and manipulates the queue of customers from the logic that tracks the statistics.)
+
+The simulation
+
+Your program should load the setup information from the input file first, and then setup the simulation (i.e., create the theater object with the appropriate initial state) based on those values.  From there, you can implement the simulation in various ways, but I suggest the following approach.  (This is by no means the most efficient way to implement such a simulation, but is efficient enough for our purposes, striking a good balance between efficiency and ease of implementation for this course.)
+
+Write a simulation loop, each iteration of which simulates one second.  Each second, the loop performs the following major tasks:
+
+Find out what the current time is.  Remember that the current time is tracked as the number of seconds since the simulation started.  (Obviously, this should start at zero.)If new customers are arriving in line at the current time, add them to the appropriate lines.Check each ticket window.  If there is no customer there, the first customer in its corresponding ticket line should be removed from line and arrive at the window.  If there is a customer there, see if the customer is finished.  The customer is finished if she has been at the window for the specified number of seconds.  If the customer is finished, she leaves, and should be immediately replaced by the first customer in the corresponding ticket line (if any).
+
+When the specified number of seconds of simulation time elapse, the simulation ends, and the accumulated statistics should be printed out.
+
+Memory usage
+
+You may not load all of the customer arrivals into memory at the beginning of the simulation.  Instead, you should read the customer arrivals into memory one line at a time, when necessary.  Reading all of the customer arrivals into memory ahead of time will yield a substantial penalty on your Quality of solution score for this project.
+
+
+
+
+
+
+
+Testing
+
+To satisfy the testing portion of this project, write a JUnit-based test class that tests your Queue implementation.  It is not necessary to test other parts of your program, but you're welcome to test anything else you wish using JUnit.
+
+One thing to understand about unit testing is that how you design your program has a big effect on whether unit tests are easy (or even possible) to write.  This is a positive feedback loop: a design that permits unit tests to be written is one that is usually, on balance, better than the alternative.  Consider ways that you can make as much of your code unit-testable as possible.
+
+
+
+
+
+
+
+Limitations
+
+You must implement your own linked list functionality.  You may not use pre-existing linked list implementations, such as java.util.LinkedList in your solution.  If you'd like, you may reuse your LinkedList<E> class from previous projects, though you will need to make it a singly-linked list with  both head and tail references, so that the various queue operations will run in constant time; you may also need to add one or more methods to it.
+
+
+
+
+
+
+
+Starting point
+
+Unlike previous projects, you will not be provided with any code as a starting point for this one.  I believe that you now have the skills to write this program from scratch.  There is quite a bit of design advice in the write-up above, so be sure to spend some time reading and understanding it.  Ask questions in discussion and chat on the newsgroup.  Plenty of help is available, but I encourage you to start early.
+
+
+
+
+
+
+
+Deliverables
+
+You must submit all of your .java files.  Please do not turn in the .class files, or other files generated by your development environment.  Follow this link for a discussion of how to submit your project.
+
+
+
+
+
+
+
+Testing section adjusted by Alex Thornton, Winter 2012.Section detailing use of JUnit 4 in Eclipse rewritten (as user interface had changed) by Alex Thornton, Fall 2008.Testing requirement restored and rewritten by Alex Thornton, Spring 2007.Design advice rewritten, testing requirement removed, and some of the other requirements adjusted (to fit with previous projects in this quarter's ICS 22 offering) by Alex Thornton, Fall 2004.More minor changes by Alex Thornton, Fall 2002.A few more modifications and the inclusion of jUnit into this project by Alex Thornton, Spring 2002.Re-tooled for the "new" ICS 22 (including the addition of a testing component) by Alex Thornton, Winter 2002.A few screws were tightened by Alex Thornton, Summer 2001.Some minor fixes and disambiguation by Alex Thornton, Spring 2001.Originally written by Alex Thornton, Winter 2001.
+##------------------URL-------------------------##
+http://www.ics.uci.edu/~kay/courses/h22/hw/Writing_Professional_Pr_files/Footnotes.html
+##-----------------TITLE------------------------##
+Footnotes
+##------------------TEXT------------------------##
+[
+
+1.   "As
+your own" is the key phrase:  If you use code from the textbook or
+from your TA, you should include a comment indicating where the code came
+from.  This is perfectly permissible unless an assignment explicitly restricts
+what code you may use.  However, using code from other students or from
+sources outside of the course is not permissible in ICS 22 unless
+an assignment explicitly allows or requires it.]
+##------------------URL-------------------------##
+http://www.ics.uci.edu/~eppstein/numth/egypt/refs.html
+##-----------------TITLE------------------------##
+null
+##------------------TEXT------------------------##
+Algorithms for Egyptian Fractions
+
+
+
+References
+
+
+
+[Bee93]
+L. Beeckmans.  The splitting algorithm for Egyptian fractions.
+J. Number Th.
+43, 1993,  pp. 173­185.
+This paper contains a proof that the
+splitting method terminates; Wagon
+[Wag91] credits the same result to Graham and Jewett.
+
+
+[Ble72]
+M. N. Bleicher.  A new algorithm for the expansion of continued fractions.
+J. Number Th.
+4, 1972, pp. 342­382.
+Defines two methods for Egyptian fraction representation: what he
+calls the Farey sequence method, which is equivalent to the
+continued fraction method described here, and what he calls the continued fraction method, which is a variant of what
+we call the
+grouped continued fraction method.
+
+[Bre54]
+R. Breusch.  A special case of Egyptian fractions, solution to advanced problem 4512.
+Amer. Math. Monthly 
+61, 1954, pp. 200­201.
+Shows that every x/y with y odd has an
+Egyptian fraction representation with all denominators odd, by using a method similar to the
+binary remainder method but using the base 5(3^k) instead of 2^k.
+
+[BW84]
+T. H. Byers and M. S. Waterman. Determining all optimal and near-optimal solutions when
+solving shortest path problems by dynamic programming.
+Oper. Res.
+32, 1984, pp. 1381­1384.
+Byers and Waterman describe a simple algorithm for finding short paths in
+a graph, used in our implementation of the
+grouped continued fraction method.
+
+[Epp94]
+D. Eppstein.  Finding the k shortest paths.
+35th IEEE Symp. Foundations of Computer Science,
+1994, pp. 154­165.
+I describe what is theoretically the fastest known algorithm for the shortest path problem used in the
+grouped continued fraction method, however my technique is rather more complex than that of
+[BW84] and has not been implemented in
+Mathematica.
+
+[Guy81]
+R.K. Guy.
+Unsolved Problems in Number Theory.
+Springer-Verlag, 1981, pp. 87­93.
+Guy lists a number of questions about Egyptian fractions, including the following:
+Does 4/y have a 3-term representation for all y?
+Does 5/y?  Does x/y for x sufficiently large relative to y?
+Does the odd greedy method terminate?
+What different denominators are possible in a t-term representation of one?
+Do all positive-density sets of integers have a subset forming the denominators of a representation of one?
+If we assign to each of the integers one of a finite set  of colors, can we pick a single color that can be used as the denominators for representations of all rationals?
+Guy also provides a long bibliography.
+
+[KW91]
+V. Klee and S. Wagon.
+Old and New Unsolved Problems in Plane Geometry and Number Theory.
+Math. Assoc. of America, 1991, pp. 175­177 and 206­208.
+Concentrates  primarily on the question of
+whether the odd greedy method halts; notes that a similar method for finding representations with even denominators does halt; contains a number of further references.
+
+[Mor69]
+L. J. Mordell.
+Diophantine Equations.
+Academic Press, 1969, pp. 287­290.
+Discusses the question of
+whether 4/y has a three-term representation; describes methods of finding such representations depending on the value of n modulo various small primes.
+
+[NZ80]
+I. Niven and H.S. Zuckerman.
+An Introduction to the Theory of Numbers.
+4th ed., Wiley, 1980, p. 200.
+They describe in an exercise here the secondary sequences used in the
+continued fraction methods of Egyptian fraction representation.
+
+[Ste54]
+B. M. Stewart.  Sums of distinct divisors.
+Amer. J. Math.
+76, 1954, pp. 779­785.
+Uses the
+binary remainder method to find representations with all denominators even.  Also, like
+[Bre54], uses a method similar to the binary remainder method (using base 35(3^k))
+to find odd representations of fractions with odd denominators.
+
+[Ste92]
+I. Stewart. The riddle of the vanishing camel.
+Scientific American,
+June 1992, pp. 122­124.
+Stewart shows that any rational has only a finite number of t-term Egyptian fraction representations, for any fixed number t, and describes a
+brute force method for finding all such representations.
+
+[Tak21]
+T. Takenouchi.
+On an indeterminate equation.
+Proc. Physico-Mathematical Soc. of Japan
+(3rd ser.) 3, 1921, pp. 78-92.
+In this paper, discovered for me by Stefan Bartels, Takenouchi proves that any number with a k-term unit fraction representation has a representation in which all terms are distinct. Bartels writes "Takenouchi does not state the theorem itself but gives a proof to it. He uses the fact that the sum of the denominators of the representation increases and the fact that the number of representations of a given length is finite.  As far as I know this article has not been recognized in the meantime. I found some proofs (done in the 60s) which for example prove that n/m can be
+represented as a sum of n Egyptian fractions. This shows that the article is (was) quite unknown in mathematical literature."
+
+[TY90]
+G. Tenenbaum and H. Yokota. Length and denominators of Egyptian fractions.
+J. Number Th.
+35, 1990, pp. 150­156.
+This paper provides good simultanous bounds on the number of terms and the denominators of an Egyptian fraction representation, as discussed in the section on the
+binary remainder method.
+
+[Vos85]
+M. Vose.  Egyptian fractions.
+Bull. Lond. Math. Soc.
+17, 1985, p. 21.
+Shows that every x/y has a t-term representation where t=O(Sqrt Log[y]).  The technique is similar to the
+binary remainder method.
+
+[Wag91]
+S. Wagon.
+Mathematica in Action.
+W.H. Freeman, 1991, pp. 271­277.
+Wagon implements the
+greedy and odd greedy methods,
+and describes the
+splitting method.
+He also mentions the open problem of
+whether the odd greedy method always terminates
+for the special case of fractions with numerator 2.
+
+Egyptian Fractions,
+Number Theory,
+David Eppstein,
+ICS,
+UC Irvine
+Formatted by
+nb2html and
+filter.
+Last update:
+.
+##------------------URL-------------------------##
+http://www.ics.uci.edu/~eppstein/numth/egypt/binary.html
+##-----------------TITLE------------------------##
+null
+##------------------TEXT------------------------##
+Algorithms for Egyptian Fractions
+
+
+
+Methods Based on the Binary Number System
+
+
+
+The Binary Method
+
+
+An Egyptian fraction representation can be formed from the binary representation of a number; e.g. 27/22 = 1.0(0111010001)*.  (The star indicates that the parenthesized digits repeat in blocks of ten after these initial bits.)  The initial nonrepeating part gives fractions 1/2^a, and the repeating part gives fractions 1/(2^a (2^b - 1)), where b is the length of the repetition.  We must take some care that the a in the second type of fraction is nonnegative, so we modify the representation above so that there are as many nonrepeating terms as repeating terms:
+27/22 = 1.001110100(0101110100)*.
+
+A similar technique works for some other bases than binary.  For instance the only digit that causes any trouble in a base 6 representation is 5, but 5/6 = 3/6+2/6 so we can still use this method with base 6.  On the other hand this method does not work well with decimal notation as we can not represent 4, 7, 8, or 9 as sums of distinct divisors of 10, so numbers with those digits in their decimal representation would cause a problem for a decimal version of this method.
+
+To implement the binary method, we first define a function to find the binary (or other base) representation of q, returned as two lists of digits.  The first member of the first list is the integer part of q,  the rest of the first list is the nonrepeating part of the representation, and the second list is the repeating part.  It turns out to be easier to find, instead of the digits themselves, certain values mod y from which the digits can be computed.  This makes it easier to detect repeating blocks of digits, since they occur exactly when the same value mod y arises twice.
+
+RationalDigits[q_Integer, base_] := {{q},{0}};
+RationalDigits[Rational[a_,b_], base_Integer] :=
+    Module[{nextunit,addunit,units,
+    		reppos,breakpt,finddigit,digitize},
+    	   nextunit = (Mod[base Last[#], b]&);
+    	   addunit = (Module[{c=nextunit[#]},
+    	    				   If[MemberQ[#,c],
+    	    				      #, Append[#,c]]]&);
+    	   units = FixedPoint[addunit, {Mod[a,b]}];
+    	   reppos = Position[units, nextunit[units]];
+    	   breakpt = reppos[[1]][[1]]-1;
+    	   finddigit = (Floor[base # / b]&);
+    	   digitize = (finddigit /@ # &);
+       	   {Prepend[digitize[Take[units,breakpt]],Floor[a/b]],
+    	    digitize[Drop[units,breakpt]]}];
+
+
+Once we have found the repeating binary representation of a fraction, it is simple to turn the nonzero digits of the representation into terms in an Egyptian fraction representation.  Most of the complication in our implementation is due to the point noted earlier, that we should have at least as many nonrepeating digits as repeating digits.
+
+EgyptBinary[q_Integer] := {q};
+EgyptBinary[q_Rational] :=
+    Module[{l = RationalDigits[q,2],
+            tpow = ({2 #1[[1]], #2}&),
+            invprod = (#[[2]]/#[[1]]&),
+            tplist,invlist,
+            firstlen,firstlist,firstpart,
+            mul,seclist,secpart,full},
+           tplist = (FoldList[tpow, {1,#[[1]]}, Drop[#,1]]&);
+           invlist = (invprod /@ tplist[#])&;
+           firstlen = Max[Length[l[[1]]],Length[l[[2]]]];
+           firstlist = Take[Apply[Join,l],firstlen];
+           firstpart = invlist[firstlist];
+           mul = 2^Length[l[[2]]]-1;
+           seclist = RotateRight[l[[2]], Length[l[[1]]]];
+           secpart = (#/mul& /@ invlist[seclist]);
+           full = (If[#==0,{ }, #]& /@
+           		Join[firstpart,secpart]);
+           Flatten[full]];
+
+
+The correctness of this algorithm is straightforward.  The fact that it halts for input q=x/y follows from the fact that the list units computed in RationalDigits is a list of distinct values modulo y, so can have length at most y. The lists of binary digits for x/y have between them at most y elements, and the padding to make the repetition start far enough along at most doubles this.  At most y/2 elements on the list can correspond to binary ones,  so the eventual Egyption fraction has at most y terms.  All denominators are at most 2^(2y).
+
+EgyptBinary[27/22]
+
+
+    1  1   1    1    1     1      1      1      1
+{1, -, --, --, ---, ----, ----, -----, -----, ------}
+    8  16  32  128  2046  8184  16368  32736  130944
+
+
+
+The Binary Remainder Method
+
+
+Let p be a power of two such that (xp mod y) < 2p.  (In particular this is satisfied if y<2p.)  By dividing xp by y we find r and s satisfying x p = s y + r.  Then we can represent r/p and s/p as sums of inverse powers of two; but x/y = s/p + r/(p y) so by concatenating the representation of s/p with 1/y times the representation of r/p we get a representation of x/y.  The division by y ensures that no overlap occurs between the fractions from the two parts of the representation.  For convenience of implementation we call EgyptBinary to find the binary representations of r/p and s/p.
+
+EBRPower[x_,y_,b_] :=
+    If[(x*b)~Mod~y < 2*b, b,EBRPower[x,y,2*b]];
+
+EgyptBinRem[Rational[x_,y_]] :=
+    Module[{p, r, s},
+           p = EBRPower[x,y,2];
+           r = Mod[x p, y];
+           s = Quotient[x p, y];
+           Join[If[s==0,{},EgyptBinary[s/p]],
+           		If[r==0,{},(#/y&) /@ EgyptBinary[r/p]]]]
+
+
+The method produces at most Log x + Log y terms; in practice it will typically produce half that many.  Each denominator is at most y^2.
+
+EgyptBinRem[18/23]
+
+
+ 1  1  1   1
+{-, -, --, --}
+ 2  4  46  92
+
+
+EgyptBinRem[31/311]
+
+
+ 1   1    1    1    1     1     1
+{--, --, ---, ---, ----, ----, ----}
+ 16  32  311  622  1244  4976  9952
+
+
+The binary remainder method appears in a paper of Stewart
+[Ste54], where he uses it to find representations with all denominators even.  Similar methods that replace the term p=2^k by some other value have proven useful in many recent results about Egyptian fractions.  Breusch
+[Bre54] and Stewart
+[Ste54] set p to small multiples of 3^k, to show that every odd-denominator fraction has a representation with all denominators odd.  Tenenbaum and Yokota
+[TY90] use factorial values of p to find representations with (1+o(1))(Log y) / (Log Log y) terms having all denominators bounded by O(y (Log y)^2 / (Log Log y)).  Vose
+[Vos85] uses an even more complicated value of p to show that any x/y has a representation with only O(Sqrt Log[y]) terms.  In the
+generalized remainder method, discussed later, we show how to apply some of these ideas to find short representations.
+Egyptian Fractions,
+Number Theory,
+David Eppstein,
+ICS,
+UC Irvine
+Formatted by
+nb2html and
+filter.
+Last update:
+.
+##------------------URL-------------------------##
+http://www.ics.uci.edu/~eppstein/numth/egypt/greed.html
+##-----------------TITLE------------------------##
+null
+##------------------TEXT------------------------##
+Algorithms for Egyptian Fractions
+
+
+
+Reverse Greedy Methods
+
+
+
+The Basic Reverse Greedy Method
+
+
+The idea behind this algorithm (due to K.S. Brown in an email forwarded to me by Milo Gardner) is to generate the Egyptian fraction in "reverse" order, from larger denominators to smaller.  At each step, we expand our fraction x/y = x'/y' + 1/u in an attempt to make the new denominator y' as small as possible.  We always know y' < y is possible from the continued fraction method.  In general this method reduces the denominator faster than continued fractions and hopefully produces fewer terms.
+
+The basic idea is to first choose d=xy'-x'y, then solve for y' and x'.  Some analysis simplifies the search for d.  First, suppose some prime p divides d and doesn't divide y.  Then since u=yy'/d, we know that p divides y'.  Further, since x'=(xy'-d)/y, p divides x' and x'/y' is not in least terms.  We can ignore such solutions.  Similarly, if p divides y exactly c times, and p divides d 2c+k times, we know that p^(c+k) divides y' and p^k divides x'.  So it is always safe to assume d is a divisor of y^2.  Conversely, every divisor of y^2 leads to a unit fraction 1/u, but for some of them x'/y' is negative or y' is zero.  We filter those divisors to include only those d leading to a valid fraction x'/y'.
+
+ERGChoices[x_,y_] :=
+	Select[Divisors[y*y],
+		   ((# * PowerMod[x,-1,y]) ~Mod~ y) * x > # &];
+    
+EgyptReverseGreedy[q_Integer] := If[q==0,{},{q}];
+EgyptReverseGreedy[Rational[x_,y_]] :=
+	If[x==1,{x/y},
+	   EgyptPairList[Append[EgyptReverseGreedy[x/y-#],#]]& @
+	   ((# * x) ~Mod~ y / (# * y) & @
+	   Min[(ERGChoices[x,y]*PowerMod[x,-1,y]) ~Mod~ y])];
+
+
+EgyptPairList is needed to avoid duplicate fractions; for instance otherwise this method would produce 1/11+1/231+1/231 for 23/231.  Because of this, it is hard to bound the denominators in the representations this method produces.  The number of terms is clearly O[y]; it produces fewer terms in practice but it is unclear whether one can prove bounds on the number of terms that are even as good as the continued fraction method.
+
+EgyptReverseGreedy[31/311]
+
+
+ 1   1    1     1
+{--, --, ---, -----}
+ 16  28  688  93611
+
+
+Small-Unit Reverse Greedy
+
+
+One simple variation on the reverse greedy strategy is to choose the unit fraction with smallest denominator to remove at each step, among those unit fractions reducing the denominator of the remainder.
+
+ERGFrac[x_,y_,d_] :=
+	d/((d*PowerMod[x,-1,y]) ~Mod~ y)
+
+EgyptSmallUnit[q_Integer] := If[q==0,{},{q}];
+EgyptSmallUnit[Rational[x_,y_]] :=
+	If[x==1,{x/y},
+	EgyptPairList[Append[EgyptSmallUnit[(x-#)/y],#/y]]& @
+    Max[ERGFrac[x,y,#]& /@ ERGChoices[x,y]]];
+
+
+This leads to representations with smaller denominators, but also may reduce the number of terms.
+
+EgyptReverseGreedy[10/143]
+
+
+ 1    1    1     1
+{--, ---, ----, ----}
+ 15  435  1247  6149
+
+
+EgyptSmallUnit[10/143]
+
+
+ 1   1   1   1
+{--, --, --, --}
+ 36  60  65  99
+
+
+
+Small Denominator Reverse Greedy
+
+
+One drawback of the small unit method (as a way of generating fractions with small denominators) is that it can sometimes choose a unit fraction very close to x/y, leaving a relatively small remainder.  It seems more appropriate in this case to balance the two denominators of u and y'.
+
+ArgMin[l_,f_] := (Position[#,Min[#]]& @ (f /@ l))[[1,1]];
+
+ERGMaxDen[x_,y_,l_] :=
+	l[[ ArgMin[l,Max[Denominator[#/y],
+					 Denominator[(x-#)/y]]&] ]];
+	
+EgyptSmallDen[q_Integer] := If[q==0,{},{q}];
+EgyptSmallDen[Rational[x_,y_]] :=
+	If[x==1,{x/y},
+	EgyptPairList[Append[EgyptSmallDen[(x-#)/y],#/y]]& @
+	ERGMaxDen[x,y,ERGFrac[x,y,#]& /@ ERGChoices[x,y]]];
+
+
+This can often do a good job of keeping all denominators small.
+
+EgyptSmallUnit[17/180]
+
+
+ 1   1
+{--, --}
+ 12  90
+
+
+EgyptSmallDen[17/180]
+
+
+ 1   1
+{--, --}
+ 15  36
+
+
+
+Small Numerator Reverse Greedy
+
+
+This idea combines the reverse greedy method (which reduces denominators) with the standard greedy method (which reduces numerators).  The idea is simply to choose, among all the choices of x/y=x'/y'+1/u, the one with the smallest value of x'.  To break ties we choose the smallest value of u since that seems to lead to better representations.
+
+ERGGoodNum[x_,y_,l_] :=
+	l[[ ArgMin[l,Numerator[(x-#)/y] - #/y &] ]];
+	
+EgyptSmallNum[q_Integer] := If[q==0,{},{q}];
+EgyptSmallNum[Rational[x_,y_]] :=
+	If[x==1,{x/y},
+	EgyptPairList[Append[EgyptSmallNum[(x-#)/y],#/y]]& @
+	ERGGoodNum[x,y,ERGFrac[x,y,#]& /@ ERGChoices[x,y]]];
+
+
+EgyptSmallNum[10/143]
+
+
+ 1   1    1
+{--, --, ---}
+ 22  65  110
+
+
+Big Divisor Reverse Greedy
+
+
+Another variant of the reverse greedy method simply chooses the largest value in ERGChoices.  Heuristically this is likely to lead to much cancellation and a unit fraction with small denominator.
+
+EgyptBigDiv[q_Integer] := If[q==0,{},{q}];
+EgyptBigDiv[Rational[x_,y_]] :=
+	If[x==1,{x/y},
+	EgyptPairList[Append[EgyptSmallNum[(x-#)/y],#/y]]& @
+	ERGFrac[x,y,Last[ERGChoices[x,y]]]];
+
+
+This is often the same as EgyptSmallUnit, but occasionally differs, and even sometimes results in smaller denominators.
+
+EgyptReverseGreedy[23/231]
+
+
+ 1    1     1
+{--, ---, -----}
+ 11  116  26796
+
+
+EgyptSmallUnit[23/231]
+
+
+ 1   1   1    1
+{--, --, --, ---}
+ 21  40  56  110
+
+
+EgyptSmallNum[23/231]
+
+
+ 1   1    1
+{--, --, ---}
+ 15  35  231
+
+
+EgyptSmallDen[23/231]
+
+
+ 1   1   1
+{--, --, --}
+ 22  33  42
+
+
+EgyptBigDiv[23/231]
+
+
+ 1   1   1
+{--, --, --}
+ 22  33  42
+
+
+Egyptian Fractions,
+Number Theory,
+David Eppstein,
+ICS,
+UC Irvine
+Formatted by
+nb2html and
+filter.
+Last update:
+.
+##------------------URL-------------------------##
+http://www.ics.uci.edu/~eppstein/numth/egypt/smallnum.html
+##-----------------TITLE------------------------##
+null
+##------------------TEXT------------------------##
+Algorithms for Egyptian Fractions
+
+
+
+Small Numerators
+
+
+The algorithms described above work for any input.  We now discuss techniques limited to specific numerators.  The typical question here is how many terms are needed to represent fractions with a given numerator.  For fractions 2/y the answer is clearly 2.  Some fractions 3/y require 3 terms, as we see below.  It is not known whether any fraction 4/y requires 4 terms.
+
+More generally, good bounds are known on the number of terms needed to represent x/y measured as a function of y
+[Vos85], but there seems to be less work on measuring this minimum number of terms as a function only of x.  As we note in the section on 4/y, a solution to this specific case would have implications for the general problem.
+
+Numerator 3
+
+
+The basic result for fractions of the form 3/y is that there is a two-term expansion if and only if y has a factor congruent to 2 mod 3.  Klee and Wagon
+[KW91] credit this result to N. Nakayama; however they supply no citation, so we repeat the proof below.
+
+Theorem:
+3/y has a two-term expansion if and only if y has a factor congruent to 2 mod 3.
+Proof:
+In one direction, the representation 3/(3n+2)=1/(n+1)+1/(n+1)(3n+2) is found by both the greedy and continued fraction methods.  This idea can easily be extended to 3/y where y is a multiple of 3n+2.
+		  
+In the other direction, suppose y=3n+1 and 3/y=1/a+1/b=(a+b)/ab.  First note that a and b must be divisible by the same power of 3, since if a were divisible by 3^i and b by 3^j, with j>i, then a+b would not divisible by 3^j and the powers of 3 wouldn't cancel from the denominator.  Let g=gcd(a,b), u=a/g, v=b/g, so 3/y=(u+v)/guv and 3 divides u+v; let u+v=3z. Then 1/a+1/b=3z/guv and g must factor as zw since gcd(uv,u+v)=1.  So y=uvw. For u+v=3z, one of u and v (say u) must be 2 mod 3, giving the factor of y we seek.
+		  
+Unfortunately this seems to imply that finding short representations, even in this special case, is computationally difficult: at least as difficult as factoring integers.
+
+The
+small numerator version of the reverse greedy method (which includes factorization as one of its subroutines) will always find a two-term representation for 3/n when one exists.  Some examples of two-term representations that would not be found by our other general algorithms: 3/25=1/10+1/50; 3/55=1/22+1/110=1/20+1/220; 3/121=1/44+1/484
+
+Numerator 4
+
+
+The question of whether all fractions 4/y have 3-term representations is discussed by Mordell
+[Mor69], who attributes it to Erdös and Straus.  Guy
+[Guy81] cites several other authors as having worked on the problem: Bernstein, Obláth, Rosati, Shapiro, Straus, Yamamoto, and Franceschine. Others have worked on more general versions of this problem including Schinzel, Sierpinski, Sedlácek, Palamà, Stewart, Webb, Breusch, Graham, and Vaughan. A positive solution to this question would have more general implications: we could use such a solution as the basis for a conflict resolution method that, given a number x/y, would find an Egyptian fraction representation with x^(Log[3]/Log[4]) ~= x^0.7925 terms.
+
+Modular Conditions
+
+
+Mordell shows that in any example 4/y requiring 4 terms in an Egyptian fraction representation, y must be 1 mod 24, ±1 mod 5, and one of three values mod 7 (giving a total of 6 possible values mod 840, all squares of small numbers).  If y is a minimal counterexample, it must be prime
+(since if y=ab we could divide all terms in a representation of 4/a by b).
+
+If y is 2 or 3 mod 4, the greedy algorithm gives a 2 or 3 term representation.  If y is 1 mod 4  we have the representation 1/ceil[y/4] + 3/(y ceil[y/4]) where the last term has a 2-term expansion whenever y is 2 mod 3 or 5 mod 8.  So if 4/y is to fail to have a 3 term representation, y must be of the form 24n + 1.  Several methods extend this analysis by representing 4/y when y (equivalently n) has certain values modulo small primes.
+
+The representations 1/(6n+1) + 3/(24n+1)(6n+1) and 1/(18n+1)(24n+1) + 3/(18n+1) work if one of 6n+1, 18n+1, or 24n+1 is divisible by a prime p congruent to 5 mod 6.  Thus for any of these primes one can derive rules for finding three-term representations of 4/y, that work whenever y has certain values mod p.  We can use this technique to find representations when n is congruent to 4, 3, or 1 mod 5 (and so, rule out counterexamples for y congruent to anything but ±1 mod 5).
+
+The representation 1/(6n+k) + (4k-1)/(6n+k)(24n+1) works via a greedy method if a factor of the second denominator is (4k-2) mod (4k-1), or more generally if the factor is (4k-1-i) mod (4k-1) and i divides the denominator.  In particular these work with k=2 when n is 2, 3, 4, or 6 mod 7
+(with the corresponding values of i being 0, 1, 1, and 2).  Therefore in any counterexample 4/y, y must be a quadratic residue mod 7.
+
+Yet another type of rule is possible: consider the decomposition
+1/(6n+k) +a/(6n+k)(24n+1) + b/(6n+k)(24n+1), where a+b = 4k-1.  This is only possible when k is even, since otherwise one of a or b would be even and not divide the denominator.
+For instance 4/(24n+1)=1/(6n+10) + 26/(6n+10)(24n+1) + 13/(6n+10)(24n+1)
+where the last two simplify to unit fractions if n is 7 mod 13.
+
+Particular Values
+
+
+As noted above, the numbers y for which 4/y might possibly require four terms fall into six classes modulo 840: 1,  121, 169, 289, 361, and 529.  We only need to consider prime n since if mn is a counterexample, so must be both m and n.  Following are representations for all such cases through 12500.  Most use rules like the ones described above that depend only on the values of y mod 11, 13, and 19, but 4/3361 uses a method that depends on y mod 29 and 4/8089 uses a method that depends on y mod 17.
+
+4/1801 = 1/451 + 1/295364 + 1/3249004
+
+
+4/2521 = 1/636 + 1/69748 + 1/131876031
+
+
+4/2689 = 1/676 + 1/139828 + 1/908882
+
+
+4/3049 = 1/772 + 1/60980 + 1/5884570
+
+
+4/3361 = 1/841 + 1/974690 + 1/28266010
+
+
+4/3529 = 1/892 + 1/80726 + 1/569764108
+
+
+4/3889 = 1/975 + 1/345150 + 1/268457670
+
+
+4/4201 = 1/1096 + 1/25208 + 1/13237351
+
+
+4/4561 = 1/1244 + 1/13684 + 1/15603181
+
+
+4/4729 = 1/1185 + 1/510732 + 1/201739140
+
+
+4/5209 = 1/1308 + 1/296262 + 1/3086457516
+
+
+4/5569 = 1/1402 + 1/200484 + 1/140539284
+
+
+4/5881 = 1/1604 + 1/17644 + 1/25941091
+
+
+4/6841 = 1/1713 + 1/1065486 + 1/7288989726
+
+
+4/7681 = 1/1924 + 1/1136788 + 1/7389122
+
+
+4/8089 = 1/2023 + 1/5775546 + 1/98184282
+
+
+4/8521 = 1/2324 + 1/25564 + 1/54457711
+
+
+4/8689 = 1/2175 + 1/1718250 + 1/14929874250
+
+
+4/8761 = 1/2196 + 1/836676 + 1/3665059218
+
+
+4/8929 = 1/2233 + 1/7250348 + 1/79753828
+
+
+4/9241 = 1/2314 + 1/1644898 + 1/10691837
+
+
+4/9601 = 1/2406 + 1/1008105 + 1/269500070
+
+
+4/9769 = 1/2452 + 1/614226 + 1/12000747588
+
+
+4/10369 = 1/2828 + 1/31108 + 1/80639713
+
+
+4/12049 = 1/3016 + 1/2795368 + 1/18169892
+
+
+4/12289 = 1/3078 + 1/1644678 + 1/30317171913
+
+
+According to Guy, N. Franceschine has performed similar calculations for y<10^8.
+Egyptian Fractions,
+Number Theory,
+David Eppstein,
+ICS,
+UC Irvine
+Formatted by
+nb2html and
+filter.
+Last update:
+.
+##------------------URL-------------------------##
+http://www.ics.uci.edu/~eppstein/numth/egypt/approx.html
+##-----------------TITLE------------------------##
+null
+##------------------TEXT------------------------##
+Algorithms for Egyptian Fractions
+
+
+
+Methods Based on Approximation
+
+
+The most natural and obvious method of finding an Egyptian fraction representation for a given number is to approximate the number as closely as possible by a single unit fraction, and then to use the same method to represent the remainder.  For instance, the largest unit fraction less than 5/6 is 1/2, and removing 1/2 from 5/6 leaves 1/3, so this idea leads to the representation 1/2+1/3 mentioned above.  There are several ways of translating this idea into a specific algorithm.
+
+The Greedy Method
+
+
+The greedy method produces an Egyptian fraction representation of a number q by letting the first unit fraction be the largest unit fraction less than q, and then continuing in the same manner to represent the remaining value.  If q>1, we first separate out the integer part Floor[q] before representing the remaining fraction.  Our implementation works by first computing a list of the fractions left after subtracting each successive term in the greedy representation, and then subtracting a shifted copy of this list from itself.
+
+GreedyPart[q_Integer] := 0;
+GreedyPart[Rational[1,y_]] := 0;
+GreedyPart[q_Rational] :=
+	q - If[q < 0 || q > 1, Floor[q],
+		   Rational[1,1+Quotient[1,q]]];
+   		  
+SubtractShifted[l_] := Drop[l,-2] - Take[l,{2,-2}];
+
+EgyptGreedy[q_] :=
+	SubtractShifted[FixedPointList[GreedyPart,q]]
+
+
+Let us now make sure that this routine correctly finds an Egyptian fraction representation, and analyze its performance.  If we start with x/y, the remaining value after one step is
+(y mod x) / y(Ceiling[y/x]), which has a smaller numerator.  Similarly, the numerator decreases after each further step, so the algorithm always halts.  The resulting sequence of fractions clearly adds to the original input, so the only way this method could go wrong would be if two of the fractions were equal (this is not allowed in Egyptian fractions).  But this can't happen, since the denominators of the fractions must be strictly increasing: if we had two successive terms 1/a and 1/b with b <= a, we could have chosen 1/(a-1) instead of 1/a.
+
+Since the numerator decreases after each step, the number of terms in the representation of x/y is at most x.  In many cases we could expect each successive numerator to be randomly distributed modulo the previous numerator; if this were really true we would instead only expect to see O(Log x) terms.  The denominator is at most squared each step, so the largest denominator is at most y^(2^x) or more generally y^(2^k) where k is the number of terms.  The number of operations performed by the algorithm is proportional to k, but some of these operations might involve arithmetic on very large numbers.  We demonstrate this method with a simple example.
+
+EgyptGreedy[18/23]
+
+
+ 1  1  1    1
+{-, -, --, ----}
+ 2  4  31  2852
+
+
+That example was fairly well behaved; Wagon
+[Wag91]suggests trying this method on 31/311, which produces a representation with 10 terms, the maximum denominator having over 500 digits.  (As we will see later, other methods produce much better representations for 31/311.)
+
+We can easily modify our code to test the assertion that the numerators of the fractions remaining at each step do indeed decrease.
+
+EgyptGreedyNumerators[q_] :=
+    Numerator[Drop[FixedPointList[GreedyPart,q],-2]]
+
+
+EgyptGreedyNumerators[18/23]
+
+
+{18, 13, 3, 1}
+
+
+The Harmonic Method
+
+
+The greedy method treats the integer and fractional parts of a number differently.  Instead, we can always remove the largest unit fraction that is smaller than both x/y and the previously removed unit fraction, even if x/y is larger than one.  We treat this separately from the greedy method as it must be implemented somewhat differently ­ FixedPointList now needs two values, the remaining fraction and the bound on the denominator.  Once we have found the sequence of remaining fractions, we remove the denominator bounds by Transpose (faster than applying First to each member of the list) and subtract the shifted list from itself as before.  Our function takes two arguments, the first being the number we want to represent and the second being the largest denominator already included in the representation.  The same method can also be used to generate Egyptian fractions in which the first term is arbitrarily small, simply by supplying a large integer in the second argument.
+
+HarmonicPart[{0,d_}] := {0,d};
+HarmonicPart[{Rational[1,y_],d_}] := {0,d};
+HarmonicPart[{q_,d_}] :=
+    Max[d,1+Quotient[1,q]] //
+    {q-1/#,#+1} &;
+
+
+EgyptHarmonic[q_,d_] :=
+    Transpose[FixedPointList[HarmonicPart,{q,d}]][[1]] //
+    SubtractShifted
+
+
+The algorithm constructs a fragment of the harmonic series 1/2+1/3+1/4+1/5+... until this would produce a result larger than the original input, at which point the algorithm switches to the Greedy method for the remainder.  This switch must happen after at most Exp[O(x/y+Log d)] terms, because the Harmonic series diverges (the sum up to 1/k is roughly Log k).  Therefore the correctness of the algorithm follows from the same analysis we saw before.  However it may produce many more terms, with larger denominators, than the greedy method.  Each step at most squares the denominator, so when the switch happens, the denominator of the remaining fraction can be at most doubly exponentially small with respect to x/y, and the eventual number of terms is doubly exponential in x/y (singly exponential in d).  By the same analysis as the greedy algorithm, the largest denominator of the eventual representation is then at most quadruply exponential in x/y and triply exponential in d.  As for the greedy method, this is only the worst case, and we can expect in practice to see one fewer level of exponentials in both the number of terms and the largest denominator.  Even so, this algorithm tends to produce large representations.
+
+EgyptHarmonic[18/23,5]
+
+
+ 1  1  1  1  1  1    1      1
+{-, -, -, -, -, --, ---, --------}
+ 5  6  7  8  9  28  794  23010120
+
+
+
+The Odd Greedy Method
+
+
+Each x/y with y odd is known to have an Egyptian fraction representation in which each denominator is odd
+[Bre54,
+Ste54]. Conversely, if y is even, at least one of the terms in its representation must also be even.  The most straightforward method of finding an odd-denominator representation seems to be to modify the greedy method to only use odd denominators, but it is not known whether this really works.
+
+OddGreedyPart[{0,d_}] := {0,d};
+OddGreedyPart[{Rational[1,y_],d_}] := {0,d};
+OddGreedyPart[{q_,d_}] :=
+    Max[d,1+Quotient[1,q]] //
+    If[OddQ[#],#,#+1] & //
+    {q-1/#,#+1} &;
+
+EgyptOddGreedy[q_,d_:3] :=
+    Transpose[FixedPointList[OddGreedyPart,{q,d}]][[1]] //
+    SubtractShifted
+
+
+Unlike the greedy method, the numerators of the remaining fractions do not decrease at each step.
+There are two reasons: first, like the harmonic method, we use a parameter d to make sure that the fractions we generate are distinct; d is used until the series 1/3+1/5+1/7+1/9+... becomes larger than q, at which point it becomes unimportant, but in this stage the numerators will in general increase.  Second, whenever parity forces us to use a larger denominator than the greedy method, the denominator will again increase.  We now give an example with q<1/3 to demonstrate the second phenomenon.
+
+EgyptOddGreedyNumerators[q_,d_:3] :=
+    Transpose[FixedPointList[OddGreedyPart,{q,d}]][[1]] //
+    Numerator[Drop[#,-2]] &
+
+
+EgyptOddGreedy[10/39]
+
+
+ 1  1    1     1
+{-, --, ---, ------}
+ 5  19  265  196365
+
+
+EgyptOddGreedyNumerators[10/39]
+
+
+{10, 11, 14, 1}
+
+
+Proving whether this method always halts remains an important open problem in the theory of Egyptian fractions
+[Guy81,
+KW91]. A heuristic argument shows that the answer is likely to be positive.  After enough fractions have been generated for d to become unimportant, each step reduces the remaining fraction from some value x/y to a smaller fraction in which the numerator is between 1 and 2x-1.  If each successive numerator were randomly distributed in this range, we would expect to see the numerators decrease by a factor of Exp[Integrate[Log[x],{x,0,2}]/2] ~= 0.73576 per step.  Therefore we should expect the algorithm to produce roughly (Log n)/(1-Log 2) ~= 3.26 Log n unit fractions before halting, where n is the numerator of the remaining fraction at the point that d  becomes unimportant.  Of course nothing here is actually random, which is why this argument is not rigorous.  (Also it ignores the possibility that the numerator and denominator of the fraction remaining after some steps may have a common factor, but that only serves to reduce the number of terms.)  To test this argument, we compare it with the actual performance of our algorithm.
+
+TestOddGreedy[q_] :=
+	EgyptOddGreedyNumerators[q] //
+	ListPlot[Log[#]/(1-Log[2]),
+			 PlotJoined->True,
+			 AxesOrigin->{0,0}]&
+
+
+TestOddGreedy[1999999991/123412340001]
+
+
+
+Our code normalizes the vertical axis to match our heuristic prediction of the number of steps remaining.  At least for this example, the numerators seem to decrease much more quickly than our prediction, so the number of terms generated (15) is considerably smaller than the 70 we would expect.  It is also interesting to note the large drops made by the numerator in the third, seventh, and final steps.  A closer inspection reveals that these phenomena are due to cancellation between common factors of the numerators and denominators of intermediate terms: these three steps involve common factors of 63, 45, and 5739, and two other steps involve factors of three.
+It is not clear to me why such large cancellations should occur.
+Egyptian Fractions,
+Number Theory,
+David Eppstein,
+ICS,
+UC Irvine
+Formatted by
+nb2html and
+filter.
+Last update:
+.
+##------------------URL-------------------------##
+http://www.ics.uci.edu/~eppstein/numth/egypt/force.html
+##-----------------TITLE------------------------##
+null
+##------------------TEXT------------------------##
+Algorithms for Egyptian Fractions
+
+
+
+Brute Force Methods
+
+
+
+The Generalized Remainder Method
+
+
+This is closely related to the
+binary remainder method, and to similar methods cited in the discussion there.  We find a number p with many divisors, compute xp=qy+r, represent q and r as sums of divisors of p, and use these representations to expand x/y=q/p + r/yp.
+
+Here we assume a value p given by the user, and use a close-to-brute-force dynamic programming technique to represent numbers as sums of divisors of p.  We then use
+EgyptPairList because our technique does not necessarily avoid duplicate fractions (and because the chief goal here is to minimize the number of terms in the expansion).
+
+SumDivisors[n_,p_] :=
+	DivisorSums[n,p,
+				Table[If[p ~Mod~ i == 0, {{i}}, {}],{i,n}]];
+
+DivisorSums[n_,p_,t_] :=
+	If [t[[n]] != {}, t[[n]],
+		DivisorSums[n,p,ExtendDivTable[t,p,n]]];
+
+ExtendTableEntry[e_,d_] :=
+	Append[#,d]& /@
+	Select[e,Last[#] <= d&];
+	
+ExtendDivTable[t_,p_,n_] :=
+	Table[If[t[[i]] != {}, t[[i]],
+		  	 Join @@
+		  	 ( ExtendTableEntry[t[[i-#]],#]& /@
+		  	 Select[Divisors[p], #<i&] ) ],
+		  {i,n}]
+		  
+EgyptRemainder[Rational[x_,y_],p_] :=
+   Module[{r, s},
+           q = Quotient[x p, y];
+   		   r = Mod[x p, y];
+           EgyptPairList /@
+           OuterJoin[SumDivisors[q,p]/p,
+           			 SumDivisors[r,p]/(p*y)]];
+
+
+In general, the behavior of this algorithm depends on the number p, which should be chosen to have many divisors (factorials are reasonable choices), and to make q and r both small.  With a good choice this seems to be capable of generating very short representations, with reasonably small denominators.
+
+EgyptRemainder[31/311,252]
+
+
+  1   1    1     1      1   1    1      1
+{{--, --, ----, ----}, {--, --, ----, -----}, 
+  14  36  2799  8708    14  36  2177  78372
+ 
+   1   1    1     1      1   1    1      1
+  {--, --, ----, ----}, {--, --, ----, -----}}
+   12  63  2799  8708    12  63  2177  78372
+
+
+The Small Multiple Method
+
+
+If y is prime, then any representation of x/y must have some terms 1/ky.  In particular, the sum of these terms must be a/by where xb-a is divisible by y.  (From this we can quickly see that for some x, the denominators in any representation must be Omega[y log[y]]: each such combination a/b works for only one x so we need at least y different combinations to be available.)
+
+The idea behind the following method is simply to try all small combinations of terms until finding one cancelling the factor of y.  The result is a fraction which may well end up with a higher denominator than y, but likely has more divisors.
+
+If y is not prime, we first start by greedily removing fractions d/y where d is a divisor of y;
+the hope is that this step makes x sufficiently small that a smaller combination a/b will work.
+
+Once we have found a combination that works, we are likely to have a denominator with many more divisors, so we apply some other method better suited to that case (here, the
+small-denominator reverse greedy method) rather than continuing recursively.
+
+Subsets[s_] :=
+	Flatten /@ Distribute[{{},{#}}& /@ s, List,List];
+
+ESMGoodFrac[Rational[a_,b_],x_,y_] :=
+	(x*b - a) ~Mod~ y == 0;
+	
+ESMSubset[x_,y_,i_] :=
+	Select[Subsets[Table[1/j,{j,i}]],
+		   ESMGoodFrac[Plus@@#,x,y]&];
+		   
+ESMFind[x_,y_,i_] :=
+	If[# == {}, ESMFind[x,y,i+1], #]& @
+	ESMSubset[x,y,i];
+
+ESMFrac[x_,y_] :=
+	 Join[EgyptSmallDen[x/y - Plus@@#], #]& /@
+	 (ESMFind[x,y,1] / y);
+
+EgyptSmallMult[Rational[x_,y_]] :=
+	Reverse[Sort[#]]& /@ ESMFrac[x,y];
+
+
+It is not clear whether all terms in the representation produced by this method are distinct. However it seems to produce good results in practice for moderate inputs.  If y is prime, and this method produces a correct representation in which the largest denominator is divisible by y, it will be the representation with the minimum possible denominator.
+
+EgyptSmallMult[31/311]
+
+
+  1   1   1    1    1     1     1     1
+{{--, --, --, ---, ----, ----, ----, ----}, 
+  28  30  36  933  1555  2177  2799  3110
+ 
+   1   1    1    1     1     1     1
+  {--, --, ---, ----, ----, ----, ----}}
+   15  36  311  1244  1866  2799  3110
+
+
+
+The Short Sequence Method
+
+
+This method, proposed by Stewart
+[Ste92], is based on the following idea.  If we are looking for any Egyptian fraction representation for q,
+1/u + 1/v + ..., then each term must of course be no larger than q itself; so u >= 1/q.  However if the terms are in sorted order u > v > ..., and there are a total of k terms, then the largest term 1/u must be at least q/k.  So this gives upper and lower bounds for u; we simply try all possibilities and continue recursively.  (In the recursive call we have a further bound on the fractions from the assumption that they are generated in sorted order.)  Incidentally, since we have a k-level recursion, and each call generates a finite number of recursive calls, the whole call tree must be finite and there are only finitely many k-term representations of q.
+
+To make this method less slow (and perhaps even more important, to make it use less memory), we speed up the case for k=2.  We wish to solve the equation x/y=1/a + 1/b; this can be rewritten (ax-y)(bx-y)=y^2, and letting the two factors of y^2 be r and s we can solve a=(r+y)/x, b=(s+y)/x.  We try all factors r of y^2 for which r<y and collect the ones that make a,b integers.
+(Note that if a is an integer, b must also be an integer, so we only need one test.)
+
+EgyptTwoTerm[Rational[x_,y_],minden_,preplist_] :=
+	Join[preplist,{x/#,x(#-y)/(y #)}]& /@
+	Select[ y + Take[#,Quotient[Length[#],2]]& @ Divisors[y^2],
+			Mod[#,x]==0 && # >= minden*x & ]
+
+
+EgyptShort[q_,k_] := EShortRecur[q,k,1,{}];
+EShortRecur[q_,k_,b_,a_] :=
+	If [q == 0, {a},
+	If [k <= 2, EgyptTwoTerm[q, b, a],
+		Join @@
+		Table[EShortRecur[q-1/i,k-1,i+1,Append[a,1/i]],
+			  {i,Max[b,Ceiling[1/q]],Floor[k/q]}]]];
+
+
+This method is quite slow, taking four minutes on my Powerbook 540c to solve the following example.
+A C++ version that I also coded up performs much more quickly ("solving" the same problem in less than a minute) but because it is less careful than Mathematica about arithmetic overflow it gets the wrong answers.
+
+EgyptShort[31/311,4]
+
+
+  1    1     1       1        1    1     1       1
+{{--, ---, -----, --------}, {--, ---, -----, -------}, 
+  11  115  13570  46422970    11  115  13662  1931310
+ 
+   1    1     1       1       1    1    1       1
+  {--, ---, -----, -------}, {--, ---, ----, --------}, 
+   11  115  13684  1573660    11  116  6728  23016488
+ 
+   1    1    1      1       1    1    1      1
+  {--, ---, ----, ------}, {--, ---, ----, ------}, 
+   11  116  6842  396836    11  118  3421  403678
+ 
+   1    1    1      1       1   1    1       1
+  {--, ---, ----, ------}, {--, --, ----, --------}, 
+   11  119  2772  190332    12  62  4628  66927822
+ 
+   1   1    1      1       1   1    1      1
+  {--, --, ----, ------}, {--, --, ----, ------}, 
+   12  62  4650  964100    12  62  4665  578460
+ 
+   1   1    1      1       1   1    1      1
+  {--, --, ----, ------}, {--, --, ----, ------}, 
+   12  62  4743  190332    12  63  2124  770658
+ 
+   1   1    1      1       1   1    1      1
+  {--, --, ----, ------}, {--, --, ----, -----}, 
+   12  63  2142  190332    12  63  2177  78372
+ 
+   1   1    1     1      1   1    1      1
+  {--, --, ----, ----}, {--, --, ----, ------}, 
+   12  63  2799  8708    12  64  1392  577216
+ 
+   1   1    1     1       1   1    1     1
+  {--, --, ---, ------}, {--, --, ---, -----}, 
+   12  68  612  190332    12  68  622  31722
+ 
+   1   1    1      1       1   1    1     1
+  {--, --, ---, -------}, {--, --, ---, ------}, 
+   12  69  540  1931310    12  72  408  190332
+ 
+   1   1    1     1       1   1    1      1
+  {--, --, ---, ------}, {--, --, ---, -------}, 
+   12  78  284  287053    12  86  212  4252614
+ 
+   1    1    1     1       1    1    1     1
+  {--, ---, ---, ------}, {--, ---, ---, ------}, 
+   12  102  153  190332    12  119  126  190332
+ 
+   1   1     1        1        1   1     1        1
+  {--, --, -----, ---------}, {--, --, -----, ---------}, 
+   13  44  35580  791174670    13  44  35581  486890404
+ 
+   1   1     1       1        1   1     1       1
+  {--, --, -----, --------}, {--, --, -----, --------}, 
+   13  44  35596  71957314    13  44  35607  44295108
+ 
+   1   1     1       1        1   1     1       1
+  {--, --, -----, --------}, {--, --, -----, --------}, 
+   13  44  35620  30464005    13  44  35646  18760764
+ 
+   1   1     1       1       1   1     1       1
+  {--, --, -----, -------}, {--, --, -----, -------}, 
+   13  44  35772  6573918    13  44  35893  4059172
+ 
+   1   1     1       1       1   1     1       1
+  {--, --, -----, -------}, {--, --, -----, -------}, 
+   13  44  36036  2801799    13  44  36076  2579434
+ 
+   1   1     1       1       1   1     1       1
+  {--, --, -----, -------}, {--, --, -----, -------}, 
+   13  44  36322  1737868    13  44  36387  1601028
+ 
+   1   1     1      1       1   1     1      1
+  {--, --, -----, ------}, {--, --, -----, ------}, 
+   13  44  40612  287053    13  44  41052  266838
+ 
+   1   1     1      1       1   1     1      1
+  {--, --, -----, ------}, {--, --, -----, ------}, 
+   13  44  43758  190332    13  44  44473  177892
+ 
+   1   1     1      1       1   1     1      1
+  {--, --, -----, ------}, {--, --, -----, -----}, 
+   13  44  48516  133419    13  44  56602  95788
+ 
+   1   1    1     1       1   1    1      1
+  {--, --, ---, ------}, {--, --, ----, ------}, 
+   13  52  284  287053    14  36  2124  770658
+ 
+   1   1    1      1       1   1    1      1
+  {--, --, ----, ------}, {--, --, ----, -----}, 
+   14  36  2142  190332    14  36  2177  78372
+ 
+   1   1    1     1      1   1   1      1
+  {--, --, ----, ----}, {--, --, --, -------}, 
+   14  36  2799  8708    15  54  69  1931310
+ 
+   1   1    1       1        1   1    1       1
+  {--, --, ----, --------}, {--, --, ----, --------}, 
+   16  27  7072  59383584    16  27  7074  17600112
+ 
+   1   1    1      1       1   1    1      1
+  {--, --, ----, ------}, {--, --, ----, ------}, 
+   16  27  7344  190332    16  27  7464  134352
+ 
+   1   1    1      1      1   1    1      1
+  {--, --, ----, -----}, {--, --, ---, --------}, 
+   16  27  8397  44784    16  28  683  23790256
+ 
+   1   1    1     1      1   1    1      1
+  {--, --, ---, -----}, {--, --, ----, ------}, 
+   16  28  688  93611    18  23  1555  643770
+ 
+   1   1    1      1       1   1    1     1
+  {--, --, ----, ------}, {--, --, ---, ------}, 
+   18  23  1564  190332    18  24  408  190332
+ 
+   1   1    1     1       1   1   1     1
+  {--, --, ---, ------}, {--, --, --, ------}}
+   18  28  119  190332    18  34  68  190332
+
+
+Many of these expansions could have also been obtained by EgyptRemainder, using the following numbers as bases:
+
+Union[((LCM@@ Denominator/@ #) / 311)& /@ %]
+
+
+{204, 252, 432, 572, 612, 1224, 1276, 1298, 1716, 1860, 
+ 
+  2070, 3692, 4004, 4284, 4816, 5060, 5148, 5568, 6210, 
+ 
+  7344, 9300, 11076, 12420, 14076, 14868, 16588, 18972, 
+ 
+  27348, 36036, 40612, 47124, 56592, 68310, 72644, 74008, 
+ 
+  76496, 87516, 142428, 143572, 149270, 190944, 391820, 
+ 
+  430404, 462748, 465036, 784212, 1565564, 5087940}
+
+
+However some (for instance 2070) do not work.
+Egyptian Fractions,
+Number Theory,
+David Eppstein,
+ICS,
+UC Irvine
+Formatted by
+nb2html and
+filter.
+Last update:
+.
+##------------------URL-------------------------##
+http://www.ics.uci.edu/~eppstein/ca/replicators/index.html
+##-----------------TITLE------------------------##
+Cellular Automata: Replicators
+##------------------TEXT------------------------##
+Cellular Automata: Replicators
+
+A replicator is usually defined as a cellular automaton
+pattern which can make copies of itself. This definition is
+somewhat vague, but there are so few examples known that it would
+be unhelpful to try to be more precise. Replicators are interesting
+not only in themselves, but because they can be used to build many
+other types of patterns: high-period oscillators, glider guns,
+puffers and spaceships, and pseudo-random number generators. 
+
+Most replicators work accoding to a parity rule: there is
+a (usually one-dimensional) grid of possible replicator positions,
+such that, if replicators are placed at certain grid positions,
+they produce new replicators at the positions with an odd number of
+replicators in neighboring cells. If the grid positions are spaced
+k units apart, and the period (number of generations between each
+replication) is p, then the resulting pattern of oscillators
+expands at a speed of kc/p, with a sawtooth growth rate in
+which the number of active cells repeatedly increases to linear (or
+quadratic, for two dimensional grids) then decreases to a constant.
+The minima of the number of active cells occur at generations that
+are powers of two times the period.
+
+Parity-rule replicators are fairly common in rules with B1
+(birth on a single neighbor, in standard
+semitotalistic notation), but those rules are not very
+interesting because any pattern quickly grows to infinity in all
+directions, so gliders, oscillators, and similar structures are
+impossible. The more interesting rules are those with B0, B2 or B3, in
+which gliders are possible (and many gliders are
+known). Among these rules, only the following replicators are
+known:
+
+
+B013456/S12356 4c/4 replicatorB013456/S2 3c/6 replicatorB0134567/S0124 5c/10 replicatorB013567/S01 7c/14 replicatorB01357/S012 3c/6 replicator breederB01357/S0123 2c/6 replicatorB013578/S0123 6c/20 replicatorB0136/S123 9c/30 replicatorB01367/S01 10c/20 replicatorB01367/S012 10c/20 and 11c/22 replicatorsB01367/S0124 4c/8 two-dimensional replicatorB013678/S1 4c/8 replicatorB01368/S03 5c/10 replicatorB017/S12 4c/8 replicatorB01378/S123 9c/26
+    replicatorB0145/S01235 4c/8 replicatorB01468/S02 9c/20 replicatorB0147/S1 c/2 replicatorB015/S0 6c/12 replicatorB016/S12 6c/12 replicatorB016/S123 6c/16 replicatorB017/S016 3c/4 replicatorB017/S1 7c/14 replicatorB02/S4 5c/10 replicatorB024/S013 10c/20 replicatorB02345/S01235 4c/8 replicatorB02345/S023 5c/10 replicatorB023458/S023 9c/18 replicatorB02346/S023 (1,2)c/4 replicatorB02346/S13 4c/8 replicatorB02347/S0 3c/12 replicatorB0235/S0 multiple replicatorsB0235/S23 4c/8 diagonal replicatorB02356/S34 6c/12 diagonal replicatorB0236/S0123 4c/10 replicatorB0236/S1 2c/4 diagonal replicatorB0236/S124 2c/4 diagonal replicatorB0237/S0234 3c/8 replicatorB024/S013 10c/20 replicatorB0246/S1234 4c/10 replicatorB025/S05 4c/4 two-dimensional replicatorB026/S12 2c/4 diagonal replicatorB0267/S3 3c/6 replicatorB04/S2 c/2 diagonal replicatorB2/S13 3c/3 replicatorB25/S4 3c/3 replicatorB34/S0235 2c/4 replicatorB3568/S2347 2c/4 replicatorB357/S3458 5c/15 replicatorB3578/S23 4c/12 two-dimensional replicatorB358/S23467 4c/11 replicatorB36/S124 c/2 replicatorB36/S23 (HighLife) 2c/12 diagonal replicatorB36/S245 replicatorB368/S12578 4c/13 replicatorB37/S345 6c/35 replicator
+
+It is believed that B3/S23
+(Conway's Life) and B35/S236
+also support replicators due to construction universality, but
+explicit replicators for those rules have not been constructed.
+
+
+Cellular Automata -- D. Eppstein -- UCI Inf. & Comp.
+Sci.
