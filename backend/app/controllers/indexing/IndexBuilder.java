@@ -9,7 +9,9 @@ import java.io.ObjectOutputStream;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.Map;
+import java.util.Set;
 
 
 public class IndexBuilder {
@@ -139,23 +141,40 @@ public class IndexBuilder {
     }
 
 	public void buildScore(int totalDocs) throws IOException{
+		Map<Integer, String[]> urlMap = readURL_Map('$');//==================
     	for(char i = '0'; i <= '9';i++) { 
-    		buildScoreForAMap(i,totalDocs);
+    		buildScoreForAMap(i,totalDocs,urlMap);//==================
     	}
     	for(char i = 'a'; i <= 'z';i++) {
-    		buildScoreForAMap(i,totalDocs);
+    		buildScoreForAMap(i,totalDocs,urlMap);//==================
     	}
 	}
-	private void buildScoreForAMap(char prefix, int totalDocs) throws IOException{
+	private void buildScoreForAMap(char prefix, int totalDocs,Map<Integer, String[]> urlMap ) throws IOException{//==================
+		
 		HashMap<String, Posting> table = readMap(prefix);
 		double idf;
 		for(String i:table.keySet()){//term
 			idf=Math.log10(((double)totalDocs)/((double)table.get(i).posting.size()));
 			for(int j : table.get(i).posting.keySet()){//doc id
-				table.get(i).posting.get(j).score=(1+Math.log10(table.get(i).posting.get(j).postionInDoc.size()))*idf;				
+				double url_title_socre=scoreFor_Title_URL(i,urlMap.get(j));//==================
+				table.get(i).posting.get(j).score=(1+Math.log10(table.get(i).posting.get(j).postionInDoc.size()))*idf+url_title_socre;	//==================			
 			}
 		}
 		storeMap(table,prefix);
 	}
+	private double scoreFor_Title_URL(String term, String[] url_title){
+		double score=0; 
+		Set<String> url_terms = new HashSet<>();;  
+		Set<String> title_terms = new HashSet<>();;  ;  
+		url_terms.addAll(tokenizeFile(url_title[0]));
+		title_terms.addAll(tokenizeFile(url_title[1]));
+		if (url_terms.contains(term))
+			score+=3;	//======================================================================score for url
+		if (title_terms.contains(term))
+			score+=4;	//======================================================================score for title
+		return score;
+				
+	}
+	
 	
 }

@@ -7,12 +7,19 @@ import java.io.ObjectOutputStream;
 import java.io.FileReader;
 import java.io.IOException;
 import java.lang.ClassNotFoundException;
+import java.net.URLDecoder;
+import java.net.URLEncoder;
 import java.io.ObjectInputStream;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.TreeMap;
+
+import org.jsoup.Jsoup;
+import org.jsoup.nodes.Element;
+import org.jsoup.select.Elements;
+
 import java.util.Set;
 import java.util.Collections;
 import java.util.PriorityQueue;
@@ -83,15 +90,20 @@ public class Search extends Controller{
         }
         return result;
     }
-    public Result search(String query) throws IOException, ClassNotFoundException{
-        System.out.println("################ received query " + query);
+    public Result search(String query)  throws IOException,Exception, ClassNotFoundException{
+    	System.out.println("################ received query " + query);
+    	
+    	//Google result:
+    	Map<String,Double> googleResult = fetchGoogle(query); 
+    	
+    	//Our result:
         PriorityQueue<ScoredDoc> docs = searchHelper(query);
     	Map<Integer,String[]> URL_Title_table = readURL_Map();
 
         String[] title;
         String[] url;
         String[] content;
-
+        
         if (docs != null) {
             numOfResults = docs.size();
             title = new String[numOfResults];
@@ -99,12 +111,28 @@ public class Search extends Controller{
             content = new String[numOfResults];
             int i = numOfResults - 1;
             Integer docID;
+            
+            double perfect_DCG5=perfect_DCG5();
+            double nDCG5=0.0;
             while(docs.size() > 0){
                 ScoredDoc sd = docs.poll();
                 docID = sd.docID;
                 title[i] = URL_Title_table.get(docID)[1];
                 url[i] = URL_Title_table.get(docID)[0];
-                content[i] = "docID: " + docID.toString() + " score: " + sd.score;
+                content[i] = "URL: "+ url[i] + " Score: " + sd.score;
+                if (i<5){//calc ndcg5
+                	double rel=0;
+                	if(googleResult.containsKey(url[i])) 
+                		rel=googleResult.get(url[i]);
+                	if (i==0){
+                		nDCG5 += rel/perfect_DCG5;
+                		content[i] = "URL: "+ url[i] + " Score: " + sd.score+"  NDCG@5: " + nDCG5;
+                		System.out.println("NDCG@5="+nDCG5);
+                	}else{
+                    	nDCG5 += (rel/(Math.log((double)i+1.0)/Math.log(2.0)))/perfect_DCG5;
+                    }
+                	
+                }
                 i --;
             }
         } else {
@@ -139,5 +167,45 @@ public class Search extends Controller{
             System.out.println("in readURL_Map exception");
         }
    		return mapInFile;
+	}
+	
+	public Map<String, Double> fetchGoogle(String query) throws Exception {
+		Map<String,Double> scoreResult = new HashMap<>(); 
+		
+		String google = "http://www.google.com/search?q=";
+		String search = query+" site:ics.uci.edu";
+		String charset = "UTF-8";
+		String userAgent = "Student_from_uci (+http://www.ics.uci.edu/robots)"; // Change this to your company's name and bot homepage!
+
+		Elements links = Jsoup.connect(google + URLEncoder.encode(search, charset)+"&num=40").userAgent(userAgent).get().select(".g>.r>a");
+		
+		double i=1;
+		for (Element link : links) {
+			if(i>=11)
+				break;
+		    String title = link.text();
+		    String url = link.absUrl("href"); // Google returns URLs in format "http://www.google.com/url?q=<url>&sa=U&ei=<someKey>".
+		    url = URLDecoder.decode(url.substring(url.indexOf('=') + 1, url.indexOf('&')), "UTF-8");
+
+		    if (!url.startsWith("http")) {
+		        continue; // Ads/news/etc.
+		    }
+		    if (url.endsWith("php")||url.endsWith("pdf")||url.endsWith("ppt")) {
+		        continue; 
+		    }
+		    
+		    scoreResult.put(url, (11.0-i));
+		    System.out.println("Title: " + title);
+		    System.out.println("URL: " + url);
+		    i++;
+		}
+		return scoreResult;
+	}
+	public double perfect_DCG5 (){
+		double perfect_DCG5=10;
+		for (double i=2; i<=5; i++){
+			perfect_DCG5+=(11.0-i)/(Math.log(i)/Math.log(2.0));
+		}
+		return perfect_DCG5;
 	}
 }
