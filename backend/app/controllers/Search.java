@@ -84,9 +84,6 @@ public class Search extends Controller{
         Set<Integer> docIDs = docIdToScore.keySet();
         PriorityQueue<ScoredDoc> result = new PriorityQueue<>();
         for(Integer docID: docIDs) {
-        	//=============================================================
-        	 
-        	//=============================================================
         	
             ScoredDoc sd = new ScoredDoc(docID, authorityScore(URL_Title_table.get(docID),docIdToScore.get(docID)));
             if(result.size() == numOfResults) {
