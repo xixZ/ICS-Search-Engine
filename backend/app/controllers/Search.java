@@ -70,9 +70,9 @@ public class Search extends Controller{
                 for (Integer docID : docIDs) {
                     Double score = docIdToScore.get(docID);
                     if (score == null) {
-                        docIdToScore.put(docID, (pos.get(docID)).score);
+                        docIdToScore.put(docID, (pos.get(docID)).score + 5);
                     } else {
-                        docIdToScore.put(docID, score + (pos.get(docID)).score);
+                        docIdToScore.put(docID, score + (pos.get(docID)).score + 5);
                     }
                 }
             }
