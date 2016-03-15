@@ -55,6 +55,8 @@ public class Search extends Controller{
      * @return A treeMap which maps score to docID
      */
     private PriorityQueue<ScoredDoc> searchHelper(String query) throws IOException, ClassNotFoundException{
+    	
+
         String[] keyWords = (query.toLowerCase()).split("[^a-zA-Z0-9]");
         if(keyWords.length == 0)
             return null;
@@ -77,10 +79,16 @@ public class Search extends Controller{
                 }
             }
         }
+        Map<Integer,String[]> URL_Title_table = readURL_Map();//==========================================
+        
         Set<Integer> docIDs = docIdToScore.keySet();
         PriorityQueue<ScoredDoc> result = new PriorityQueue<>();
         for(Integer docID: docIDs) {
-            ScoredDoc sd = new ScoredDoc(docID, docIdToScore.get(docID));
+        	//=============================================================
+        	 
+        	//=============================================================
+        	
+            ScoredDoc sd = new ScoredDoc(docID, authorityScore(URL_Title_table.get(docID),docIdToScore.get(docID)));
             if(result.size() == numOfResults) {
                 if (sd.score > result.peek().score) {
                     result.poll();
@@ -92,6 +100,14 @@ public class Search extends Controller{
         }
         return result;
     }
+    public double authorityScore(String URL_tilte[], double score){
+    	double slashNumber = (double)(URL_tilte[0].length() - URL_tilte[0].replace("/", "").length());
+    	score=score/Math.sqrt(slashNumber);
+    	if(URL_tilte[1].contains("UCI")||URL_tilte[1].contains("University of California, Irvine"))
+    		score+=1.0;
+    	return score;
+    }
+    
     public Result search(String query)  throws IOException,Exception, ClassNotFoundException{
     	System.out.println("################ received query " + query);
     	

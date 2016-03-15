@@ -169,9 +169,9 @@ public class IndexBuilder {
 		url_terms.addAll(tokenizeFile(url_title[0]));
 		title_terms.addAll(tokenizeFile(url_title[1]));
 		if (url_terms.contains(term))
-			score+=3;	//======================================================================score for url
+			score+=1.8;	//======================================================================score for url
 		if (title_terms.contains(term))
-			score+=4;	//======================================================================score for title
+			score+=2.5;	//======================================================================score for title
 		return score;
 				
 	}
