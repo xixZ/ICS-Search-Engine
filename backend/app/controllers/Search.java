@@ -53,18 +53,20 @@ public class Search extends Controller{
             return null;
         HashMap<Integer, Double> docIdToScore = new HashMap<>();    //docID -> score
         for(String keyWord: keyWords) {
-            HashMap<String, Posting> invertedIndex = readMap(keyWord.charAt(0));
-            Posting postingObj = invertedIndex.get(keyWord);
-            if (postingObj == null)
-                continue;
-            Map<Integer, ScoreNPosition> pos = postingObj.posting;
-            Set<Integer> docIDs = pos.keySet();
-            for(Integer docID: docIDs){
-                Double score = docIdToScore.get(docID);
-                if (score == null){
-                    docIdToScore.put(docID, (pos.get(docID)).score);
-                } else{
-                   docIdToScore.put(docID, score + (pos.get(docID)).score);
+            if(keyWord.length() != 0) {
+                HashMap<String, Posting> invertedIndex = readMap(keyWord.charAt(0));
+                Posting postingObj = invertedIndex.get(keyWord);
+                if (postingObj == null)
+                    continue;
+                Map<Integer, ScoreNPosition> pos = postingObj.posting;
+                Set<Integer> docIDs = pos.keySet();
+                for (Integer docID : docIDs) {
+                    Double score = docIdToScore.get(docID);
+                    if (score == null) {
+                        docIdToScore.put(docID, (pos.get(docID)).score);
+                    } else {
+                        docIdToScore.put(docID, score + (pos.get(docID)).score);
+                    }
                 }
             }
         }
